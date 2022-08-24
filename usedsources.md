@@ -74,8 +74,9 @@ Additionally: missing subdomains
 47. hosts - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 48. hosts - https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 49. adblock - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
-50. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
-51. domains - light.txt
+50. domains - https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+51. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+52. domains - light.txt
 
 Additionally: missing subdomains
 
@@ -153,22 +154,23 @@ Additionally: missing subdomains
 61. hosts - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 62. hosts - https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 63. adblock - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
-64. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
-65. domains - https://dbl.oisd.nl/
-66. hosts - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-67. hosts - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-68. dnsmasq - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-69. domains - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-70. hosts - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
-71. adblock - https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
-72. domains - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-73. domains - black.list.additional
-74. domains - personal.txt
-75. domains - fake.txt
-76. domains - light.txt
-77. domains - multi.txt
-78. domains - pro.txt
-79. domains - tif.txt
+64. domains - https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+65. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+66. domains - https://dbl.oisd.nl/
+67. hosts - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+68. hosts - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+69. dnsmasq - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
+70. domains - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+71. hosts - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+72. adblock - https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+73. domains - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+74. domains - black.list.additional
+75. domains - personal.txt
+76. domains - fake.txt
+77. domains - light.txt
+78. domains - multi.txt
+79. domains - pro.txt
+80. domains - tif.txt
 
 Additionally: missing subdomains
 
