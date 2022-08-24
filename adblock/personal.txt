@@ -4,12 +4,11 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 24 Aug 2022 09:34 UTC
-! Version: 2022.0824.0934.24
+! Last modified: 24 Aug 2022 18:31 UTC
+! Version: 2022.0824.1831.30
 ! Syntax: AdBlock
-! Domains: 210
+! Domains: 178
 !
-||302br.net^
 ||53244ds.xyz^
 ||7e1e8f3eba.com^
 ||997ad.xyz^
@@ -23,12 +22,10 @@
 ||cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com^
 ||prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com^
 ||prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com^
-||sentry-nlb-e70282e8a06dcc98.elb.us-east-1.amazonaws.com^
 ||amp.analytics-debugger.com^
 ||app-measurement.com^
 ||track.applicaster.com^
 ||serverside-tracking.ew.r.appspot.com^
-||sentry.avira.net^
 ||adv-cloudfilse.azureedge.net^
 ||cdnnwlive.azureedge.net^
 ||fp-cdn.azureedge.net^
@@ -37,13 +34,11 @@
 ||sdtagging.azureedge.net^
 ||app-fnsp-matomo-analytics-prod.azurewebsites.net^
 ||live-tfs-omnilytics.azurewebsites.net^
-||sentry.babydev.de^
 ||analytics.bestofluck.io^
 ||analytics.bfops.io^
 ||photos1.blogger.com^
 ||analytics.bomiv.com^
 ||borrelioseweb.de^
-||sentry.brandung-dev.de^
 ||cdn.braze.eu^
 ||metrics.brightcove.com^
 ||pixel.bsmartdata.com^
@@ -58,7 +53,6 @@
 ||event-tracking-services.global.commerce-connector.com^
 ||metrics.cottonbird.de^
 ||firebase-settings.crashlytics.com^
-||sentry.deepl.com^
 ||trx.dgtrk2.com^
 ||smetrics.dhl.de^
 ||googleads.g.doubleclick.net^
@@ -74,8 +68,6 @@
 ||analytics.el-pato.de^
 ||analytics-ingestion-prod.x8um6iuan5.eu-central-1.elasticbeanstalk.com^
 ||mobile-events.eservice.emarsys.net^
-||emltrk.com^
-||sentry.eneba.com^
 ||epagogerepines.com^
 ||trackers.peerius.episerver.networking^
 ||tracking.ernstings-family.de^
@@ -95,20 +87,18 @@
 ||googleoptimize.com^
 ||googlesyndication.com^
 ||gotrackier.com^
-||tech-sentry.harpersbazaar.de^
 ||svc-2-analytics-usf.hotyon.com^
 ||hpanalytics.net^
 ||hutters.click^
 ||metrics.icloud.com^
 ||analytics.idfnet.net^
-||sentry.idnow.de^
 ||tracker.ihk-muenchen.de^
 ||instabug.com^
 ||irqs.ioam.de^
 ||isthereanythingleft.com^
 ||jadeepso.net^
 ||tracking.kadewe.de^
-||sentry-hq.kavosdraugas.lt^
+||kameleoon.eu^
 ||kirchenaustritt24.de^
 ||klclick2.com^
 ||sanalytics.ksta.de^
@@ -130,7 +120,6 @@
 ||metric-api.newrelic.com^
 ||nextleveltracking.eu^
 ||nonfattoplike.com^
-||sentry-api.nwse.io^
 ||trk.ometria.com^
 ||cdn.opecloud.com^
 ||analytics-ingestion.pbpms.de^
@@ -139,7 +128,6 @@
 ||analytics-cdn.prensaiberica.es^
 ||proxyrarbg.org^
 ||emirates-app.quantummetric.com^
-||qwo231sdx.club^
 ||rarbg2018.org^
 ||rarbg2019.org^
 ||rarbgaccess.org^
@@ -174,30 +162,12 @@
 ||selfishsnake.com^
 ||tmptrk.sensic.net^
 ||trk.sensic.net^
-||o108982.ingest.sentry.io^
-||o1204820.ingest.sentry.io^
-||o1248831.ingest.sentry.io^
-||o211375.ingest.sentry.io^
-||o22381.ingest.sentry.io^
-||o38419.ingest.sentry.io^
-||o441978.ingest.sentry.io^
-||o472398.ingest.sentry.io^
-||o494922.ingest.sentry.io^
-||o549342.ingest.sentry.io^
-||o58632.ingest.sentry.io^
-||o814246.ingest.sentry.io^
-||o925052.ingest.sentry.io^
-||o99668.ingest.sentry.io^
-||disney.my.sentry.io^
 ||fgn.cdn.serverable.com^
 ||sparta-tracking.xyz^
-||sentry.sport1dev.de^
 ||sqrt-5041.de^
 ||stiffgame.com^
 ||superficialeyes.com^
-||teradatadmc.com^
 ||analytics.tfm.rocks^
-||sentry.thalia.de^
 ||analytics.ticketmaster.be^
 ||tracify.ai^
 ||trackhit.net^
@@ -212,10 +182,8 @@
 ||prd-lender.cdp.internal.unity3d.com^
 ||useonlin.com^
 ||analytics.wasserstand-niederoesterreich.at^
-||sentry.wdo.io^
 ||track.production.webgains.team^
 ||webroutetrk.com^
-||sentry.wixpress.com^
 ||bo-tracking.zettle.com^
 ||zodertracker.com^
 ||cdn.zomap.de^
