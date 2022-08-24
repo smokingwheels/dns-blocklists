@@ -5,6 +5,7 @@
 @@||aax-*-retail-direct.amazon-adsystem.com^
 @@||aax-*-retail-direct.amazon.com^
 @@||action.metaffiliation.com^
+@@||ad4.adfarm1.adition.com^
 @@||ad.atdmt.com^
 @@||adclick.g.doubleclick.net^
 @@||ad.doubleclick.net^

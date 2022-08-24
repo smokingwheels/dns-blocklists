@@ -52,6 +52,7 @@ unagi.amazon.in
 unagi.amazon.it
 # CNAME fls-*.amazon.com
 gateway.prod.*.forester.a2z.com
+endpoint.prod.*.forester.a2z.com
 
 # Amazon App
 mads-*.amazon.com
@@ -232,18 +233,35 @@ gitlab.com
 *.gstaticadssl.l.google.com
 ampcid.google.com
 ampcid.google.de
+analyticsinsights-pa.googleapis.com
+analyticssearch-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 clientservices.googleapis.com
 connectivitycheck.gstatic.com
+device-provisioning.googleapis.com
 feedburner.google.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
 fonts.gstatic.com
 fundingchoicesmessages.google.com
+geller-pa.googleapis.com
+geomobileservices-pa.googleapis.com
 id.google.com
 id.google.de
 imasdk.googleapis.com
+mobilecrashreporting.googleapis.com
+padlet-uploads.storage.googleapis.com
 people-pa.googleapis.com
+playmoviesdfe-pa.googleapis.com
 safebrowsing.google.com
 safebrowsing.googleapis.com
+semanticlocation-pa.googleapis.com
+userlocation.googleapis.com
+# Not used for tracking, metrics, analytics
+*.metric.gstatic.com
 
 # Gaming
 *.epicgames.com
@@ -427,6 +445,9 @@ videos.porndig.com
 *.ytimg.com
 # Search history
 s.youtube.com
+
+# Zoom
+logfiles.zoom.us
 
 # ------------------------------------------------
 
@@ -995,4 +1016,28 @@ track24.ru
 
 # twitchy.com
 twitchy.com
+
+# IX
+ix.de
+
+# kamibox.de
+kamibox.de
+
+# china-gadgets.de
+china-gadgets.de
+
+# eterna.de
+eterna.de
+
+# ihreapotheken.de
+ihreapotheken.de
+
+# ad-magazin.de
+ad-magazin.de
+
+# homepage-baukasten.de
+homepage-baukasten.de
+
+# Videos on tvspielfilm.de
+cmp.tvspielfilm.de
 
