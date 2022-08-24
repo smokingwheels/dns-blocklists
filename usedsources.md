@@ -75,8 +75,7 @@ Additionally: missing subdomains
 48. hosts - https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 49. adblock - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 50. domains - https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
-51. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
-52. domains - light.txt
+51. domains - light.txt
 
 Additionally: missing subdomains
 
@@ -84,7 +83,8 @@ Additionally: missing subdomains
 ### PRO
 ```
 1. domains - https://dbl.oisd.nl/
-2. domains - multi.txt
+2. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+3. domains - multi.txt
 
 Additionally: missing subdomains
 
@@ -155,8 +155,8 @@ Additionally: missing subdomains
 62. hosts - https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 63. adblock - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 64. domains - https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
-65. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
-66. domains - https://dbl.oisd.nl/
+65. domains - https://dbl.oisd.nl/
+66. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
 67. hosts - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 68. hosts - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 69. dnsmasq - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
