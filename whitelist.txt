@@ -993,3 +993,6 @@ tracker.gg
 # track24.ru
 track24.ru
 
+# twitchy.com
+twitchy.com
+
