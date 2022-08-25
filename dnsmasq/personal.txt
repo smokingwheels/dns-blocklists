@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 24 Aug 2022 18:40 UTC
-# Version: 2022.0824.1840.37
+# Last modified: 25 Aug 2022 01:18 UTC
+# Version: 2022.0825.0118.09
 # Syntax: DNSMasq
-# Domains: 181
+# Domains: 182
 #
 address=/53244ds.xyz/#
 address=/7e1e8f3eba.com/#
@@ -170,6 +170,7 @@ address=/sparta-tracking.xyz/#
 address=/sqrt-5041.de/#
 address=/stiffgame.com/#
 address=/superficialeyes.com/#
+address=/symplr.de/#
 address=/analytics.tfm.rocks/#
 address=/analytics.ticketmaster.be/#
 address=/tracify.ai/#

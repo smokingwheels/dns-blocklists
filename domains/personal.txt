@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 24 Aug 2022 18:40 UTC
-# Version: 2022.0824.1840.37
+# Last modified: 25 Aug 2022 01:18 UTC
+# Version: 2022.0825.0118.09
 # Syntax: Domains
-# Domains: 254
+# Domains: 256
 #
 53244ds.xyz
 www.53244ds.xyz
@@ -233,6 +233,8 @@ sqrt-5041.de
 cerberus.sqrt-5041.de
 stiffgame.com
 superficialeyes.com
+symplr.de
+www.symplr.de
 analytics.tfm.rocks
 analytics.ticketmaster.be
 tracify.ai
