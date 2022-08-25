@@ -276,16 +276,16 @@
 @@||*-msedge.net^
 @@||msedge.net^
 @@||nexusrules.live.com.akadns.net^
-@@||office.com^
-@@||office.net^
-@@||office365.com^
+!*.office.com
+!*.office.net
+!*.office365.com
 @@||officeapps.live.com^
-@@||outlook.com^
-@@||outlookmobile.com^
+!*.outlook.com
+!*.outlookmobile.com
 @@||rewardsplatform.microsoft.com^
 @@||smartscreen-prod.microsoft.com^
 @@||teams.live.com^
-@@||trafficmanager.net^
+!*.trafficmanager.net
 @@||vortex.data.microsoft.com^
 @@|*microsoft.online-metrix.net^
 @@|activity.windows.com^
@@ -303,6 +303,7 @@
 @@|self.events.data.microsoft.com^
 @@|settings-win.data.microsoft.com^
 @@|target.microsoft.com^
+@@|teams-events-data.trafficmanager.net^
 @@|teams.events.data.microsoft.com^
 @@|v*.events.data.microsoft.com^
 @@|vlscppe.microsoft.com^
@@ -410,10 +411,14 @@
 @@||schneevonmorgen.com.s3.amazonaws.com^
 @@||ultimedia.com^
 @@|*damoh.*.de^
+@@|1.chipde.damoh.schneevonmorgen.com^
+@@|1.gmxnet.damoh.schneevonmorgen.com^
+@@|2.chipde.damoh.schneevonmorgen.com^
 @@|config-vvs.glomex.com^
 @@|consent.dk^
 @@|engine.phn.doublepimp.com^
 @@|fr-lb.ultimedia.com^
+@@|homad-global-configs.schneevonmorgen.com^
 @@|i.shoosh.co	^
 @@|i01.sozcucdn.com^
 @@|p.brid.tv^
@@ -458,7 +463,7 @@
 
 ! Apps (Mobile)
 @@||apester.com^
-@@||app.link^
+!*.app.link
 
 ! Misc
 @@|assets.dwell.com^
@@ -718,8 +723,8 @@
 @@|afternic.com^
 
 ! Adult sites
-@@||nudevista.at^
-@@||nudevista.com^
+@@|nudevista.at^
+@@|nudevista.com^
 @@|adultfriendfinder.com^
 @@|adultwork.com^
 @@|anon-v.com^
