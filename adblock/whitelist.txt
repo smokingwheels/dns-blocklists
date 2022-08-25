@@ -127,6 +127,7 @@
 @@|assets.digitalocean.com^
 @@|cache.consentframework.com^
 @@|ccpa*.privacymanager.io^
+@@|cdn*.onetrust.com^
 @@|cdn.ampproject.org^
 @@|cdn.appconsent.io^
 @@|cdn.civiccomputing.com^
@@ -139,13 +140,12 @@
 @@|cdn.privacy-mgmt.com^
 @@|cdn.reolink.com^
 @@|cdn.trustcommander.net^
-@@|cdn*.onetrust.com^
 @@|cdnjs.cloudflare.com^
 @@|choices.consentframework.com^
+@@|cmp*.privacymanager.io^
 @@|cmp-cdn.cookielaw.org^
 @@|cmp.cookist.it^
 @@|cmp.dmgmediaprivacy.co.uk^
-@@|cmp*.privacymanager.io^
 @@|collector.appconsent.io^
 @@|consent.cmp.oath.com^
 @@|consent.cookiebot.com^
@@ -166,9 +166,10 @@
 @@|cookieconsent.insites.com^
 @@|cookies-data.onetrust.io^
 @@|cookiesv2.publiekeomroep.nl^
+@@|delivery.consentmanager.net^
 @@|dtmg-privacy.my.onetrust.com^
-@@|gdpr.internetbrands.com^
 @@|gdpr*.privacymanager.io^
+@@|gdpr.internetbrands.com^
 @@|geo.privacymanager.io^
 @@|geolocation.onetrust.com^
 @@|graphql.usercentrics.eu^
@@ -231,6 +232,7 @@
 
 ! Google
 @@||gstaticadssl.l.google.com^
+@@|afs.googleusercontent.com^
 @@|ampcid.google.com^
 @@|ampcid.google.de^
 @@|analyticsinsights-pa.googleapis.com^
@@ -680,8 +682,10 @@
 @@|audid-api.taobao.com^
 
 ! AdBlock Detection Rakuten.tv
-@@|tv.ads.spotx.tv^
-@@||2mdn.net^
+! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+!tv.ads.spotx.tv
+!*.2mdn.net
+!...
 
 ! https://github.com/notracking/hosts-blocklists/issues/788
 @@|dcf.espn.com^
@@ -1040,4 +1044,8 @@
 
 ! Videos on tvspielfilm.de
 @@|cmp.tvspielfilm.de^
+
+! Images on 1001spiele.de
+@@|ccf.admeen.org^
+@@|tcf.admeen.org^
 
