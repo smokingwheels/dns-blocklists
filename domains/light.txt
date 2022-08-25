@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 24 Aug 2022 18:41 UTC
-# Version: 2022.0824.1841.19
+# Last modified: 25 Aug 2022 01:18 UTC
+# Version: 2022.0825.0118.45
 # Syntax: Domains
-# Domains: 190690
+# Domains: 190846
 #
 00000000-0000-0000-0000-000000000000.redinuid.imrworldwide.com
 0.0.0.0.creative.hpyrdr.com
@@ -7480,6 +7480,7 @@
 4kshbdjfsdf44.monster
 4kyu.cn
 4life.com
+4living.at
 4love.info
 4mads.com
 4meme.com
@@ -20124,7 +20125,6 @@ accomplishmentstrandedcuddle.com
 accomplishplunderbreeches.com
 acconsento.click
 accordaudienceeducational.com
-acc-orderus9514901185421-b60a94.ingress-baronn.ewp.live
 accordinglytongue.com
 accordinglyvenisonelse.com
 accordmobi.g2afse.com
@@ -20397,6 +20397,7 @@ actions-nj.taboola.com
 actionsplash.com
 actions-sg.taboola.com
 actionteaser.ru
+actionverbaleautentifiablerequie-b9317e.ingress-daribow.ewp.live
 actio.systems
 actirinius.com
 activate.platform.californiatimes.com
@@ -21439,6 +21440,7 @@ add.f5haber.com
 addfreestats.com
 ad-dickssportinggoods-prod-gcp.tagdelivery.com
 ad-dickssportinggoods-prod.tagdelivery.com
+addicted2.at
 addictedsweetness.com
 addictedtoradio.adswizz.com
 addictionestimated.com
@@ -27349,6 +27351,7 @@ affiliatetxt.nextmediaweb.com
 affiliate.wallatrax.com
 affiliate-wg.com
 affiliatewindow.com
+affiliate.zaful.com
 affiliatezone.com
 affiliati.bet2bet.it
 affiliationcash.com
@@ -27708,6 +27711,7 @@ ahkboccefd.kameleoon.eu
 ahk.ctnsnet.com
 ahlaejaba.com
 ahlefind.com
+ahler-versand.de
 ahm.135320.com
 ahm.g2afse.com
 ah.nativendo.de
@@ -28306,6 +28310,7 @@ alfa-img.com
 alfainternet.su
 alfaiztech.com
 alfa-medosmotr.ru
+alfa-nordex.at
 alfapro.ru
 alfa-search.com
 alfasense-sync.rutarget.ru
@@ -34308,6 +34313,7 @@ au.effectivemeasure.net
 au.ff.avast.com
 aufgewacht.at
 aufjagd.de
+aufladekarten24.de
 auforex.americanexpress.com
 aufp.io
 aufr67i8sten.com
@@ -34616,7 +34622,6 @@ aveda.extole.io
 avencio.de
 avengeapollo.com
 avengeradblocker.com
-avengers-fans-club-director-b73bf2.ingress-baronn.ewp.live
 avenir-affiliation.fr
 avenit01.webtrekk.net
 avenseo.com
@@ -35008,6 +35013,7 @@ a.yellowurl.cn
 ayerbo.xhost.ro
 ayhjukc.cn
 ayk.cx
+aymann-versand.de
 aymtdcg.cn
 a.yoc.com
 ayola.de
@@ -39282,6 +39288,7 @@ boffinsoft.com
 boffoadsapi.com
 boffoadsfeeds.com
 boffoads.xml.ak-is2.net
+bofone24.de
 bogads.com
 bogcuoc.com
 bogdanski-salonbau.com
@@ -39642,6 +39649,7 @@ bowl.actonservice.com
 bowlingunauthorized.com
 bowmoolog.com
 bowpinfrow.com
+bowtech-impuls.de
 boxadstop.com
 box.anchorfree.net
 boxercrazy.org
@@ -39873,6 +39881,7 @@ brekdok.com
 brekus.org
 bremenzeig.com
 brendmsk.ru
+brennholzmuller.at
 brennholzshop24.com
 brennholz-und-pellets.com
 b.resad.mediaid.click
@@ -41234,6 +41243,7 @@ caesar-installateur.at
 caesars.demdex.net
 caezcs32vtc000025v70gf8xscwyyyyyb.interact.sh
 cafe58cc6d0ac.com
+cafe-bauer.at
 cafef3.vcmedia.vn
 cafef4.vcmedia.vn
 cafef.vcmedia.vn
@@ -41390,6 +41400,7 @@ cameraprive.com
 cameraunswing.com
 camgem.de
 camghosts.com
+camhamster.at
 cami-handel.de
 camiocw.com
 camisado.actonservice.com
@@ -45046,6 +45057,7 @@ chris-gcp.logrocket.io
 chriskkfishing.com
 christ01.webtrekk.net
 christianbroadcastne.demdex.net
+christiankoenigmusik.de
 christianpomowski.de
 christiantop1000.com
 christies-app.quantummetric.com
@@ -46658,7 +46670,6 @@ cmp.tek.no
 cmp.telerama.fr
 cmp.tori.fi
 cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com
-cmp.tvspielfilm.de
 cmp.uniconsent.com
 cmp.us.intellitxt.com
 cmpv2.macworld.co.uk
@@ -53309,6 +53320,7 @@ dankulavius.com
 d.annarbor.com
 dannerdeutschland.de
 danner.netmng.com
+danneronlineshop.at
 danorenius.com
 danosplay.de
 danskebank.112.2o7.net
@@ -54532,6 +54544,7 @@ delivery.vtcnew.com.vn
 delivery.vtc.vn
 delivery.wasu.cn
 delivery.yomedia.vn
+delix.at
 dellamer.us-1.evergage.com
 dell.demdex.net
 dell.evergage.com
@@ -56222,6 +56235,7 @@ direxion.blueconic.net
 dirgywhacks.com
 diritymirkish.com
 dirkdreier.de
+dirkethilfe24.at
 di.rlcdn.com
 dirlink.net
 dir.minigame.qq.com
@@ -56393,6 +56407,7 @@ dispmobi.offerstrack.net
 dispop.com
 dispositionadverb.com
 disproveknob.com
+disput.at
 disputeretorted.com
 dispute.wang
 disqualifybatesclung.com
@@ -56813,6 +56828,7 @@ dmxleo.dailymotion.com
 dmxstocktrade.online
 dmxxa.com
 d.mydailynewz.com
+dmyexpress-b3c5d0.ingress-earth.ewp.live
 d.myfreshspot.com
 d.myhugewords.com
 d.myhypestories.com
@@ -57596,6 +57612,7 @@ drmartensschuhe.at
 drmfslx.cn
 drm-server13-login-microsoftonline.com
 d-road.com
+d-rock.at
 dr.odonatainbowed.com
 drogasil.glassboxdigital.io
 droits-revente.fr
@@ -57677,7 +57694,6 @@ ds-edge.addthis.com.edgekey.net
 dsengine.doubleclick.net
 dsfffmb.mobi
 dsfjhfhyry2hh8jo09.com
-dsfrewr-b98896.ingress-earth.ewp.live
 ds.frontend.weborama.fr
 dsg2.btttag.com
 dsg.activate.ensighten.com
@@ -59896,6 +59912,7 @@ elektronio.de
 elektronischshop.com
 elektronlinestore.com
 elektrono24.de
+elektro-oase.de
 elektropanda.de
 elektro-parc.de
 elektro-rock.com
@@ -60263,6 +60280,7 @@ emmiol.com
 emmi.piwik.pro
 emmis.deliveryengine.adswizz.com
 emmtekc.com
+emmys.at
 emoailtoo.com
 emodoinc.com
 emolah.com
@@ -60986,6 +61004,7 @@ ericantpas.com
 ericaunct.com
 ericdress.com
 erihj.com
+erika-diepold.at
 erikanicklheim.de
 erileni.ru
 erinitesorchin.com
@@ -61617,10 +61636,12 @@ eu.rollserver.xyz
 euromango.co.kr
 euromarketdirect.com
 euromarketshop.com
+euronews8930-b8dae5.ingress-bonde.ewp.live
 euronews-ams.gscontxt.net
 euronics-eg.de
 euronics-elektro.de
 euronics-elektromarkt.de
+euronics-konsole.de
 euronicsstore.de
 europacash.com
 europatradecapital.com
@@ -64933,6 +64954,7 @@ floater.playstream.media
 floatingads.madisonavenue.com
 flobamorata.com
 flock-electronics.com
+flock-elektronik.com
 flockflame.com
 flocktanjib.com
 f-log-balto.grammarly.io
@@ -65880,6 +65902,7 @@ fr-gmtdmp.mookie1.com
 frhbrkjgerikm2f8mjek09.com
 fri4esianewheywr90itrage.com
 friarsspiffy.com
+fribooverkauf.de
 fricence.top
 fridge.consumable.com
 fridgequote.com
@@ -66421,7 +66444,6 @@ fxstyle.net
 fxtckg.cn
 fxtfinanceportfolio.com
 fxuniontrading.com
-fx.wpadmngr.com
 fxyg168.com
 fxyjmp.top
 f.xyu.tv
@@ -68830,6 +68852,7 @@ go.keywee.co
 gokmenteknik.com
 goku.brightcove.com
 go.lanair.com
+golawien.at
 gold2762.com
 goldankaufbayern.net
 goldapps.org
@@ -68857,6 +68880,7 @@ goldenwaters.de
 goldenwind.icu
 goldergy.today
 goldfishnightclubpatronize.com
+goldfuchs.at
 goldhandel-gmbh.de
 goldhandel-kurs.de
 goldhandel-o-kaufen.de
@@ -69268,6 +69292,7 @@ go.tmrjmp.com
 goto2021.top
 gotoaws.dresslily.com
 gotoaws.rosegal.com
+gotoaws.zaful.com
 goto.dresslily.com
 gotoexp.dresslily.com
 gotohouse1.club
@@ -69282,6 +69307,7 @@ goto.rosegal.com
 gotostat.ru
 go.toutapp.com
 goto.www.iciba.com
+goto.zaful.com
 gotpcgame.com
 gotpd.me
 gotporn.info
@@ -69719,6 +69745,7 @@ gripdownload.co
 gripfile.net
 grippedownloads.co
 grirault.net
+grisino.de
 gristleupanaya.com
 gritaware.com
 grite.online
@@ -70740,6 +70767,7 @@ harlergate.casa
 harley-davidson.com.102.122.2o7.net
 harm6stop.com
 harmlesstacticalhonorable.com
+harmonie-fuhrerschein.de
 harmonycanyon.com
 harmony-central.us.intellitxt.com
 harmonyhollow.net
@@ -70846,6 +70874,7 @@ haushaltmarkt.de
 haushalt-schuhmann.com
 haushaltskoenig.de
 haushaltsreich.de
+haushalt-xxl.de
 haus-marienthal.de
 haus-media.de
 haus-pesjak.at
@@ -74142,6 +74171,7 @@ igaming-service.io
 igaming-warp-service.io
 igaw.io
 igbce-stolberg.de
+igcovid-information.com
 i.gdt.qq.com
 i.geistm.com
 i-generation.jp
@@ -74205,7 +74235,6 @@ i.holder.com.ua
 i.hotkeys.com
 ihqcndm.cn
 i.hqvrporn.net
-ihreapotheken.de
 ihre-hausverwalter.de
 ihs.demdex.net
 ihtqqws.cn
@@ -76033,6 +76062,7 @@ inscreen.widespace.com
 insectadvertisesecretly.com
 insectdatabasesignificantly.com
 in.secure.sonosite.com
+inselbikes.de
 inservinea.com
 inshelmetan.com
 inside.adpushup.com
@@ -76286,6 +76316,7 @@ intense.offerstrack.net
 intensifier.de
 intentanalysis.com
 intentarget.com
+intent-at.at
 intent.cmo.com.au
 intent.goodgearguide.com.au
 intenthq.com
@@ -77945,7 +77976,6 @@ jfnnrjfjrfjr.com
 jfp6.destinia.de
 jf.revolvermaps.com
 jfsldq.top
-jftqnpxewixqrf.com
 jg0c.sfr.fr
 jg1668.com
 jg3i17759nd0nhh9q53zpy.com
@@ -78325,6 +78355,7 @@ joedisarmament.com
 joe.freelogs.com
 joeldkuhn.com
 joeputa.xyz
+joerg-peter-lange.de
 joetec.net
 joetoons.com
 joeygo.com
@@ -79157,6 +79188,7 @@ juxuyun.com
 juyiqiche.com.cn
 jvgjrb.com
 jvljpv.com
+jvp-amstetten.at
 jvpook.cn
 jvs.price.ru
 jvvqm.us
@@ -79427,6 +79459,7 @@ kaminari.club
 kaminj.top
 kaminsky-shop.de
 kamnebo.info
+kamoni.de
 kampane.virtualstudio.sk
 kampanja.bhtelecom.ba
 kanade-ad.net
@@ -80014,6 +80047,7 @@ kippuno.ru
 kipyn.com
 kiqwal.autoscout24.es
 kirche-lennep.de
+kirchenaustritt24.at
 kirchenaustritt24.de
 kirchweih-info.de
 kiretafly.com
@@ -80219,6 +80253,7 @@ k.myhypestories.com
 kmy.tlsgq.cn
 kn7lxbi8rbfft2r3fji9a5gft1rmg1657524296.uaid.nmrodam.com
 knacads.com
+knackdieserie.de
 kn.acrosspf.com
 knac.us.intellitxt.com
 knauermann.de
@@ -80545,6 +80580,7 @@ kraken.prod.usw1.kargo.com
 kraken.rambler.ru
 krakragames.com
 kralseo.info
+kramerversand.de
 kras.ad4m.at
 krasisa.info
 krasnaya.co.uk
@@ -85638,6 +85674,7 @@ makeshiftmine.com
 makesource.cool
 makespram.com
 makeushot.us.intellitxt.com
+makitabillig.de
 makodesktop.2cnt.net
 makotvdesktop.2cnt.net
 makourtis.com
@@ -86735,6 +86772,7 @@ mb.adres.wpscdn.cn
 mbadw.nan.co.jp
 mbai.cn
 m.bailingjiankang.com
+mbali-yangu.de
 m-barati.de
 mb.atm.youku.com
 mb-click.jp
@@ -87195,6 +87233,7 @@ meadigital.com
 meadowleader.com
 me.ads.justpremium.com
 meagplin.com
+mealsonwheels.at
 meanballotruse.com
 meaningevidentlygo.com
 meantfallroadmap.com
@@ -87435,6 +87474,7 @@ mediagridwork.com
 media.gssp.asia
 media-guides.de
 media.hauptbruch.de
+media-heinemann.com
 mediahorizons.com
 media.icubeswire.com
 mediaid.click
@@ -87545,6 +87585,7 @@ mediascale.de
 media.scanscout.com
 medias.cloud.ogury.io
 mediascope.mc.yandex.ru
+mediascreen.at
 mediaserf.net
 mediaserver.bwinpartypartners.com
 mediaserver.bwinpartypartners.it
@@ -87982,6 +88023,7 @@ merchantportal.com
 merchenta.com
 mercialtaver.club
 merciless.localstars.com
+mercimunich.de
 merciselyancies.site
 mercola.demdex.net
 mercuras.com
@@ -88011,6 +88053,7 @@ meronia.de
 merosgramash.com
 merrell.extole.io
 merrellosterreich.at
+merrelloutletonline.de
 merrillcorp.demdex.net
 merrrrrry.top
 merrylco.com
@@ -90539,6 +90582,7 @@ modekorridor.com
 modelatos.com
 modelcenter.livejasmin.com
 modelines.nl
+modellbahn.de-imex.de
 modellbahn-versandhaus.de
 modellbahn-versandhaus.de-imex.de
 modell-spielzeuge.club
@@ -92651,6 +92695,7 @@ naturesunshine.com
 naturetrees.org
 natureworldnews.us.intellitxt.com
 naturgesunde-tiere.de
+naturheilpraxis-kirsten-sildatke.de
 naturprojekt.at
 naucaips.com
 naucaish.net
@@ -93147,6 +93192,7 @@ neudata.cloud
 neudesicmediagroup.com
 neu.dotnxdomain.net
 neueflirts.de
+neuesichtweisen.at
 neumanns-installation.de
 neumashop.cl
 neunagel.de
@@ -93759,6 +93805,7 @@ nizationsuch.com
 nj3.origin.startappservice.com
 nj7t1-vwj3j.ads.tremorhub.com
 nj95wy4zrm5ov2cox.ay.delivery
+njabl.org
 njadxrtb.lfstmedia.com
 njamlya.top
 njapplovinrtb.lfstmedia.com
@@ -95185,6 +95232,7 @@ ns1.juvenilebind.com
 ns1.katebugs.com
 ns1.kgua0o66bcw8.com
 ns1.lapsebreak.com
+ns1.launchingonsetwhirlwind.com
 ns1.lauriestatuestroll.com
 ns1.levityprogramming.com
 ns1.lighterobliterate.com
@@ -96516,6 +96564,7 @@ okraenrolls.com
 okr.mobvista.com
 okshuwu.top
 okt5mpi4u570pygje5v9zy.com
+oktando.de
 oktogar.com
 oktopost.com
 oktpage.com
@@ -97666,6 +97715,7 @@ ossrhydonr.com
 ossshucklean.com
 oss-survey.securestudies.com
 osteoar.xyz
+ostergartenhermesdorf.de
 osterreichpillen.com
 ostg.us.intellitxt.com
 ostiics.top
@@ -98060,6 +98110,7 @@ owlerydominos.cam
 owlfolk.com
 ow-lhrc.pubmatic.com
 ow-lhr.pubmatic.com
+owlkaminholz.de
 owl.proadscdn.com
 owlsr.us
 owlsyumducal.com
@@ -98826,6 +98877,7 @@ paopao-monitor.iqiyi.com
 pa.opqr.co
 pao-v4.pops.fastly-insights.com
 papageienseite.de
+papageienzuchtheim.de
 papaneecorche.com
 papathp.cn
 papatyrodum.com
@@ -98950,7 +99002,6 @@ parthanonstatue.com
 participants.evolv.ai
 particularantler.com
 particularaudience.com
-particulares-es-b965d0.ingress-comporellon.ewp.live
 partieseclipse.com
 partiesrelyfoliage.com
 partion-ricism.xyz
@@ -100983,6 +101034,7 @@ pixel.invitemedia.com
 pixel.ionos.de
 pixel.ionos.fr
 pixel.kargo.com
+pixelkatze.de
 pixel.keywee.co
 pixel.kknews.cc
 pixel.kost.tv
@@ -101336,6 +101388,7 @@ pl14968549.profitablecpmgate.com
 pl14968549.safestgatetocontent.com
 pl14968549.trustedcpmrevenue.com
 pl14970293.effectivegatetocontent.com
+pl14973864.highperformancegate.com
 pl14974374.highperformancecpm.com
 pl14974374.trustedcpmrevenue.com
 pl14978247.passtechusa.com
@@ -101592,6 +101645,7 @@ pl15382382.trustedgatetocontent.com
 pl15387203.passtechusa.com
 pl15387519.passtechusa.com
 pl15387670.passtechusa.com
+pl15389602.highperformancegate.com
 pl15389624.highperformancecpmnetwork.com
 pl15389832.highperformancegate.com
 pl15390333.passtechusa.com
@@ -101725,6 +101779,7 @@ pl15540727.highperformancegate.com
 pl15540727.profitablecpmgate.com
 pl15540788.profitablecpmgate.com
 pl15540788.safestgatetocontent.com
+pl15541020.effectiveperformancenetwork.com
 pl15541240.effectivecpmgate.com
 pl15550697.passtechusa.com
 pl15551518.passtechusa.com
@@ -101859,6 +101914,7 @@ pl15651224.gatetocontent.com
 pl15651678.safestgatetocontent.com
 pl15651678.trustedcpmrevenue.com
 pl15652501.profitablegate.com
+pl15655021.effectivegatetocontent.com
 pl15657408.trustedcpmrevenue.com
 pl15660736.topprofitablecpm.com
 pl15662269.trustedgatetocontent.com
@@ -102017,6 +102073,7 @@ pl15835398.effectivecpmcontent.com
 pl15835856.effectivecpmgate.com
 pl15836414.effectivegatetocontent.com
 pl15837549.safestgatetocontent.com
+pl15839144.highperformancegate.com
 pl15842632.effectivegatetocontent.com
 pl15843422.effectivecpmcontent.com
 pl15843422.effectivegatetocontent.com
@@ -103199,6 +103256,7 @@ pl16555374.highperformancecpm.com
 pl16555376.highperformancecpm.com
 pl16555608.trustedcpmrevenue.com
 pl16555924.effectivecpmgate.com
+pl16555924.safestgatetocontent.com
 pl16556050.highperformancecpm.com
 pl16556155.effectivecpmgate.com
 pl16556183.safestgatetocontent.com
@@ -104025,6 +104083,8 @@ pl16738491.trustedgatetocontent.com
 pl16738826.trustedgatetocontent.com
 pl16738915.trustedgatetocontent.com
 pl16738931.trustedgatetocontent.com
+pl16739111.highperformancegate.com
+pl16739138.highperformancegate.com
 pl16739262.trustedgatetocontent.com
 pl16739327.trustedgatetocontent.com
 pl16740357.effectivegatetocontent.com
@@ -104988,6 +105048,7 @@ pl16854147.effectivegatetocontent.compl16854147.effectivegatetocontent.com
 pl16854147.trustedcpmrevenue.com
 pl16854166.effectivegatetocontent.com
 pl16854198.effectivegatetocontent.com
+pl16854363.effectivegatetocontent.com
 pl16854434.effectivegatetocontent.com
 pl16854447.effectivegatetocontent.com
 pl16854500.effectivegatetocontent.com
@@ -105995,6 +106056,7 @@ pl16987223.trustedcpmrevenue.com
 pl16987383.safestgatetocontent.com
 pl16987383.trustedcpmrevenue.com
 pl16987495.trustedcpmrevenue.com
+pl16988117.trustedcpmrevenue.com
 pl16988171.effectivecpmcontent.com
 pl16988171.profitablecpmgate.com
 pl16988178.trustedcpmrevenue.com
@@ -106729,6 +106791,7 @@ pl17111024.effectivecpmcontent.com
 pl17111043.effectivecpmcontent.com
 pl17111079.effectivecpmcontent.com
 pl17111540.safestgatetocontent.com
+pl17111885.effectivecpmcontent.com
 pl17112380.effectivecpmcontent.com
 pl17112384.effectivecpmcontent.com
 pl17112405.effectivecpmcontent.com
@@ -107104,6 +107167,7 @@ pl17191389.safestgatetocontent.com
 pl17191394.safestgatetocontent.com
 pl17191479.safestgatetocontent.com
 pl17191545.highperformancegate.com
+pl17191777.safestgatetocontent.com
 pl17191904.safestgatetocontent.com
 pl17191953.safestgatetocontent.com
 pl17192413.safestgatetocontent.com
@@ -107233,6 +107297,7 @@ pl17220580.safestgatetocontent.com
 pl17221213.safestgatetocontent.com
 pl17221238.highperformancegate.com
 pl17221300.safestgatetocontent.com
+pl17221336.safestgatetocontent.com
 pl17221371.safestgatetocontent.com
 pl17222361.safestgatetocontent.com
 pl17222504.safestgatetocontent.com
@@ -108248,6 +108313,7 @@ pl17482469.highperformancegate.com
 pl17483582.highperformancegate.com
 pl17483605.highperformancegate.com
 pl17483706.highperformancegate.com
+pl17484062.highperformancegate.com
 pl17484156.highperformancegate.com
 pl17484298.highperformancegate.com
 pl17484430.highperformancegate.com
@@ -108380,6 +108446,7 @@ pl17534163.highperformancegate.com
 pl17535278.highperformancegate.com
 pl17536589.highperformancegate.com
 pl17537006.highperformancegate.com
+pl17537066.highperformancegate.com
 pl17537507.highperformancegate.com
 pl17537894.highperformancegate.com
 pl17539390.highperformancegate.com
@@ -108467,12 +108534,16 @@ pl17594509.highperformancegate.com
 pl17595267.highperformancegate.com
 pl17595471.highperformancegate.com
 pl17595957.highperformancegate.com
+pl17596224.highperformancegate.com
+pl17596229.highperformancegate.com
 pl17597607.highperformancegate.com
 pl17597725.highperformancegate.com
 pl17597927.highperformancegate.com
 pl17598683.highperformancegate.com
+pl17598739.highperformancegate.com
 pl17599002.highperformancegate.com
 pl17600473.highperformancegate.com
+pl17604488.highperformancegate.com
 pl17605501.highperformancegate.com
 pl17605788.highperformancegate.com
 pl17606757.highperformancegate.com
@@ -109001,6 +109072,7 @@ plurielmediacenter.com
 pluriholz.com
 plus.addkt.com
 plus.aff-track.net
+plusbaumarkt.de
 plus.cheshmak.me
 plusclick.biz
 pl.us-east-1.bid.bidr.io
@@ -109121,7 +109193,6 @@ pn1.adserver.yahoo.com
 pn2.adserver.yahoo.com
 p.nag.ru
 pnapi0.invoca.net
-pnbe-b975b2.ingress-earth.ewp.live
 pncloudfl.com
 pndagz.com
 pnd.gs
@@ -109308,6 +109379,7 @@ pol-waw-c1-s1.inf.nimiq.network
 pol-waw-c1-s2.inf.nimiq.network
 pol-waw-c2-s1.inf.nimiq.network
 pol-waw-c2-s2.inf.nimiq.network
+polwestos.at
 polyad.net
 polydarth.com
 polymerd.com
@@ -113449,6 +113521,7 @@ ra-fragrance.co.uk
 raftcomposuremeals.com
 rafvertizing.crazygames.com
 rag3ca7t5amubr8eedffin.com
+ra-ganske.de
 ragapa.com
 ragazzeinvendita.com
 rageagainstthesoap.com
@@ -113647,6 +113720,7 @@ rarbgtorrents.org
 rarbgunblock.com
 rarbgunblocked.org
 rarbgway.org
+rare-ai.net
 rareghoa.net
 rareinsane.com
 rarelyassortpanel.com
@@ -114626,6 +114700,7 @@ reisebuero-fuchs.com
 reisebuero-kirsch.com
 reisebuero-krah.de
 reisebuero-mueller.co
+reise-tipps.at
 reiseweltat6.wixsite.com
 reitb.com
 reiterhof-geidner.de
@@ -115788,6 +115863,7 @@ ritzykey.com
 ritzyveil.com
 r.i.ua
 ri-v3.presage.io
+rivalla.de
 rivasearchpage.com
 rivcash.com
 river-adventure.com
@@ -118666,6 +118742,7 @@ schluchsee-ferienwohnung.de
 schluesseldienst123.at
 schluesseldienst-hilfe.at
 schlusseldienst.at
+schlussmit.at
 schmerbeck-versand.de
 schmerzloseapotheke.com
 schmerzmittel-billiger.com
@@ -120175,7 +120252,6 @@ sendercert.net
 sender.clevernt.com
 sender.hstpnetwork.com
 sender.megapopads.com
-senderwhitelisting-b8e041.ingress-erytho.ewp.live
 sendfwd.com
 sendgrid.cint.com
 sendgrid-secure.bluecore.com
@@ -125000,6 +125076,7 @@ sp.pressconnects.com
 sp.publicopiniononline.com
 sp.pushsquare.com
 sp.qf.56.com
+sprachgenie.at
 spr.ad-stir.com
 sprayitonyou.com
 sprayswisha.com
@@ -129682,6 +129759,7 @@ symbolizebeast.com
 symbolultrasound.com
 sympathetictasting.com
 symphoneupcom.site
+symplr.de
 sym.zone
 synacast.com
 synacor-d.openx.net
@@ -130893,6 +130971,7 @@ t.azets.fi
 t.azets.no
 t.azets.se
 taz.met.vgwort.de
+tazreiter-holz.at
 tb.53kf.com
 tba4.cn
 t.ba-content.de
@@ -132630,6 +132709,7 @@ tightsaturdayi.com
 tightslowingpredictable.com
 tiglesoshi.pro
 t-i.gridsumdissector.com
+tigung.at
 tihealth.com
 tihealthxanderdisplay835953772572.s.moatpixel.com
 tihushuo.com
@@ -133828,6 +133908,7 @@ top-bloggers.com
 topblogging.com
 topblogs.com.ph
 top-brennholz.com
+top-brennholz.de
 topbucks.com
 top-casting-termine.de
 topcc88.me
@@ -136993,7 +137074,6 @@ tr.usergram.info
 trustaffs.com
 trustaproiam.de
 trustclick.ne.jp
-trust-com-b8cf5d.ingress-comporellon.ewp.live
 trustdispel.com
 trusted-collector-bk.tmocce.com
 trustedcpmrevenue.com
@@ -139082,7 +139162,6 @@ upskittyan.com
 upsnap.com
 upsolutmv.com
 upspinarakor.com
-ups-service-update.com
 upstats.ru
 upstats.yadro.ru
 upstory.it
@@ -139279,7 +139358,6 @@ usapglobal.usapglobal.org
 us-api.taboola.com
 usapromotravel.com
 usa.rtbterra.com
-usashipmyprclesshedules-b9775c.ingress-comporellon.ewp.live
 usasync01.admantx.com
 us.audience.newscgp.com
 us-audience.nrich.ai
@@ -139319,6 +139397,7 @@ us.cssrvsync.com
 us.data.logs.insight.rapid7.com
 us.daughtersofindia.net
 us.deliveryengine.adswizz.com
+us-delivery-update.com
 us.dev.zeronaught.com
 us.divatraffic.bid
 usd.odysseus-nua.com
@@ -139626,6 +139705,7 @@ us.exelator.com
 us.exponea.com
 usfireins.us-4.evergage.com
 usfoods.demdex.net
+usfregl-b93099.ingress-earth.ewp.live
 us.frosmo.com
 usga.demdex.net
 usgamer-us.usgamer.net
@@ -140861,6 +140941,7 @@ verizon-dev.inq.com
 verizonenterprise.com.data.adobedc.net
 verizon.gumgum.com
 verizonmedia.com
+verkauf-kaminholz.de
 vermessung-dubbert.de
 vernaschediewelt.com
 vernmentbasily.com
@@ -141995,6 +142076,7 @@ vivistats.com
 vi-vn.vn
 vivobarefootosterreich.at
 vivobarefootsale.at
+vivobarefootsaleoutlet.de
 vivobarefootschuhe.top
 vivocha.com
 vivoshoesnz.com
@@ -145312,6 +145394,7 @@ woohoobiolith.com
 woollenthawewe.com
 woomy.me
 woopra-ns.com
+woopy-bikes.de
 wootmedia.net
 wootric-demo.wootric.com
 wootric-eligibility.herokuapp.com
@@ -147237,6 +147320,7 @@ www.4ksbdjfsdf4.monster
 www.4kshbdjfsdf44.monster
 www.4kyu.cn
 www.4life.com
+www.4living.at
 www.4love.info
 www.4mads.com
 www.4meme.com
@@ -148638,6 +148722,7 @@ www.addefend.com
 www.addefend-platform.com
 www.addesigner.com
 www.addfreestats.com
+www.addicted2.at
 www.addictedsweetness.com
 www.addictionestimated.com
 www.addinginstancesroadmap.com
@@ -150210,6 +150295,7 @@ www.ahjinhuayi.com
 www.ahjzys.com
 www.ahlaejaba.com
 www.ahlefind.com
+www.ahler-versand.de
 www.ahnlabad.com
 www.ahotmail.com
 www.ahqpqpdjpj.com
@@ -150483,6 +150569,7 @@ www.alfa9.com
 www.alfa-img.com
 www.alfaiztech.com
 www.alfa-medosmotr.ru
+www.alfa-nordex.at
 www.alfapro.ru
 www.alfa-search.com
 www.alfatarget.ru
@@ -151662,6 +151749,7 @@ www.audsp.com
 www.audtd.com
 www.aufgewacht.at
 www.aufjagd.de
+www.aufladekarten24.de
 www.aufsperrhilfe-24.at
 www.aufsperrhilfe.at
 www.augennstern.com
@@ -151881,6 +151969,7 @@ www.ayc0zsm69431gfebd.xyz
 www.ayclinical.com
 www.ay.delivery
 www.ayeboagnu.com
+www.aymann-versand.de
 www.ayqxx.com
 www.ayunzhizuo.ltd
 www.ayurreadpro.com
@@ -153376,6 +153465,7 @@ www.boerse.today
 www.boffinsoft.com
 www.boffoadsapi.com
 www.boffoadsfeeds.com
+www.bofone24.de
 www.bogads.com
 www.bogcuoc.com
 www.bogdanski-salonbau.com
@@ -153549,6 +153639,7 @@ www.boutiqoi.com
 www.boutiquerestless.com
 www.boweineng.cn
 www.bowlingunauthorized.com
+www.bowtech-impuls.de
 www.boxadstop.com
 www.boxercrazy.org
 www.boxofficebabyore.com
@@ -153646,6 +153737,7 @@ www.brekdok.com
 www.brekus.org
 www.bremenzeig.com
 www.brendmsk.ru
+www.brennholzmuller.at
 www.brennholzshop24.com
 www.brennholz-und-pellets.com
 www.brevandolius.com
@@ -154109,6 +154201,7 @@ www.cadvision.com
 www.caeory.com
 www.caesar-installateur.at
 www.cafe58cc6d0ac.com
+www.cafe-bauer.at
 www.cafegraha.com
 www.cafe-hardenberg.de
 www.cagadgfihecfiigbgbc.ru
@@ -154172,6 +154265,7 @@ www.cameracaseira.com
 www.cameraprive.com
 www.camgem.de
 www.camghosts.com
+www.camhamster.at
 www.cami-handel.de
 www.camiocw.com
 www.camion.idps.co.uk
@@ -154935,6 +155029,7 @@ www.chqsw.cn
 www.chrischona-hdh.de
 www.chrisclavelli.com
 www.chriskkfishing.com
+www.christiankoenigmusik.de
 www.christianpomowski.de
 www.christiantop1000.com
 www.christine-bongert.de
@@ -156819,6 +156914,7 @@ www.dangxatq.ga
 www.danilidi.ru
 www.dankulavius.com
 www.dannerdeutschland.de
+www.danneronlineshop.at
 www.danorenius.com
 www.danosplay.de
 www.dansur.shop
@@ -157123,6 +157219,7 @@ www.deliriousglowing.com
 www.deliverysapgoblet.com
 www.deliverytrafficnews.com
 www.deliverytraffnews.com
+www.delix.at
 www.delonghi-de.shop
 www.deloo.de
 www.delosnetwork.it
@@ -157543,6 +157640,7 @@ www.directunlocks.com
 www.directxex.com
 www.direct-xxx-access.com
 www.dirkdreier.de
+www.dirkethilfe24.at
 www.dirtyfree.games
 www.dirtyje.ws
 www.dirtyrhino.com
@@ -157619,6 +157717,7 @@ www.displayvertising.com
 www.dispop.com
 www.dispositionadverb.com
 www.disproveknob.com
+www.disput.at
 www.disputeretorted.com
 www.disqualifybatesclung.com
 www.disqusads.com
@@ -158042,6 +158141,7 @@ www.drmartensjadonsale.de
 www.drmartensschuhe.at
 www.drmfslx.cn
 www.d-road.com
+www.d-rock.at
 www.droits-revente.fr
 www.droopingballisticscenario.com
 www.droopingmore.com
@@ -158654,6 +158754,7 @@ www.elektronio.de
 www.elektronischshop.com
 www.elektronlinestore.com
 www.elektrono24.de
+www.elektro-oase.de
 www.elektropanda.de
 www.elektro-parc.de
 www.elektro-rock.com
@@ -158768,6 +158869,7 @@ www.emmas-f.shop
 www.emmay.de
 www.emmiol.com
 www.emmtekc.com
+www.emmys.at
 www.emodoinc.com
 www.emolah.com
 www.emolapnay.com
@@ -158995,6 +159097,7 @@ www.ericalynnhang.com
 www.ericantpas.com
 www.ericdress.com
 www.erihj.com
+www.erika-diepold.at
 www.erikanicklheim.de
 www.erileni.ru
 www.erkesi.cn
@@ -159181,6 +159284,7 @@ www.euromarketshop.com
 www.euronics-eg.de
 www.euronics-elektro.de
 www.euronics-elektromarkt.de
+www.euronics-konsole.de
 www.euronicsstore.de
 www.europacash.com
 www.europatradecapital.com
@@ -160274,6 +160378,7 @@ www.flixsyndication.net
 www.flixtv.de
 www.flobamorata.com
 www.flock-electronics.com
+www.flock-elektronik.com
 www.flomigo.com
 www.flonty.com
 www.floodingdaredsanctuary.com
@@ -160696,6 +160801,7 @@ www.freteshion.com
 www.frettchen-fun.de
 www.frevi.net
 www.frey-versand.net
+www.fribooverkauf.de
 www.fricence.top
 www.fridgequote.com
 www.fridgestretched.com
@@ -161814,6 +161920,7 @@ www.goingtocontent.com
 www.goingup.com
 www.gojokey.club
 www.gokmenteknik.com
+www.golawien.at
 www.gold2762.com
 www.goldankaufbayern.net
 www.goldapps.org
@@ -161832,6 +161939,7 @@ www.goldenwaters.de
 www.goldenwind.icu
 www.goldergy.today
 www.goldfishnightclubpatronize.com
+www.goldfuchs.at
 www.goldhandel-on-kaufen.de
 www.goldhandel-preissieger.de
 www.goldhandel-testsieger.de
@@ -162155,6 +162263,7 @@ www.grimex.net
 www.gripdownload.co
 www.gripfile.net
 www.grippedownloads.co
+www.grisino.de
 www.gritaware.com
 www.grite.online
 www.gritronic.com
@@ -162588,6 +162697,7 @@ www.hardyload.com
 www.harlandco.com
 www.harm6stop.com
 www.harmlesstacticalhonorable.com
+www.harmonie-fuhrerschein.de
 www.harmonycanyon.com
 www.harmonyhollow.net
 www.harnesssuccessorspray.com
@@ -162651,6 +162761,7 @@ www.haushalt-jansen.net
 www.haushaltmarkt.de
 www.haushaltskoenig.de
 www.haushaltsreich.de
+www.haushalt-xxl.de
 www.haus-marienthal.de
 www.haus-media.de
 www.haus-pesjak.at
@@ -163936,6 +164047,7 @@ www.ig0nr8hhhb.com
 www.igame4free.com
 www.igaming.biz
 www.igbce-stolberg.de
+www.igcovid-information.com
 www.igg.biz
 www.igniterads.com
 www.ignitioninstaller.com
@@ -163955,7 +164067,6 @@ www.ihais.com
 www.ihear123.com
 www.ihegwoy.xyz
 www.ihjtrncfoha.com
-www.ihreapotheken.de
 www.ihre-hausverwalter.de
 www.ihvwak.cn
 www.iias.eu
@@ -164387,6 +164498,7 @@ www.inrool.com
 www.insanitynominate.com
 www.insectadvertisesecretly.com
 www.insectdatabasesignificantly.com
+www.inselbikes.de
 www.insideall.com
 www.insiderlx.com
 www.insightgrit.com
@@ -164489,6 +164601,7 @@ www.intensemisha.cyou
 www.intensifier.de
 www.intentanalysis.com
 www.intentarget.com
+www.intent-at.at
 www.intenthq.com
 www.intentionalclemencydecree.com
 www.intentionallylettuceponder.com
@@ -165063,7 +165176,6 @@ www.jfhoq.com
 www.jfjsp.com
 www.jfnnrjfjrfjr.com
 www.jfsldq.top
-www.jftqnpxewixqrf.com
 www.jg1668.com
 www.jg3i17759nd0nhh9q53zpy.com
 www.jgchq.com
@@ -165223,6 +165335,7 @@ www.jodellvideos.pro
 www.jody0sora.com
 www.joedisarmament.com
 www.joeldkuhn.com
+www.joerg-peter-lange.de
 www.joetec.net
 www.joetoons.com
 www.joeygo.com
@@ -165444,6 +165557,7 @@ www.juust24.com
 www.juvenilebind.com
 www.juwakaha.com
 www.juxuyun.com
+www.jvp-amstetten.at
 www.jvpook.cn
 www.jvvqm.us
 www.jvz5.com
@@ -165556,6 +165670,7 @@ www.kameleoon.eu
 www.kaminj.top
 www.kaminsky-shop.de
 www.kamnebo.info
+www.kamoni.de
 www.kanade-ad.net
 www.kandiny.com
 www.kandiny.de
@@ -165870,6 +165985,7 @@ www.kiosked.com
 www.kipasdenim.com
 www.kippuno.ru
 www.kirche-lennep.de
+www.kirchenaustritt24.at
 www.kirchenaustritt24.de
 www.kirchweih-info.de
 www.kirgeemo.com
@@ -165993,6 +166109,7 @@ www.kmvbre.com
 www.kmwqxqh.com
 www.kmycjt.com
 www.knacads.com
+www.knackdieserie.de
 www.knauermann.de
 www.knc.lv
 www.kneadegotisticalrational.com
@@ -166126,6 +166243,7 @@ www.krabihotelsthailand.net
 www.krakenoptimize.com
 www.krakragames.com
 www.kralseo.info
+www.kramerversand.de
 www.krasisa.info
 www.kraussmedien.de
 www.kreativtravel.de
@@ -167831,6 +167949,7 @@ www.makemoneyrobot.com
 www.makemyvids.com
 www.makesource.cool
 www.makespram.com
+www.makitabillig.de
 www.makourtis.com
 www.makroads.net
 www.makroo.com
@@ -168142,6 +168261,7 @@ www.mb38.com
 www.mb4a.com
 www.mb57.com
 www.mbai.cn
+www.mbali-yangu.de
 www.m-barati.de
 www.mbctxigml.com
 www.mbheelso.com
@@ -168215,6 +168335,7 @@ www.mdvkn.com
 www.me1294hlx.com
 www.meadigital.com
 www.meadowleader.com
+www.mealsonwheels.at
 www.meanballotruse.com
 www.meaningevidentlygo.com
 www.meantfallroadmap.com
@@ -168283,6 +168404,7 @@ www.mediago.io
 www.mediagraph.com
 www.mediagridwork.com
 www.media-guides.de
+www.media-heinemann.com
 www.mediahorizons.com
 www.mediainform.net
 www.mediaintelligence.de
@@ -168317,6 +168439,7 @@ www.mediarithmics.com
 www.mediarotate.com
 www.media-sapiens.com
 www.mediascale.de
+www.mediascreen.at
 www.mediashakers.com
 www.mediasmart.io
 www.mediasprucetree.com
@@ -168536,6 +168659,7 @@ www.merchant.com
 www.merchantportal.com
 www.merchenta.com
 www.mercialtaver.club
+www.mercimunich.de
 www.merciselyancies.site
 www.mercuras.com
 www.mercurymage.top
@@ -168546,6 +168670,7 @@ www.mergedlava.com
 www.meried.co
 www.meronia.de
 www.merrellosterreich.at
+www.merrelloutletonline.de
 www.merrylco.com
 www.meryjane.pro
 www.mesachepty.com
@@ -170647,6 +170772,7 @@ www.naturemarket24.com
 www.naturesunshine.com
 www.naturetrees.org
 www.naturgesunde-tiere.de
+www.naturheilpraxis-kirsten-sildatke.de
 www.naturprojekt.at
 www.naucaips.com
 www.naughtybuddyswoop.com
@@ -170878,6 +171004,7 @@ www.neu-akku.at
 www.neudata.cloud
 www.neudesicmediagroup.com
 www.neueflirts.de
+www.neuesichtweisen.at
 www.neumanns-installation.de
 www.neumashop.cl
 www.neunagel.de
@@ -171131,6 +171258,7 @@ www.niwooghu.com
 www.nixozz.com
 www.nixuy.com
 www.nization.com
+www.njabl.org
 www.njawafwpmv.com
 www.njcengpianwang.cn
 www.njcyfpv.cn
@@ -171759,6 +171887,7 @@ www.okonjoseph.com
 www.okoshechka.net
 www.okshuwu.top
 www.okt5mpi4u570pygje5v9zy.com
+www.oktando.de
 www.oktopost.com
 www.oktrk.com
 www.okt.to
@@ -172158,6 +172287,7 @@ www.osmi-shop.com
 www.osniffer.pro
 www.osotic.com
 www.ospreymedialp.com
+www.ostergartenhermesdorf.de
 www.osterreichpillen.com
 www.ostiics.top
 www.otaijing.com
@@ -172306,6 +172436,7 @@ www.owewary.com
 www.owlanalytics.io
 www.owlcongratulate.com
 www.owlfolk.com
+www.owlkaminholz.de
 www.owlsyumducal.com
 www.owncutone.com
 www.owndata.network
@@ -172495,6 +172626,7 @@ www.panzer-industriebedarf.de
 www.panzvor.com
 www.pa-oa.com
 www.papageienseite.de
+www.papageienzuchtheim.de
 www.papatyrodum.com
 www.papayads.net
 www.papayamobile.com
@@ -173147,6 +173279,7 @@ www.pixel.ad
 www.pixeleze.com
 www.pixelhere.com
 www.pixelinteractivemedia.com
+www.pixelkatze.de
 www.pixellitomedia.com
 www.pixelrevenue.com
 www.pixels.asia
@@ -173333,6 +173466,7 @@ www.plungebackyard.com
 www.pluraldispersegranary.com
 www.plurielmediacenter.com
 www.pluriholz.com
+www.plusbaumarkt.de
 www.plusgo.win
 www.plusservicepartners.com
 www.plutusads.com
@@ -173428,6 +173562,7 @@ www.polomano.co
 www.polsterei-daniels.de
 www.poltarimus.com
 www.poltio.com
+www.polwestos.at
 www.polyad.net
 www.polymerd.com
 www.polymorphicads.jp
@@ -174883,6 +175018,7 @@ www.raealed.club
 www.raeqqe.cn
 www.rafflereticence.com
 www.raftcomposuremeals.com
+www.ra-ganske.de
 www.ragapa.com
 www.ragazzeinvendita.com
 www.raggedstriking.com
@@ -174999,6 +175135,7 @@ www.rarbgtorrents.org
 www.rarbgunblock.com
 www.rarbgunblocked.org
 www.rarbgway.org
+www.rare-ai.net
 www.rareinsane.com
 www.rarelyassortpanel.com
 www.rareplantworld.com
@@ -175402,6 +175539,7 @@ www.reisebuero-fuchs.com
 www.reisebuero-kirsch.com
 www.reisebuero-krah.de
 www.reisebuero-mueller.co
+www.reise-tipps.at
 www.reitb.com
 www.reiterhof-geidner.de
 www.reiterstueberl.net
@@ -175900,6 +176038,7 @@ www.ristoroparadiso.it
 www.ritepluck.com
 www.ritter-mode.com
 www.ritualwarily.com
+www.rivalla.de
 www.rivasearchpage.com
 www.rivcash.com
 www.river-adventure.com
@@ -176673,6 +176812,7 @@ www.schluchsee-ferienwohnung.de
 www.schluesseldienst123.at
 www.schluesseldienst-hilfe.at
 www.schlusseldienst.at
+www.schlussmit.at
 www.schmerbeck-versand.de
 www.schmerzloseapotheke.com
 www.schmerzmittel-billiger.com
@@ -178486,6 +178626,7 @@ www.spotsniper.ru
 www.spots.ru
 www.spottt.com
 www.spotzplay.com
+www.sprachgenie.at
 www.sprayitonyou.com
 www.spreadcreative.club
 www.spreadingmulticultural.com
@@ -179398,6 +179539,7 @@ www.symbiosiswellbeing.com
 www.symbolultrasound.com
 www.sympathetictasting.com
 www.symphoneupcom.site
+www.symplr.de
 www.synacast.com
 www.synagoge.at
 www.sync2ad.com
@@ -179695,6 +179837,7 @@ www.tavelscape.com
 www.tavoos.net
 www.taxmartbrevity.com
 www.tayamacctv.com
+www.tazreiter-holz.at
 www.tba4.cn
 www.tbaia.com
 www.tbamixo.com
@@ -180317,6 +180460,7 @@ www.tightenmonuments.com
 www.tightsaturdayi.com
 www.tightslowingpredictable.com
 www.tiglesoshi.pro
+www.tigung.at
 www.tihealth.com
 www.tikibihu.com
 www.tilidin-kaufen.com
@@ -180593,6 +180737,7 @@ www.top-bloggers.com
 www.topblogging.com
 www.topblogs.com.ph
 www.top-brennholz.com
+www.top-brennholz.de
 www.topbucks.com
 www.top-casting-termine.de
 www.top-chaude.com
@@ -181991,7 +182136,6 @@ www.upsilently.com
 www.upskittyan.com
 www.upsnap.com
 www.upsolutmv.com
-www.ups-service-update.com
 www.upstory.it
 www.uptain.de
 www.uptimecdn.com
@@ -182057,6 +182201,7 @@ www.usairguw.com
 www.usaldrew.com
 www.usapromotravel.com
 www.usbanners.com
+www.us-delivery-update.com
 www.useads.com
 www.usefomo.com
 www.usefulcreatebid.com
@@ -182387,6 +182532,7 @@ www.verifypow.com
 www.verios-gaming.de
 www.veritaspartners.co.jp
 www.verizonmedia.com
+www.verkauf-kaminholz.de
 www.vermessung-dubbert.de
 www.vernaschediewelt.com
 www.verobraun.de
@@ -182781,6 +182927,7 @@ www.vivishop.de
 www.vivistats.com
 www.vivobarefootosterreich.at
 www.vivobarefootsale.at
+www.vivobarefootsaleoutlet.de
 www.vivobarefootschuhe.top
 www.vivocha.com
 www.vivoshoesnz.com
@@ -184109,6 +184256,7 @@ www.woogoust.com
 www.woollenthawewe.com
 www.woomy.me
 www.woopra-ns.com
+www.woopy-bikes.de
 www.wootmedia.net
 www.wootuckedpole.com
 www.wootwood.com
@@ -184791,6 +184939,7 @@ www.xxxcounter.com
 www.xxxex.com
 www.xxx-hunt-er.xyz
 www.xxxivjmp.com
+www.xxxlcatering.at
 www.xxxmatch.com
 www.xxxoh.com
 www.xxxtraffic.biz
@@ -185412,6 +185561,7 @@ www.zabavazaodrasle.com
 www.zabuehner.de
 www.zacao.wang
 www.zacha-hokej.cz
+www.zaful.com
 www.zagose.com
 www.zagtertda.com
 www.zagvee.com
@@ -185513,6 +185663,7 @@ www.zenoviaexchange.com
 www.zenoviagroup.com
 www.zentempel.com
 www.zentraleck.ch
+www.zentralorgan.at
 www.zenwq.com
 www.zenzuu.com
 www.zeobit.com
@@ -185822,6 +185973,7 @@ www.zuibandao.club
 www.zukxd6fkxqn.com
 www.zuliglsa.space
 www.zum-alten-perkeo.de
+www.zumil.de
 www.zumnxwva.ink
 www.zumobi.com
 www.zumodemarketing.com
@@ -187012,6 +187164,7 @@ xxx-hunt-er.xyz
 xxxiijmp.com
 xxxijmp.com
 xxxivjmp.com
+xxxlcatering.at
 xxxlove.rooski.net
 xxxmatch.com
 xxx.mtreexxx.net
@@ -188275,6 +188428,7 @@ zads.zedo.com
 zaeavr.com
 zafiti01.webtrekk-us.net
 zaf.services.zam.com
+zaful.com
 za-gmtdmp.mookie1.com
 zagose.com
 zagtertda.com
@@ -188540,6 +188694,7 @@ zen.sr
 zensrc.com
 zentempel.com
 zentraleck.ch
+zentralorgan.at
 zenwq.com
 zen-yabro-morda.mediascope.mc.yandex.ru
 zenzuu.com
@@ -190523,6 +190678,7 @@ zulu498.rtb.appier.net
 zumads.vrixon.com
 zum-alten-perkeo.de
 zumiez.evergage.com
+zumil.de
 zumnxwva.ink
 zumobi.com
 zumodemarketing.com
