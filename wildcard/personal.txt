@@ -4,8 +4,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 25 Aug 2022 11:59 UTC
-# Version: 2022.0825.1159.35
+# Last modified: 25 Aug 2022 12:17 UTC
+# Version: 2022.0825.1217.21
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
 # Domains: 183
 #
