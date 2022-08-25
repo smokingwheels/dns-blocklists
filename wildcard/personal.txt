@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 25 Aug 2022 08:28 UTC
-# Version: 2022.0825.0828.16
+# Last modified: 25 Aug 2022 11:59 UTC
+# Version: 2022.0825.1159.35
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 185
+# Domains: 183
 #
 *.26sgmin39.de
 *.2a4snhmtm.de
@@ -21,7 +21,7 @@
 *.aff-tracker.com
 *.track.adformnet.akadns.net
 *.aloofvest.com
-*.cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com
+*.alphaads.de
 *.prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
 *.prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com
 *.amp.analytics-debugger.com
@@ -53,7 +53,6 @@
 *.clarity.ms
 *.production.cleverpush.com
 *.vsanalytics.visualsoft.co.uk
-*.event-tracking-services.global.commerce-connector.com
 *.metrics.cottonbird.de
 *.firebase-settings.crashlytics.com
 *.trx.dgtrk2.com
@@ -79,12 +78,12 @@
 *.metrics-nl.fitanalytics.com
 *.metrics-sandbox-orig.fitanalytics.com
 *.floweryflavor.com
+*.getsentry.com
 *.tracker.remp-beam.golem.de
 *.region1.analytics.google.com
 *.pagead-googlehosted.l.google.com
 *.www-google-analytics.l.google.com
-*.region1.google-analytics.com
-*.ssl.google-analytics.com
+*.google-analytics.com
 *.pagead2.googleadservices.com
 *.androidtvchannels-pa.googleapis.com
 *.googleoptimize.com
@@ -127,7 +126,6 @@
 *.trk.ometria.com
 *.h-87rxrdob.online-metrix.net
 *.h-emirates.online-metrix.net
-*.cdn.opecloud.com
 *.analytics-ingestion.pbpms.de
 *.track.ph-connect.de
 *.analytics.prensaiberica.es

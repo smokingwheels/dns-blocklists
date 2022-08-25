@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 25 Aug 2022 08:28 UTC
-# Version: 2022.0825.0828.16
+# Last modified: 25 Aug 2022 11:59 UTC
+# Version: 2022.0825.1159.35
 # Syntax: DNSMasq
-# Domains: 185
+# Domains: 183
 #
 address=/26sgmin39.de/#
 address=/2a4snhmtm.de/#
@@ -21,7 +21,7 @@ address=/adsymptotic.com/#
 address=/aff-tracker.com/#
 address=/track.adformnet.akadns.net/#
 address=/aloofvest.com/#
-address=/cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com/#
+address=/alphaads.de/#
 address=/prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com/#
 address=/prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com/#
 address=/amp.analytics-debugger.com/#
@@ -53,7 +53,6 @@ address=/amp-analytics.chip.de/#
 address=/clarity.ms/#
 address=/production.cleverpush.com/#
 address=/vsanalytics.visualsoft.co.uk/#
-address=/event-tracking-services.global.commerce-connector.com/#
 address=/metrics.cottonbird.de/#
 address=/firebase-settings.crashlytics.com/#
 address=/trx.dgtrk2.com/#
@@ -79,12 +78,12 @@ address=/metrics.fitanalytics.com/#
 address=/metrics-nl.fitanalytics.com/#
 address=/metrics-sandbox-orig.fitanalytics.com/#
 address=/floweryflavor.com/#
+address=/getsentry.com/#
 address=/tracker.remp-beam.golem.de/#
 address=/region1.analytics.google.com/#
 address=/pagead-googlehosted.l.google.com/#
 address=/www-google-analytics.l.google.com/#
-address=/region1.google-analytics.com/#
-address=/ssl.google-analytics.com/#
+address=/google-analytics.com/#
 address=/pagead2.googleadservices.com/#
 address=/androidtvchannels-pa.googleapis.com/#
 address=/googleoptimize.com/#
@@ -127,7 +126,6 @@ address=/nonfattoplike.com/#
 address=/trk.ometria.com/#
 address=/h-87rxrdob.online-metrix.net/#
 address=/h-emirates.online-metrix.net/#
-address=/cdn.opecloud.com/#
 address=/analytics-ingestion.pbpms.de/#
 address=/track.ph-connect.de/#
 address=/analytics.prensaiberica.es/#
