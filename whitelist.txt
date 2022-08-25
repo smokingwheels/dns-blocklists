@@ -147,6 +147,7 @@ cmp-cdn.cookielaw.org
 cmp.cookist.it
 cmp.dmgmediaprivacy.co.uk
 collector.appconsent.io
+consent.b-cdn.net
 consent.cmp.oath.com
 consent.cookiebot.com
 consent.cookiefirst.com
@@ -180,6 +181,7 @@ privacyportal*.onetrust.com
 privacyrequest.cisco.com
 sdk*.privacy-center.org
 spiegel-de.spiegel.de
+uct.service.usercentrics.eu
 vendorlist.consensu.org
 vendors.privacymanager.io
 
@@ -394,12 +396,6 @@ ads.twitter.com
 syndication.twitter.com
 t.co
 
-# Unity
-answers.unity.com
-cdp.cloud.unity3d.com
-config.uca.cloud.unity3d.com
-unityprod.answerhub.com
-
 # Videos on different websites do not start when the following domains are blocked:
 *.schneevonmorgen.com
 *.schneevonmorgen.com.s3.amazonaws.com
@@ -462,6 +458,7 @@ logfiles.zoom.us
 # Misc
 assets.dwell.com
 assets.mmsrg.com
+compass.pressekompass.net
 content.aimatch.com
 i1.wp.com
 images.dmca.com
@@ -471,6 +468,7 @@ mycliplister.com
 pcapredict.com
 sp-ao.shortpixel.ai
 sportsbet.com.au
+cdn.opecloud.com
 
 # NextDNS
 *.nextdns.io
@@ -1047,4 +1045,11 @@ cmp.tvspielfilm.de
 # Images on 1001spiele.de
 ccf.admeen.org
 tcf.admeen.org
+
+# buy content pass on autoservicepraxis.de and other sites
+get.contentpass.net
+
+# Breaks site layout on betano.de
+static.gmlinteractive.com	
+cov.gmlinteractive.com
 
