@@ -276,16 +276,10 @@
 @@||*-msedge.net^
 @@||msedge.net^
 @@||nexusrules.live.com.akadns.net^
-!*.office.com
-!*.office.net
-!*.office365.com
 @@||officeapps.live.com^
-!*.outlook.com
-!*.outlookmobile.com
 @@||rewardsplatform.microsoft.com^
 @@||smartscreen-prod.microsoft.com^
 @@||teams.live.com^
-!*.trafficmanager.net
 @@||vortex.data.microsoft.com^
 @@|*microsoft.online-metrix.net^
 @@|activity.windows.com^
@@ -298,7 +292,7 @@
 @@|go.microsoft.com^
 @@|go.trouter.skype.com^
 @@|ic3.events.data.microsoft.com^
-@@|onedscolprd*.northeurope.cloudapp.azure.com^
+@@|onedscolprd*.*.cloudapp.azure.com^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
 @@|settings-win.data.microsoft.com^
