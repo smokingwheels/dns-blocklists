@@ -184,6 +184,14 @@
 
 ---
 
+### ***Credits***
+
+**A huge thank you to the following list maintainers of the [sources used](usedsources.md), alphabetical order:**
+
+*abpindo, abpvn, abuse.ch, adguardteam, adroitadorkhan, amnestytech, assoechap, azorult-tracker.net, badmojr, barbblock, bigdargon, bongochong, botvrij.eu, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, digitalside.it, drsdavidsoft, durablenapkin, easylist, easylist-lithuania, easylist-thailand, elliotwutingfeng, fademind, firebog.net, frogeye.fr, guardicore, hexxiumcreations, hole.cert.pl, hoshsadiq, hpthreatresearch, iam-py-test, infinitytec, jkrejcha, joewein.net, kargig, kevinthomas0, kriskintel.com, laicure, laniksj, lassekongo83, latvian-list, malware-filter, marco-acorte, matomo-org, metamask, mitchellkrogza, netlab.360, nextdns, nitrohorse, notonmyshift, notracking, oisd.nl, olbat, oneoffdallas, paulgb, perflyst, phishing.army, piperun, polishfiltersteam, prodaft, quidsup, rescure.me, scafroglia93, shadowwhisperer, sjhgvr, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, th3m3, tomasko126, ublockorigin, wally3k, zerodot1, zoso.ro*
+
+---
+
 <p align="center"><a href="https://github.com/hagezi/dns-blocklists/graphs/contributors"><img src="https://contrib.rocks/image?repo=hagezi/dns-blocklists" /></a></p>
 <p align="center"><i><b>"If the plan doesn‘t work, change the plan but never the goal."<br>There's no place like 127.0.0.1!</b></i></p>
 
