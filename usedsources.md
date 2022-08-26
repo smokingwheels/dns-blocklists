@@ -20,7 +20,7 @@
 16. domains - fake.txt
 17. domains - black.list
 
-For domain and host lists, additionally: matching/missing subdomains (see below)
+For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### MULTI
 ```
@@ -76,7 +76,7 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 50. domains - https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 51. domains - light.txt
 
-For domain and host lists, additionally: matching/missing subdomains (see below)
+For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO
 ```
@@ -84,7 +84,7 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 2. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
 3. domains - multi.txt
 
-For domain and host lists, additionally: matching/missing subdomains (see below)
+For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO.PLUS
 ```
@@ -169,7 +169,7 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 79. domains - pro.txt
 80. domains - tif.txt
 
-For domain and host lists, additionally: matching/missing subdomains (see below)
+For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### FAKE
 ```
@@ -309,7 +309,8 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 ```
 1. domains - https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes
 ```
-### The matching/missing subdomains for domain and hosts lists are extracted from the following lists:
+### Subdomains
+*The matching/missing subdomains for domain and hosts lists are extracted from the following lists:*
 ```
 https://dbl.oisd.nl/
 https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt
@@ -324,7 +325,8 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 ```
-### Credits - A huge thank you to the following list maintainers of the sources used, alphabetical order:
+### Credits
+*A huge thank you to the following list maintainers of the sources used, alphabetical order:*
 ```
 abpindo, abpvn, abuse.ch, adguardteam, adroitadorkhan, amnestytech, assoechap, azorult-tracker.net, badmojr, barbblock, 
 bigdargon, bongochong, botvrij.eu, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, digitalside.it,
