@@ -294,6 +294,8 @@ g.msn.com
 go.microsoft.com
 go.trouter.skype.com
 ic3.events.data.microsoft.com
+mobile.events.data.microsoft.com
+mobile.events.data.trafficmanager.net
 onedscolprd*.*.cloudapp.azure.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
@@ -830,7 +832,7 @@ img.connatix.com
 vid.connatix.com
 
 # Videos on huffingtonpost.it / iltalehti.fi
-# !!! Will not be unblocked in pro plus, the domain is used for bypass google analytics and is quite common !!!
+# !!! Will not be unblocked, the domain is used for bypass google analytics and is quite common !!!
 # www.googletagmanager.com
 
 # Videos on WOW / Sky Ticket / Hulu
@@ -965,7 +967,7 @@ save.tv
 scnlog.me
 
 # Click article Links on scotsman.com
-# !!! Will not be unblocked in pro plus, the domain is used for bypass google analytics and is quite common !!!
+# !!! Will not be unblocked, the domain is used for bypass google analytics and is quite common !!!
 # www.googletagmanager.com
 
 # Breaks site layout on share-videos.se
@@ -1057,9 +1059,12 @@ cov.gmlinteractive.com
 # https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1012
 marvel-b1-cdn.bc0a.com
 
- # https://github.com/badmojr/1Hosts/issues/677
+# https://github.com/badmojr/1Hosts/issues/677
 awxcdn.com
 
 # https://github.com/badmojr/1Hosts/issues/640
 h-charter.online-metrix.net
+
+# DHgate shopping
+de.dhgate.com
 

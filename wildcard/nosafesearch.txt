@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 23 Aug 2022 17:52 UTC
-# Version: 2022.0823.1752.54
+# Last modified: 26 Aug 2022 14:54 UTC
+# Version: 2022.0826.1454.25
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 159
+# Domains: 134
 #
 *.search.0xcb.dev
 *.searx.32bitflo.at
@@ -16,7 +16,6 @@
 *.zoek.anchel.nl
 *.search.anonymize.com
 *.search.aol.com
-*.search.paulla.asso.fr
 *.search.azkware.net
 *.searx.bbaovanc.com
 *.beezboo.com
@@ -24,7 +23,6 @@
 *.search.bluelock.org
 *.boomle.com
 *.search.brave.com
-*.searx.canox.net
 *.recherche.catmargue.org
 *.searx.com.au
 *.darmarit.org
@@ -44,7 +42,6 @@
 *.eulie.de
 *.searx.everdot.org
 *.searx.feneas.org
-*.finden.tk
 *.searx.fmac.xyz
 *.searx.foo.li
 *.searx.forked.io
@@ -53,40 +50,27 @@
 *.gigablast.com
 *.searx.gnu.style
 *.searx.gotrust.de
-*.search.gougeul.org
 *.gruble.de
-*.searx.guillaumea.fr
 *.hmsearx.h0meserver.com
-*.searx.handskemager.xyz
 *.searx.hardwired.link
 *.seeks.hsbp.org
 *.search.jigsaw-security.com
 *.search.jpope.org
 *.jsearch.pw
 *.trovu.komun.org
-*.searx.kvch.me
-*.searx.lambda.li
-*.searx.laquadrature.net
 *.searx.lavatech.top
 *.haku.lelux.fi
 *.searx.lelux.fi
 *.search.lgbtq.cool
 *.searx.libmail.eu
-*.searx.likkle.monster
-*.searx.linux.pizza
-*.searx.lnode.net
-*.searx.louifox.house
 *.lukol.com
 *.searx.lwhr.xyz
 *.searx.lynnesbian.space
 *.go.mail.ru
 *.searx.mastodontech.de
-*.searx.maxxblow.de
 *.search.mdosch.de
 *.metasearch.nl
-*.suche.mexmail.de
 *.mijisou.com
-*.engo.mint.lgbt
 *.search.modalogi.com
 *.mojeek.com
 *.searx.monicz.pl
@@ -97,12 +81,9 @@
 *.searx.nevrlands.de
 *.nibblehole.com
 *.searx.nightmare.life
-*.nigma.eu
 *.searx.nixnet.services
 *.timdor.noip.me
 *.null.media
-*.searx.nulltime.net
-*.searx.olymp.to
 *.searx.openhoofd.nl
 *.searx.openpandora.org
 *.search.opentunisia.org
@@ -112,16 +93,13 @@
 *.searx.ouahpiti.info
 *.peekier.com
 *.perfectpixel.de
-*.searx.pofilo.fr
 *.search.privacytools.io
-*.searx.privatenet.cf
 *.searx.prvcy.eu
 *.searx.pwoss.org
 *.nova.rambler.ru
 *.searx.rasp.fr
 *.wtf.roflcopter.fr
 *.roteserver.de
-*.searx.rxyz.rocks
 *.searchencrypt.com
 *.searchx.mobi
 *.searx.bar
@@ -131,7 +109,6 @@
 *.searx.ir
 *.searx.ninja
 *.searx.org
-*.searx.ro
 *.searx.ru
 *.searx.run
 *.searx.win
@@ -155,11 +132,9 @@
 *.searx.sulu.me
 *.searx.sunless.cloud
 *.searx.thegreenwebfoundation.org
-*.tromland.org
 *.searx.tuxcloud.net
 *.searx.tyil.nl
 *.suche.uferwerk.org
-*.unmonito.red
 *.searx.vitanetworks.link
 *.searx.wegeeks.win
 *.search.yahoo.com

@@ -3,15 +3,14 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 23 Aug 2022 17:53 UTC
-# Version: 2022.0823.1753.06
+# Last modified: 26 Aug 2022 14:55 UTC
+# Version: 2022.0826.1455.29
 # Syntax: Hosts
-# Domains: 789
+# Domains: 774
 #
 0.0.0.0 001www.com
 0.0.0.0 0x.no
 0.0.0.0 120v.ac
-0.0.0.0 12bittirade.com
 0.0.0.0 1337.cx
 0.0.0.0 16-b.it
 0.0.0.0 1cooldns.com
@@ -113,14 +112,13 @@
 0.0.0.0 damnserver.com
 0.0.0.0 darktech.org
 0.0.0.0 dd-dns.de
-0.0.0.0 ddns.me
-0.0.0.0 ddns.net
 0.0.0.0 ddns.info
+0.0.0.0 ddns.me
 0.0.0.0 ddns.mobi
 0.0.0.0 ddns.ms
 0.0.0.0 ddns.name
+0.0.0.0 ddns.net
 0.0.0.0 ddns.us
-0.0.0.0 ddns.cam
 0.0.0.0 ddnsfree.com
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
@@ -131,8 +129,6 @@
 0.0.0.0 diskstation.eu
 0.0.0.0 diskstation.org
 0.0.0.0 ditchyourip.com
-0.0.0.0 dns.army
-0.0.0.0 dns.navy
 0.0.0.0 dns-dns.com
 0.0.0.0 dns-report.com
 0.0.0.0 dns-stuff.com
@@ -167,11 +163,9 @@
 0.0.0.0 doomdns.org
 0.0.0.0 dray-dns.de
 0.0.0.0 draydns.de
-0.0.0.0 dsmtp.biz
 0.0.0.0 dsmtp.com
-0.0.0.0 dtdns.org
 0.0.0.0 dtdns.net
-0.0.0.0 dubya.biz
+0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
 0.0.0.0 dubya.us
@@ -191,13 +185,13 @@
 0.0.0.0 dynamic-dns.net
 0.0.0.0 dynamicdns.biz
 0.0.0.0 dynathome.net
-0.0.0.0 dyndns.pro
 0.0.0.0 dyndns.biz
+0.0.0.0 dyndns.dk
 0.0.0.0 dyndns.info
 0.0.0.0 dyndns.org
+0.0.0.0 dyndns.pro
 0.0.0.0 dyndns.tv
 0.0.0.0 dyndns.ws
-0.0.0.0 dyndns.dk
 0.0.0.0 go.dyndns.org
 0.0.0.0 home.dyndns.org
 0.0.0.0 dyndns-at-home.com
@@ -224,7 +218,6 @@
 0.0.0.0 dynu.net
 0.0.0.0 dynuddns.com
 0.0.0.0 dynuddns.net
-0.0.0.0 dynv6.net
 0.0.0.0 dynvpn.de
 0.0.0.0 eating-organic.net
 0.0.0.0 eatuo.com
@@ -520,8 +513,8 @@
 0.0.0.0 merseine.nu
 0.0.0.0 merseine.org
 0.0.0.0 mindhackers.org
-0.0.0.0 mine.nu
 0.0.0.0 mine.bz
+0.0.0.0 mine.nu
 0.0.0.0 minecraftnoob.com
 0.0.0.0 minecraftr.us
 0.0.0.0 misconfused.org
@@ -541,16 +534,16 @@
 0.0.0.0 my03.com
 0.0.0.0 myactivedirectory.com
 0.0.0.0 mydad.info
-0.0.0.0 myddns.me
-0.0.0.0 myddns.com
-0.0.0.0 myddns.rocks
 0.0.0.0 myddns.biz
+0.0.0.0 myddns.com
+0.0.0.0 myddns.me
+0.0.0.0 myddns.rocks
 0.0.0.0 mydissent.net
 0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
-0.0.0.0 myftp.org
 0.0.0.0 myftp.info
 0.0.0.0 myftp.name
+0.0.0.0 myftp.org
 0.0.0.0 myiphost.com
 0.0.0.0 mylftv.com
 0.0.0.0 mymediapc.net
@@ -566,7 +559,6 @@
 0.0.0.0 mypop3.net
 0.0.0.0 mypop3.org
 0.0.0.0 mypsx.net
-0.0.0.0 myq-see.com
 0.0.0.0 mysecondarydns.com
 0.0.0.0 mysecuritycamera.com
 0.0.0.0 mysecuritycamera.net
@@ -583,7 +575,6 @@
 0.0.0.0 netlord.de
 0.0.0.0 nflfan.org
 0.0.0.0 nhlfan.net
-0.0.0.0 ninth.biz
 0.0.0.0 no-ip.be
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca
@@ -628,7 +619,6 @@
 0.0.0.0 organiccrap.com
 0.0.0.0 otzo.com
 0.0.0.0 ourhobby.com
-0.0.0.0 ownip.net
 0.0.0.0 pcanywhere.net
 0.0.0.0 pgafan.net
 0.0.0.0 photo-frame.com
@@ -714,7 +704,6 @@
 0.0.0.0 shaqnet.nu
 0.0.0.0 silksky.com
 0.0.0.0 simple-url.com
-0.0.0.0 sixth.biz
 0.0.0.0 sly.io
 0.0.0.0 slyip.com
 0.0.0.0 slyip.net
@@ -751,27 +740,23 @@
 0.0.0.0 tru.io
 0.0.0.0 twilightparadox.com
 0.0.0.0 ufcfan.org
-0.0.0.0 uk.to
 0.0.0.0 uk.ms
+0.0.0.0 uk.to
 0.0.0.0 undo.it
 0.0.0.0 unusualperson.com
 0.0.0.0 us.to
-0.0.0.0 v6.army
-0.0.0.0 v6.navy
-0.0.0.0 v6.rocks
 0.0.0.0 verymad.net
 0.0.0.0 viewdns.net
 0.0.0.0 vizvaz.com
 0.0.0.0 vpndns.net
 0.0.0.0 vr.lt
-0.0.0.0 webhop.me
 0.0.0.0 webhop.biz
 0.0.0.0 webhop.info
+0.0.0.0 webhop.me
 0.0.0.0 webhop.net
 0.0.0.0 webhop.org
 0.0.0.0 webok.net
 0.0.0.0 webredirect.org
-0.0.0.0 wha.la
 0.0.0.0 wifizone.org
 0.0.0.0 wikaba.com
 0.0.0.0 wiki.gd

@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 25 Aug 2022 12:17 UTC
-# Version: 2022.0825.1217.21
+# Last modified: 26 Aug 2022 15:10 UTC
+# Version: 2022.0826.1510.16
 # Syntax: Domains
-# Domains: 264
+# Domains: 265
 #
 26sgmin39.de
 www.26sgmin39.de
@@ -252,6 +252,7 @@ trackhit.net
 ssl.trackhit.net
 trackvrs.com
 www.trackvrs.com
+serviceschipotlecom.trafficmanager.net
 analytics.trbna.com
 cdn.trkkn.com
 trknk.com

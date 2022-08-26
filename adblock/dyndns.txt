@@ -3,15 +3,14 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 23 Aug 2022 17:53 UTC
-! Version: 2022.0823.1753.06
+! Last modified: 26 Aug 2022 14:55 UTC
+! Version: 2022.0826.1455.29
 ! Syntax: AdBlock
-! Domains: 787
+! Domains: 772
 !
 ||001www.com^
 ||0x.no^
 ||120v.ac^
-||12bittirade.com^
 ||1337.cx^
 ||16-b.it^
 ||1cooldns.com^
@@ -113,14 +112,13 @@
 ||damnserver.com^
 ||darktech.org^
 ||dd-dns.de^
-||ddns.me^
-||ddns.net^
 ||ddns.info^
+||ddns.me^
 ||ddns.mobi^
 ||ddns.ms^
 ||ddns.name^
+||ddns.net^
 ||ddns.us^
-||ddns.cam^
 ||ddnsfree.com^
 ||ddnsgeek.com^
 ||ddnsguru.com^
@@ -131,8 +129,6 @@
 ||diskstation.eu^
 ||diskstation.org^
 ||ditchyourip.com^
-||dns.army^
-||dns.navy^
 ||dns-dns.com^
 ||dns-report.com^
 ||dns-stuff.com^
@@ -167,11 +163,9 @@
 ||doomdns.org^
 ||dray-dns.de^
 ||draydns.de^
-||dsmtp.biz^
 ||dsmtp.com^
-||dtdns.org^
 ||dtdns.net^
-||dubya.biz^
+||dtdns.org^
 ||dubya.info^
 ||dubya.net^
 ||dubya.us^
@@ -191,13 +185,13 @@
 ||dynamic-dns.net^
 ||dynamicdns.biz^
 ||dynathome.net^
-||dyndns.pro^
 ||dyndns.biz^
+||dyndns.dk^
 ||dyndns.info^
 ||dyndns.org^
+||dyndns.pro^
 ||dyndns.tv^
 ||dyndns.ws^
-||dyndns.dk^
 ||dyndns-at-home.com^
 ||dyndns-at-work.com^
 ||dyndns-blog.com^
@@ -222,7 +216,6 @@
 ||dynu.net^
 ||dynuddns.com^
 ||dynuddns.net^
-||dynv6.net^
 ||dynvpn.de^
 ||eating-organic.net^
 ||eatuo.com^
@@ -518,8 +511,8 @@
 ||merseine.nu^
 ||merseine.org^
 ||mindhackers.org^
-||mine.nu^
 ||mine.bz^
+||mine.nu^
 ||minecraftnoob.com^
 ||minecraftr.us^
 ||misconfused.org^
@@ -539,16 +532,16 @@
 ||my03.com^
 ||myactivedirectory.com^
 ||mydad.info^
-||myddns.me^
-||myddns.com^
-||myddns.rocks^
 ||myddns.biz^
+||myddns.com^
+||myddns.me^
+||myddns.rocks^
 ||mydissent.net^
 ||myeffect.net^
 ||myftp.biz^
-||myftp.org^
 ||myftp.info^
 ||myftp.name^
+||myftp.org^
 ||myiphost.com^
 ||mylftv.com^
 ||mymediapc.net^
@@ -564,7 +557,6 @@
 ||mypop3.net^
 ||mypop3.org^
 ||mypsx.net^
-||myq-see.com^
 ||mysecondarydns.com^
 ||mysecuritycamera.com^
 ||mysecuritycamera.net^
@@ -581,7 +573,6 @@
 ||netlord.de^
 ||nflfan.org^
 ||nhlfan.net^
-||ninth.biz^
 ||no-ip.be^
 ||no-ip.biz^
 ||no-ip.ca^
@@ -626,7 +617,6 @@
 ||organiccrap.com^
 ||otzo.com^
 ||ourhobby.com^
-||ownip.net^
 ||pcanywhere.net^
 ||pgafan.net^
 ||photo-frame.com^
@@ -712,7 +702,6 @@
 ||shaqnet.nu^
 ||silksky.com^
 ||simple-url.com^
-||sixth.biz^
 ||sly.io^
 ||slyip.com^
 ||slyip.net^
@@ -749,27 +738,23 @@
 ||tru.io^
 ||twilightparadox.com^
 ||ufcfan.org^
-||uk.to^
 ||uk.ms^
+||uk.to^
 ||undo.it^
 ||unusualperson.com^
 ||us.to^
-||v6.army^
-||v6.navy^
-||v6.rocks^
 ||verymad.net^
 ||viewdns.net^
 ||vizvaz.com^
 ||vpndns.net^
 ||vr.lt^
-||webhop.me^
 ||webhop.biz^
 ||webhop.info^
+||webhop.me^
 ||webhop.net^
 ||webhop.org^
 ||webok.net^
 ||webredirect.org^
-||wha.la^
 ||wifizone.org^
 ||wikaba.com^
 ||wiki.gd^
