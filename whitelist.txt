@@ -1053,3 +1053,8 @@ get.contentpass.net
 static.gmlinteractive.com	
 cov.gmlinteractive.com
 
+# Images on https://www.beretta.com/en-us/gifts/
+# https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1012
+marvel-b1-cdn.bc0a.com
+
+ 
