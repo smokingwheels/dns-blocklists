@@ -1057,4 +1057,6 @@ cov.gmlinteractive.com
 # https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1012
 marvel-b1-cdn.bc0a.com
 
- 
+ # https://github.com/badmojr/1Hosts/issues/677
+awxcdn.com
+
