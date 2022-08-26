@@ -4,8 +4,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 Aug 2022 18:46 UTC
-# Version: 2022.0826.1846.28
+# Last modified: 26 Aug 2022 20:57 UTC
+# Version: 2022.0826.2057.51
 # Syntax: DNSMasq
 # Domains: 7013
 #

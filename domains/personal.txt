@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 Aug 2022 18:56 UTC
-# Version: 2022.0826.1856.54
+# Last modified: 26 Aug 2022 21:07 UTC
+# Version: 2022.0826.2107.59
 # Syntax: Domains
-# Domains: 313
+# Domains: 307
 #
 26sgmin39.de
 www.26sgmin39.de
@@ -68,11 +68,8 @@ photos1.blogger.com
 analytics.bomiv.com
 borrelioseweb.de
 www.borrelioseweb.de
-braze.eu
 cdn.braze.eu
-sdk.fra-01.braze.eu
 sdk.iad-01.braze.com
-www.braze.eu
 metrics.brightcove.com
 pixel.bsmartdata.com
 notify.bugsnag.com
@@ -218,8 +215,6 @@ analytics-cdn.prensaiberica.es
 proxyrarbg.org
 www.proxyrarbg.org
 emirates-app.quantummetric.com
-rarbg.to
-www.rarbg.to
 rarbg2018.org
 www.rarbg2018.org
 rarbg2019.org
@@ -263,7 +258,6 @@ www.rarbgunblocked.org
 rarbgway.org
 www.rarbgway.org
 pixel.renovai.com
-reputationsheriffkennethsand.com
 metrics.rewe.de
 ribsaiji.com
 rndskittytor.com

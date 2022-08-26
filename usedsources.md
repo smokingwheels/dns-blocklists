@@ -26,7 +26,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |      77% |  22% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  2 |      83% |  17% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  2 |      82% |  17% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   3 |      89% |   9% |      2% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
   4 |      85% |  14% |      1% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
   5 |      49% |  51% |      0% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
@@ -67,7 +67,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  40 |      83% |  11% |      5% | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
  41 |      91% |   8% |      0% | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
  42 |     100% |   0% |      0% | https://v.firebog.net/hosts/Admiral.txt
- 43 |      91% |   8% |      1% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+ 43 |      91% |   8% |      2% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
  44 |      97% |   0% |      2% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
  45 |      97% |   2% |      1% | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
  46 |      93% |   5% |      2% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
@@ -105,7 +105,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  13 |      91% |   8% |      1% | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
  14 |      82% |  12% |      5% | https://v.firebog.net/hosts/static/w3kbl.txt
  15 |      77% |  22% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 16 |      83% |  17% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+ 16 |      82% |  17% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
  17 |      89% |   9% |      2% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
  18 |      85% |  14% |      1% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
  19 |      49% |  51% |      0% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
@@ -146,7 +146,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  54 |      83% |  11% |      5% | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
  55 |      91% |   8% |      0% | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
  56 |     100% |   0% |      0% | https://v.firebog.net/hosts/Admiral.txt
- 57 |      91% |   8% |      1% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+ 57 |      91% |   8% |      2% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
  58 |      97% |   0% |      2% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
  59 |      97% |   2% |      1% | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
  60 |      93% |   5% |      2% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
@@ -290,12 +290,23 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 ```
 #### DOH-VPN-PROXY-BYPASS
 ```
+ Nr | Included | Dead | Removed | URL/File
+  1 |      91% |   8% |      0% | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+  2 |      94% |   6% |      0% | https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt
+  3 |      95% |   5% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+  4 |      93% |   7% |      0% | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains
+  5 |      13% |  87% |      0% | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/vpn/domains
+  6 |      90% |  10% |      0% | black.list.dohdot
 ```
 #### NOSAFESEARCH
 ```
+ Nr | Included | Dead | Removed | URL/File
+  1 |      84% |  16% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported
 ```
 #### DYNDNS
 ```
+ Nr | Included | Dead | Removed | URL/File
+  1 |      98% |   2% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes
 ```
 ---
 ### Subdomains

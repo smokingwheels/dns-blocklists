@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 Aug 2022 18:56 UTC
-# Version: 2022.0826.1856.54
+# Last modified: 26 Aug 2022 21:07 UTC
+# Version: 2022.0826.2107.59
 # Syntax: DNSMasq
-# Domains: 210
+# Domains: 208
 #
 address=/26sgmin39.de/#
 address=/2a4snhmtm.de/#
@@ -55,7 +55,7 @@ address=/analytics.bfops.io/#
 address=/photos1.blogger.com/#
 address=/analytics.bomiv.com/#
 address=/borrelioseweb.de/#
-address=/braze.eu/#
+address=/cdn.braze.eu/#
 address=/sdk.iad-01.braze.com/#
 address=/metrics.brightcove.com/#
 address=/pixel.bsmartdata.com/#
@@ -151,7 +151,6 @@ address=/analytics.prensaiberica.es/#
 address=/analytics-cdn.prensaiberica.es/#
 address=/proxyrarbg.org/#
 address=/emirates-app.quantummetric.com/#
-address=/rarbg.to/#
 address=/rarbg2018.org/#
 address=/rarbg2019.org/#
 address=/rarbgaccess.org/#
@@ -174,7 +173,6 @@ address=/rarbgunblock.com/#
 address=/rarbgunblocked.org/#
 address=/rarbgway.org/#
 address=/pixel.renovai.com/#
-address=/reputationsheriffkennethsand.com/#
 address=/metrics.rewe.de/#
 address=/ribsaiji.com/#
 address=/rndskittytor.com/#
