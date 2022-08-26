@@ -454,6 +454,7 @@
 @@||qksrv.net^
 @@||r20.rs6.net^
 @@||rd.bizrate.com^
+@@||readdle.cmail20.com^
 @@||rebrandlydomain.com^
 @@||redirect.at^
 @@||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
