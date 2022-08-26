@@ -9,8 +9,8 @@
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:--------:|:--------:|:--------:|
 | [Light](https://github.com/hagezi/dns-blocklists#multi-light---light-protection)             | 197640<br>85174     |   |   | = | X |   |   |   |   | X |
 | [Normal](https://github.com/hagezi/dns-blocklists#multi-normal---all-round-protection)       | 717326<br>157399     |   | = | X | X | P |   |   |   | X |
-| [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1317043<br>420746         | = | X | X | X | P |   |   |   | X |
-| [Pro++<br>(BETA)](https://github.com/hagezi/dns-blocklists#multi-pro---beta-experimental)    | 1644413<br>585631 | + | X | X | X | X |   |   |   | X |
+| [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1317041<br>420745         | = | X | X | X | P |   |   |   | X |
+| [Pro++<br>(BETA)](https://github.com/hagezi/dns-blocklists#multi-pro---beta-experimental)    | 1644411<br>585630 | + | X | X | X | X |   |   |   | X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -46,7 +46,7 @@
 
 ### ***Multi PRO*** - **Extended protection**
       
-**Entries:** *1317043 domains/hosts - 420746 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1317041 domains/hosts - 420745 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -61,7 +61,7 @@
 
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains.*
 
-**Entries:** *1644413 domains/hosts - 585631 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1644411 domains/hosts - 585630 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
