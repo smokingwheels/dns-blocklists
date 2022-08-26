@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 Aug 2022 15:10 UTC
-# Version: 2022.0826.1510.16
+# Last modified: 26 Aug 2022 18:56 UTC
+# Version: 2022.0826.1856.54
 # Syntax: Domains
-# Domains: 265
+# Domains: 313
 #
 26sgmin39.de
 www.26sgmin39.de
@@ -22,6 +22,9 @@ api.997ad.xyz
 www.997ad.xyz
 ad-cdn.name
 www.ad-cdn.name
+track.adform.net
+adnxs.com
+www.adnxs.com
 adnxs-simple.com
 ads4trk.com
 vrmom.ads4trk.com
@@ -29,17 +32,28 @@ www.ads4trk.com
 adsymptotic.com
 aff-tracker.com
 track.adformnet.akadns.net
+track-eu.adformnet.akadns.net
 aloofvest.com
 alphaads.de
 www.alphaads.de
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
 prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
 prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com
 amp.analytics-debugger.com
 app-measurement.com
 region1.app-measurement.com
+securemetrics.apple.com
 supportmetrics.apple.com
 track.applicaster.com
 serverside-tracking.ew.r.appspot.com
+analytics.ff.avast.com
+ip-info.ff.avast.com
+ipm-provider.ff.avast.com
+shepherd.ff.avast.com
+ipmcdn.avast.com
+ncc.avast.com
+web.diagnostic.networking.aws.dev
 adv-cloudfilse.azureedge.net
 cdnnwlive.azureedge.net
 fp-cdn.azureedge.net
@@ -54,7 +68,11 @@ photos1.blogger.com
 analytics.bomiv.com
 borrelioseweb.de
 www.borrelioseweb.de
+braze.eu
 cdn.braze.eu
+sdk.fra-01.braze.eu
+sdk.iad-01.braze.com
+www.braze.eu
 metrics.brightcove.com
 pixel.bsmartdata.com
 notify.bugsnag.com
@@ -64,10 +82,18 @@ childlikeform.com
 amp-analytics.chip.de
 clarity.ms
 www.clarity.ms
+cleverpush.com
+api.cleverpush.com
 production.cleverpush.com
+static.cleverpush.com
+www.cleverpush.com
+d3p8zr0ffa9t17.cloudfront.net
+dxz5jxhrrzigf.cloudfront.net
 vsanalytics.visualsoft.co.uk
 metrics.cottonbird.de
+crashlytics.com
 firebase-settings.crashlytics.com
+www.crashlytics.com
 trx.dgtrk2.com
 smetrics.dhl.de
 googleads.g.doubleclick.net
@@ -78,6 +104,8 @@ stats.g.doubleclick.net
 static.doubleclick.net
 sadobemetrics.dr.dk
 webanalytics.drk-blutspende.de
+dynatrace.com
+www.dynatrace.com
 ei8ihtrk.com
 www.ei8ihtrk.com
 ejectbagsindefinite.com
@@ -106,6 +134,7 @@ ssl.google-analytics.com
 www.google-analytics.com
 pagead2.googleadservices.com
 androidtvchannels-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
 googleoptimize.com
 www.googleoptimize.com
 googlesyndication.com
@@ -128,7 +157,12 @@ instabug.com
 api.instabug.com
 api-apm.instabug.com
 www.instabug.com
+ioam.de
+config.ioam.de
+de.ioam.de
 irqs.ioam.de
+script.ioam.de
+www.ioam.de
 iocnt.net
 isthereanythingleft.com
 www.isthereanythingleft.com
@@ -146,6 +180,7 @@ retrack-kupona.kuponacdn.de
 www.kuponacdn.de
 eic.cdpbeacon.lgtvcommon.com
 metrics.lidl.com
+webhook.logentries.com
 mastersincash.com
 ptcdn.mastersincash.com
 www.mastersincash.com
@@ -162,8 +197,11 @@ www.mycleverpush.com
 mysexymatches.com
 www.mysexymatches.com
 nessainy.net
+newrelic.com
 insights-collector.newrelic.com
+js-agent.newrelic.com
 metric-api.newrelic.com
+www.newrelic.com
 nextleveltracking.eu
 tag.nextleveltracking.eu
 www.nextleveltracking.eu
@@ -172,6 +210,7 @@ www.nonfattoplike.com
 trk.ometria.com
 h-87rxrdob.online-metrix.net
 h-emirates.online-metrix.net
+tagger.opecloud.com
 analytics-ingestion.pbpms.de
 track.ph-connect.de
 analytics.prensaiberica.es
@@ -179,6 +218,8 @@ analytics-cdn.prensaiberica.es
 proxyrarbg.org
 www.proxyrarbg.org
 emirates-app.quantummetric.com
+rarbg.to
+www.rarbg.to
 rarbg2018.org
 www.rarbg2018.org
 rarbg2019.org
@@ -222,6 +263,7 @@ www.rarbgunblocked.org
 rarbgway.org
 www.rarbgway.org
 pixel.renovai.com
+reputationsheriffkennethsand.com
 metrics.rewe.de
 ribsaiji.com
 rndskittytor.com
@@ -230,11 +272,16 @@ session-bugs-fra1.rtl.de
 sanalytics.rundschau-online.de
 pro-web-metrics.alias.s24cloud.net
 scarfsmash.com
+sb.scorecardresearch.com
 udm.scorecardresearch.com
+track.seadform.net
 selfishsnake.com
 tmptrk.sensic.net
 trk.sensic.net
+browser.sentry-cdn.com
 fgn.cdn.serverable.com
+smartclip.net
+www.smartclip.net
 sparta-tracking.xyz
 track.sparta-tracking.xyz
 sqrt-5041.de
@@ -270,6 +317,7 @@ analytics.wasserstand-niederoesterreich.at
 track.production.webgains.team
 webroutetrk.com
 www.webroutetrk.com
+mc.yandex.ru
 bo-tracking.zettle.com
 zodertracker.com
 www.zodertracker.com
