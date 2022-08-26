@@ -287,7 +287,11 @@
 @@|activity.windows.com^
 @@|api.*.microsoft.com^
 @@|arc.msn.com^
+@@|atm-settingsfe-prod-geo*.trafficmanager.net^
 @@|beacon.*.c-msedge.net^
+@@|browser.events.data.microsoft.com^
+@@|browser.events.data.trafficmanager.net^
+@@|browser.pipe.aria.microsoft.com^
 @@|dc.applicationinsights.azure.com^
 @@|g.live.com^
 @@|g.msn.com^
@@ -296,6 +300,7 @@
 @@|ic3.events.data.microsoft.com^
 @@|mobile.events.data.microsoft.com^
 @@|mobile.events.data.trafficmanager.net^
+@@|mobile.pipe.aria.microsoft.com^
 @@|onedscolprd*.*.cloudapp.azure.com^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
