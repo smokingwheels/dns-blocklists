@@ -1,6 +1,6 @@
 ### Sources used for compiling the block lists:
           
-### LIGHT
+#### LIGHT
 ```
 1. domains - https://dbl.oisd.nl/basic
 2. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
@@ -22,7 +22,7 @@
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
 ```
-### MULTI
+#### MULTI
 ```
 1. hosts - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 2. adblock - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -78,7 +78,7 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
 ```
-### PRO
+#### PRO
 ```
 1. domains - https://dbl.oisd.nl/
 2. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
@@ -86,7 +86,7 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
 ```
-### PRO.PLUS
+#### PRO.PLUS
 ```
 1. domains - https://dbl.oisd.nl/basic
 2. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
@@ -171,13 +171,13 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
 ```
-### FAKE
+#### FAKE
 ```
 1. domains - fake.ts.txt
 2. domains - fake.vzni.txt
 3. domains - fake.wli.txt
 ```
-### TIF
+#### TIF
 ```
 1. hosts - https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
 2. hosts - https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
@@ -292,7 +292,7 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 111. domains - black.list.malware
 112. domains - black.list.threat-intelligence
 ```
-### DOH-VPN-PROXY-BYPASS
+#### DOH-VPN-PROXY-BYPASS
 ```
 1. hosts - https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 2. domains - https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt
@@ -301,15 +301,30 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 5. domains - https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/vpn/domains
 6. domains - black.list.dohdot
 ```
-### NOSAFESEARCH
+#### NOSAFESEARCH
 ```
 1. domains - https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported
 ```
-### DYNDNS
+#### DYNDNS
 ```
 1. domains - https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes
 ```
 ### The matching/missing subdomains for domain and hosts lists are extracted from the following lists:
+```
+https://dbl.oisd.nl/
+https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+```
+### Credits - A huge thank you to the following list maintainers of the sources used, alphabetical order:
 ```
 https://dbl.oisd.nl/
 https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt
