@@ -1,6 +1,5 @@
 ### Sources
 *Sources used for compiling the block lists:*
-          
 #### LIGHT
 ```
 1. domains - https://dbl.oisd.nl/basic
@@ -310,6 +309,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 ```
 1. domains - https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes
 ```
+---
 ### Subdomains
 *The matching/missing subdomains for domain and hosts lists are extracted from the following lists:*
 ```
@@ -326,6 +326,7 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 ```
+---
 ### Credits
 *A huge thank you to the following list maintainers of the sources used, alphabetical order:*
 ```
@@ -339,3 +340,4 @@ olbat, oneoffdallas, paulgb, perflyst, phishing.army, piperun, polishfiltersteam
 scafroglia93, shadowwhisperer, sjhgvr, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, th3m3,
 tomasko126, ublockorigin, wally3k, zerodot1, zoso.ro
 ```
+---
