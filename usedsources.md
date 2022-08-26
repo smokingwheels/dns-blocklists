@@ -326,16 +326,5 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 ```
 ### Credits - A huge thank you to the following list maintainers of the sources used, alphabetical order:
 ```
-https://dbl.oisd.nl/
-https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
-https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+abpindo, abpvn, abuse.ch, adguardteam, adroitadorkhan, amnestytech, assoechap, azorult-tracker.net, badmojr, barbblock, bigdargon, bongochong, botvrij.eu, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, digitalside.it, drsdavidsoft, durablenapkin, easylist, easylist-lithuania, easylist-thailand, elliotwutingfeng, fademind, firebog.net, frogeye.fr, guardicore, hexxiumcreations, hole.cert.pl, hoshsadiq, hpthreatresearch, iam-py-test, infinitytec, jkrejcha, joewein.net, kargig, kevinthomas0, kriskintel.com, laicure, laniksj, lassekongo83, latvian-list, malware-filter, marco-acorte, matomo-org, metamask, mitchellkrogza, netlab.360, nextdns, nitrohorse, notonmyshift, notracking, oisd.nl, olbat, oneoffdallas, paulgb, perflyst, phishing.army, piperun, polishfiltersteam, prodaft, quidsup, rescure.me, scafroglia93, shadowwhisperer, sjhgvr, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, th3m3, tomasko126, ublockorigin, wally3k, zerodot1, zoso.ro
 ```
