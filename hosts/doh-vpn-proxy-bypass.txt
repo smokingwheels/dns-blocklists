@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 23 Aug 2022 17:52 UTC
-# Version: 2022.0823.1752.57
+# Last modified: 26 Aug 2022 01:03 UTC
+# Version: 2022.0826.0103.38
 # Syntax: Hosts
-# Domains: 2282
+# Domains: 2283
 #
 0.0.0.0 012proxy.ga
 0.0.0.0 01usevpn.website
@@ -31,6 +31,7 @@
 0.0.0.0 17usevpn.website
 0.0.0.0 18usevpn.website
 0.0.0.0 19usevpn.website
+0.0.0.0 1and1-dns.de
 0.0.0.0 1freeproxy.pw
 0.0.0.0 20usevpn.website
 0.0.0.0 dns.233py.com
