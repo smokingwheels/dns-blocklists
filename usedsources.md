@@ -21,7 +21,6 @@
 17. domains - black.list
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
-
 ```
 ### MULTI
 ```
@@ -78,7 +77,6 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 51. domains - light.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
-
 ```
 ### PRO
 ```
@@ -87,7 +85,6 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 3. domains - multi.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
-
 ```
 ### PRO.PLUS
 ```
@@ -173,7 +170,6 @@ For domain and host lists, additionally: matching/missing subdomains (see below)
 80. domains - tif.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see below)
-
 ```
 ### FAKE
 ```
