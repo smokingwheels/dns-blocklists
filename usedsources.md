@@ -326,4 +326,5 @@ https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt```
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+```
