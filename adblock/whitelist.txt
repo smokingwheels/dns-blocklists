@@ -1077,3 +1077,6 @@
 ! IP Address Tools
 @@|ipaddress.com^
 
+! Breaks Windowsupdate in Virtualbox
+@@||api.iris.microsoft.com^
+
