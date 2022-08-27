@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 26 Aug 2022 21:11 UTC
-# Version: 2022.0826.2111.07
+# Last modified: 27 Aug 2022 01:18 UTC
+# Version: 2022.0827.0118.20
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 164370
+# Domains: 164375
 #
 *.0.0.0.0.beeglivesex.com
 *.0-000.store
@@ -7352,7 +7352,6 @@
 *.adheart.de
 *.adhearus.com
 *.ad.hefei.cc
-*.ad.hepsiburada.com
 *.adherenceenmitycentury.com
 *.adherenceprosperous.com
 *.adherencestated.com
@@ -28202,6 +28201,7 @@
 *.cgames.de
 *.cgatesolutions.de
 *.c.gazetevatan.com
+*.cgdiqvn.cn
 *.cgdjy.top
 *.cgeed.com
 *.cggf.xyz
@@ -36095,7 +36095,6 @@
 *.cyber-guard.me
 *.cyberlink.pro
 *.cybermecca.com
-*.cybernates.xyz
 *.cyberneticart.biz
 *.cyber-pages.att.com
 *.cyberprivacy.pro
@@ -42704,7 +42703,6 @@
 *.dorat.de
 *.dorbanise.pw
 *.dorcelcash.com
-*.doremido.com
 *.doremi.ink
 *.dorenda.de
 *.dorfkrug-buttlar.de
@@ -42960,11 +42958,9 @@
 *.dpd9yiocsyy6p.cloudfront.net
 *.dpd-ap.id-3828883.me
 *.dpd-com.umowa-p.site
-*.dpd.curemofa.org
 *.dpd.deliveryuser-ptr.xyz
 *.dpdety.jingus.com
 *.dpd.formullarz.xyz
-*.dpd.gelhoty.org
 *.dpd-hroz.id86-92.me
 *.dpd-jwez.id-info004.me
 *.dpdkurierpl.my.to
@@ -43755,7 +43751,6 @@
 *.dwrz5az.cn
 *.dwswap.xyz
 *.dwtracking.sdo.com
-*.dwugpwfgi.com
 *.dwwyy.top
 *.dwx1guhcvx8gs.cloudfront.net
 *.dw.xcar.com.cn
@@ -49120,6 +49115,7 @@
 *.fangbaba.xyz
 *.fangfeeling.com
 *.fangfeng001.xyz
+*.fangfeng005.xyz
 *.fanghua2.cn
 *.fangirlmag.com
 *.fangjslc.com
@@ -51542,6 +51538,7 @@
 *.fpa-events.decrypt.co
 *.fpa-events.slate.com
 *.fp-analytics.hotstar.com
+*.fpapi.io
 *.fpaux.net
 *.fpavx.net
 *.fpaxu.net
@@ -53727,7 +53724,6 @@
 *.get.anthem.com
 *.get.anws-learnmore.xyz
 *.getapo.com
-*.getapplicationmy.info
 *.getappwiz.ru
 *.get.ashlandbreastpumps.com
 *.get-avast.com
@@ -66006,7 +66002,6 @@
 *.inpostpl.mojid34897615.xyz
 *.inpostpl.mojid357631094.top
 *.inpost-pl-myid271xs.aiqiche.top
-*.inpost-pl-myid271xs.jeffbarnes.live
 *.inpost-pl-myid271xs.jon23.top
 *.inpost-pl-myid271xs.mt2558.xyz
 *.inpost-pl-myid271xs.pngworld.xyz
@@ -66027,7 +66022,6 @@
 *.inpost-pl-mynid2ihxa.heehoo.shop
 *.inpost-pl-mynid2ihxa.liaoyang.xyz
 *.inpost-pl-mynid2ihxa.nextmove.live
-*.inpost-pl-mynid2ihxa.sportbeha.shop
 *.inpost-pl-mynid2ihxa.sutras.app
 *.inpost-pl.net
 *.inpost-pl-ns.590283.live
@@ -66103,7 +66097,6 @@
 *.inpostpl.wniosekid057496723.click
 *.inpostpl.wysylka-koor.pro
 *.inpost-pl-xz5512.blissdom.shop
-*.inpost-pl-xz5512.emreninmekani.xyz
 *.inpost-pl-xz5512.sprawa892341.beauty
 *.inpost-pl-xz5512.xcxc7.top
 *.inpost-pl-xz5512.zaatar.eu
@@ -66276,7 +66269,6 @@
 *.inpost-shopping.9887454.xyz
 *.inpost-shuo.orders94851.info
 *.inpost.site
-*.inpost-sjbi.order213.info
 *.inpost-sledzenie-przesylek.com
 *.inpost-store.65984512.xyz
 *.inpost-swac.order919.info
@@ -80974,6 +80966,7 @@
 *.metrics.atresplayer.com
 *.metrics.att.com
 *.metrics.au.com
+*.metrics.audius.co
 *.metrics.autobytel.com
 *.metrics.autodesk.com
 *.metrics.automobilemag.com
@@ -92771,7 +92764,6 @@
 *.mojapaczka-oix.orderkjqwra.click
 *.mojapaczka-oix.orderyqrsas.click
 *.mojapaczka-oix.orderzuztqr.click
-*.moja-paczka-pl-myid576xs.bahisler.live
 *.moj-czas.eu
 *.mojekobe.is-best.net
 *.mojekumpele.blogspot.com
@@ -114853,6 +114845,7 @@
 *.plausible.bernheisel.com
 *.plausible.billfox.co
 *.plausible.bostad.shop
+*.plausible.bots.gg
 *.plausible.brandonly.me
 *.plausible.conveyal.com
 *.plausible.corbettbarr.com
@@ -115872,7 +115865,6 @@
 *.polska-vinted-hjso21.jon23.top
 *.polska-vinted-hjso21.marrus.xyz
 *.polska-vinted-hjso21.numaraburda.xyz
-*.polska-vinted-hjso21.pelangi99.xyz
 *.polska-vinted-hjso21.pngworld.xyz
 *.polska-vinted-hjso21.tasmim.xyz
 *.polska-vinted-hjso21.tintuctrongngay.xyz
@@ -130624,6 +130616,7 @@
 *.sk.eulerian.eu
 *.sk.eulerian.fr
 *.skewlyundazed.com
+*.skfjdf.xyz
 *.sk.hit.gemius.pl
 *.skhwik.wakakuu.com
 *.ski1.gosportmontagne.com
@@ -149358,6 +149351,7 @@
 *.tryplaybest.com
 *.trysera.com
 *.tryshoplove.site
+*.trysogsii.uno
 *.tryspeakup.com
 *.trysprierratty.com
 *.tryst.net.cn
@@ -153544,7 +153538,6 @@
 *.vinted.first-order.online
 *.vinted-flm.id-9467.com
 *.vinted.fqshequ.top
-*.vinted.gelhoty.org
 *.vinted.id819511.cfd
 *.vinted-jfdo.id-3842.me
 *.vinted-market.7653421.xyz
@@ -153573,7 +153566,6 @@
 *.vinted-pl-gj32d.buypaxil.shop
 *.vinted-pl-gj32d.candy-box.xyz
 *.vinted-pl-gj32d.cattleyaordect.shop
-*.vinted-pl-gj32d.cpacoaching.xyz
 *.vinted-pl-gj32d.dingding23.top
 *.vinted-pl-gj32d.faltunews.xyz
 *.vinted-pl-gj32d.gameikan.live
@@ -153581,11 +153573,9 @@
 *.vinted-pl-gj32d.henglin.top
 *.vinted-pl-gj32d.huangyy.xyz
 *.vinted-pl-gj32d.ibusehat.xyz
-*.vinted-pl-gj32d.iliketogo.shop
 *.vinted-pl-gj32d.isceljenje.life
 *.vinted-pl-gj32d.itsauconyol.top
 *.vinted-pl-gj32d.jbrand.top
-*.vinted-pl-gj32d.jeffbarnes.live
 *.vinted-pl-gj32d.jigao.top
 *.vinted-pl-gj32d.josepaix.xyz
 *.vinted-pl-gj32d.junonsaisai.live
@@ -153598,15 +153588,11 @@
 *.vinted-pl-gj32d.nextmove.live
 *.vinted-pl-gj32d.numaraburda.xyz
 *.vinted-pl-gj32d.one-clik.top
-*.vinted-pl-gj32d.pelangi99.xyz
-*.vinted-pl-gj32d.raraavis.live
 *.vinted-pl-gj32d.refpavib.top
 *.vinted-pl-gj32d.salamdl.live
 *.vinted-pl-gj32d.sheoriginals.shop
-*.vinted-pl-gj32d.skoprex.top
 *.vinted-pl-gj32d.tasmim.xyz
 *.vinted-pl-gj32d.tintuctrongngay.xyz
-*.vinted-pl-gj32d.trainning.shop
 *.vinted-pl-gj32d.unsml.xyz
 *.vinted-pl-gj32d.xcxc7.top
 *.vinted-pl-gkk219.adjective.live
@@ -153617,9 +153603,7 @@
 *.vinted-pl-gkk219.ewsldemos.xyz
 *.vinted-pl-gkk219.iaacongress.com
 *.vinted-pl-gkk219.ibusehat.xyz
-*.vinted-pl-gkk219.jeffbarnes.live
 *.vinted-pl-gkk219.jigao.top
-*.vinted-pl-gkk219.mrjatt.xyz
 *.vinted-pl-gkk219.numaraburda.xyz
 *.vinted-pl-gkk219.pngworld.xyz
 *.vinted-pl-gkk219.salamdl.live
@@ -153627,7 +153611,6 @@
 *.vinted-pl-gkk219.trainning.shop
 *.vinted-pl-gkk219.uizlet.live
 *.vinted-pl-gkk219.unsml.xyz
-*.vinted-pl-gkk219.winwin90.xyz
 *.vinted-pl-gkk219.wns1655.com
 *.vinted-pl-id002c.austenyo.shop
 *.vinted-pl-id002c.bitwan.xyz
@@ -153637,7 +153620,6 @@
 *.vinted-pl-id002c.currentweight.xyz
 *.vinted-pl-id002c.gameikan.live
 *.vinted-pl-id002c.ibusehat.xyz
-*.vinted-pl-id002c.jeffbarnes.live
 *.vinted-pl-id002c.kodekeramat.xyz
 *.vinted-pl-id002c.mobilzaun.shop
 *.vinted-pl-id002c.naprzod345894.click
@@ -153645,27 +153627,22 @@
 *.vinted-pl-id002c.todaydeals.shop
 *.vinted-pl-id002c.trainning.shop
 *.vinted-pl-id002c.unsml.xyz
-*.vinted-pl-id002c.zaplive.live
 *.vinted-pl.izuy612xty.me
 *.vinted-pl-lzlxo.buddagump.xyz
 *.vinted-pl-lzlxo.cloture.top
-*.vinted-pl-lzlxo.crosscuts.shop
 *.vinted-pl-lzlxo.currentweight.xyz
 *.vinted-pl-lzlxo.heehoo.shop
 *.vinted-pl-lzlxo.henglin.top
 *.vinted-pl-lzlxo.huangyy.xyz
 *.vinted-pl-lzlxo.iharga.xyz
-*.vinted-pl-lzlxo.iliketogo.shop
 *.vinted-pl-lzlxo.isiqq.live
 *.vinted-pl-lzlxo.jon23.top
 *.vinted-pl-lzlxo.mt2558.xyz
 *.vinted-pl-lzlxo.numaraburda.xyz
-*.vinted-pl-lzlxo.sanshou.shop
 *.vinted-pl-lzlxo.sazzad.xyz
 *.vinted-pl-lzlxo.szybko3848106.click
 *.vinted-pl-lzlxo.todaydeals.shop
 *.vinted-pl-lzlxo.unsml.xyz
-*.vinted-pl-lzlxo.zaplive.live
 *.vinted-pl.potwierdzenie-sp44zy.com
 *.vinted-pl.poznaj-185120.website
 *.vinted-pl.przelew4874962.club
@@ -153694,7 +153671,6 @@
 *.vinted-polska-rr124.ewsldemos.xyz
 *.vinted-polska-rr124.heehoo.shop
 *.vinted-polska-rr124.henglin.top
-*.vinted-polska-rr124.iliketogo.shop
 *.vinted-polska-rr124.mt2558.xyz
 *.vinted-polska-rr124.nextmove.live
 *.vinted-polska-rr124.one-clik.top
@@ -153714,7 +153690,6 @@
 *.vinted-shopping.9077643.xyz
 *.vinted-sms.site
 *.vint-ed.sprawa23451.beauty
-*.vinted.stico.shop
 *.vinted-tcjw.id-3842.me
 *.vinted-thi.id-9467.com
 *.vintesd-pln1dellvrs.dostavapndgs6.pl
@@ -153741,7 +153716,6 @@
 *.vintet-pl-kl2112.pathtowellness.life
 *.vintet-pl-kl2112.sazzad.xyz
 *.vintet-pl-kl2112.shrty.link
-*.vintet-pl-kl2112.skoprex.top
 *.vintet-pl-kl2112.tasmim.xyz
 *.vintet-pl-kl2112.tintuctrongngay.xyz
 *.vintet-pl-kl2112.todaydeals.shop
@@ -153863,7 +153837,6 @@
 *.virted-pl-fi551.dhtseek.top
 *.virted-pl-fi551.diadiemlamdep.top
 *.virted-pl-fi551.huangyy.xyz
-*.virted-pl-fi551.jeffbarnes.live
 *.virted-pl-fi551.jigao.top
 *.virted-pl-fi551.kodekeramat.xyz
 *.virted-pl-fi551.libros2.live
@@ -153872,7 +153845,6 @@
 *.virted-pl-fi551.monogamy.live
 *.virted-pl-fi551.numaraburda.xyz
 *.virted-pl-fi551.salamdl.live
-*.virted-pl-fi551.sportbeha.shop
 *.virted-pl-fi551.tasmim.xyz
 *.virted-pl-fi551.todaydeals.shop
 *.virted-pl-fi551.trsoft.xyz
@@ -154139,7 +154111,6 @@
 *.vjnted-pl-ijfoks.ewsldemos.xyz
 *.vjnted-pl-ijfoks.huangyy.xyz
 *.vjnted-pl-ijfoks.itsauconyol.top
-*.vjnted-pl-ijfoks.jeffbarnes.live
 *.vjnted-pl-ijfoks.kuaixi1.top
 *.vjnted-pl-ijfoks.libros2.live
 *.vjnted-pl-ijfoks.nextmove.live
@@ -154148,7 +154119,6 @@
 *.vjnted-pl-ijfoks.tasmim.xyz
 *.vjnted-pl-ijfoks.tintuctrongngay.xyz
 *.vjnted-pl-ijfoks.unsml.xyz
-*.vjnted-pl-ijfoks.winwin90.xyz
 *.vjnted-pl-ijfoks.xcxc7.top
 *.vjnted-polsca.banking9994.xyz
 *.vjnted-polsca.bornajerlfudnerolk.pics
@@ -154834,6 +154804,7 @@
 *.vsyaiejmfooba.com
 *.vsygu.top
 *.vszucv.hallhuber.com
+*.vt3a.top
 *.vt.5.p2l.info
 *.vt863.cn
 *.vt894axs16.com
@@ -159842,8 +159813,10 @@
 *.wwwdollar.com
 *.www.dpd.bkomfo.org
 *.www.dpd.byvefuk.org
+*.www.dpd.curemofa.org
 *.www.dpd.dipktu.org
 *.www.dpd.dureveskh.org
+*.www.dpd.gelhoty.org
 *.www.dpd.grukfyp.org
 *.www.dpd.hepotus.org
 *.www.dpd.hurfoms.org
@@ -160030,6 +160003,7 @@
 *.www.inpost-pl.id-safety.eu
 *.www.inpost-pl.joyregbuyitem.pw
 *.www.inpost-pl-myid271xs.chicmode.shop
+*.www.inpost-pl-myid271xs.jeffbarnes.live
 *.www.inpost-pl-myid271xs.plantedegraine.shop
 *.www.inpost-pl-myid271xs.przewozy.top
 *.www.inpost-pl-myid271xs.sahuo.top
@@ -160051,6 +160025,7 @@
 *.www.inpost-pl-mynid2ihxa.infento.shop
 *.www.inpost-pl-mynid2ihxa.jhfood.shop
 *.www.inpost-pl-mynid2ihxa.pottymouth.xyz
+*.www.inpost-pl-mynid2ihxa.sportbeha.shop
 *.www.inpost-pl-mynid2ihxa.stafa.top
 *.www.inpost-pl-mynid2ihxa.sutras.live
 *.www.inpost-pl-pacid273jks.awoo.life
@@ -160062,6 +160037,7 @@
 *.www.inpost.pl-tracknumber458775.xyz
 *.www.inpost-pl-xz5512.awoo.life
 *.www.inpost-pl-xz5512.darepit.xyz
+*.www.inpost-pl-xz5512.emreninmekani.xyz
 *.www.inpost-pl-xz5512.goringhall.live
 *.www.inpost-pl-xz5512.luotiao.xyz
 *.www.inpost-pl-xz5512.mengetik.top
@@ -160073,6 +160049,7 @@
 *.www.inpost-polska-uv.orders83930.info
 *.www.inpost-polska-zfx.order919.info
 *.www.inpost-polska-zp.orders83930.info
+*.www.inpost-sjbi.order213.info
 *.www.inpost.sjiopr.org
 *.www.inpost.skegnevid.org
 *.www.inpost.slpehre.org
@@ -160173,6 +160150,7 @@
 *.www.miejscowe-newsy.waw.pl
 *.www.mme7bmsjc.newsy.auto.pl
 *.www.mojapaczka-lnpost.orderuygfzasdf.click
+*.www.moja-paczka-pl-myid576xs.bahisler.live
 *.www.moja-paczka-pl-myid576xs.goringhall.live
 *.www.moja-paczka-pl-myid576xs.purefit.live
 *.www.moja-paczka-pl-myid576xs.santegra.shop
@@ -160310,6 +160288,7 @@
 *.www.polska-vinted-hjso21.nalevo.top
 *.www.polska-vinted-hjso21.notjustamom.live
 *.www.polska-vinted-hjso21.nympho.live
+*.www.polska-vinted-hjso21.pelangi99.xyz
 *.www.polska-vinted-hjso21.pottymouth.xyz
 *.www.polska-vinted-hjso21.przewozy.top
 *.www.polska-vinted-hjso21.qikeut.top
@@ -160413,6 +160392,7 @@
 *.www.utilizationsnotional.intiaggressivity.com
 *.www.viatoll.pl-mk.pl
 *.www.vinted.byvefuk.org
+*.www.vinted.gelhoty.org
 *.www.vinted.gezfumdo.org
 *.www.vinted.hesjevot.org
 *.www.vinted.hybeinog.org
@@ -160431,6 +160411,7 @@
 *.www.vinted-pl-gj32d.chloroquine.top
 *.www.vinted-pl-gj32d.cmcomposites.shop
 *.www.vinted-pl-gj32d.copluk.xyz
+*.www.vinted-pl-gj32d.cpacoaching.xyz
 *.www.vinted-pl-gj32d.cutwin.xyz
 *.www.vinted-pl-gj32d.darepit.xyz
 *.www.vinted-pl-gj32d.dezadel.shop
@@ -160442,8 +160423,10 @@
 *.www.vinted-pl-gj32d.futetv.top
 *.www.vinted-pl-gj32d.ghb2b.live
 *.www.vinted-pl-gj32d.heehum.xyz
+*.www.vinted-pl-gj32d.iliketogo.shop
 *.www.vinted-pl-gj32d.jamtanganwanita.xyz
 *.www.vinted-pl-gj32d.jav-hot.xyz
+*.www.vinted-pl-gj32d.jeffbarnes.live
 *.www.vinted-pl-gj32d.jhfood.shop
 *.www.vinted-pl-gj32d.kabarterbaru.xyz
 *.www.vinted-pl-gj32d.kios.top
@@ -160457,15 +160440,19 @@
 *.www.vinted-pl-gj32d.nouvelleskin.shop
 *.www.vinted-pl-gj32d.nympho.live
 *.www.vinted-pl-gj32d.ocgreenrelief.shop
+*.www.vinted-pl-gj32d.pelangi99.xyz
 *.www.vinted-pl-gj32d.pinkshot.top
 *.www.vinted-pl-gj32d.przewozy.top
 *.www.vinted-pl-gj32d.qikeut.top
+*.www.vinted-pl-gj32d.raraavis.live
 *.www.vinted-pl-gj32d.reforma.live
 *.www.vinted-pl-gj32d.sazzad.xyz
+*.www.vinted-pl-gj32d.skoprex.top
 *.www.vinted-pl-gj32d.smartdiet.shop
 *.www.vinted-pl-gj32d.stayy.live
 *.www.vinted-pl-gj32d.supsurf.shop
 *.www.vinted-pl-gj32d.sutras.live
+*.www.vinted-pl-gj32d.trainning.shop
 *.www.vinted-pl-gj32d.tron-x.top
 *.www.vinted-pl-gj32d.tw-mc.top
 *.www.vinted-pl-gj32d.valtrexgenric1.top
@@ -160481,12 +160468,14 @@
 *.www.vinted-pl-gkk219.fujikonishi.shop
 *.www.vinted-pl-gkk219.futetv.top
 *.www.vinted-pl-gkk219.jav-hot.xyz
+*.www.vinted-pl-gkk219.jeffbarnes.live
 *.www.vinted-pl-gkk219.junonsaisai.live
 *.www.vinted-pl-gkk219.kios.top
 *.www.vinted-pl-gkk219.ku771.top
 *.www.vinted-pl-gkk219.luotiao.xyz
 *.www.vinted-pl-gkk219.mengetik.top
 *.www.vinted-pl-gkk219.mostbet-bct.xyz
+*.www.vinted-pl-gkk219.mrjatt.xyz
 *.www.vinted-pl-gkk219.myplumbing.xyz
 *.www.vinted-pl-gkk219.nalevo.top
 *.www.vinted-pl-gkk219.pissjapantv.top
@@ -160494,6 +160483,7 @@
 *.www.vinted-pl-gkk219.reforma.live
 *.www.vinted-pl-gkk219.supsurf.shop
 *.www.vinted-pl-gkk219.tron-x.top
+*.www.vinted-pl-gkk219.winwin90.xyz
 *.www.vinted-pl-id002c.0xfee1dead.top
 *.www.vinted-pl-id002c.alessandralist.top
 *.www.vinted-pl-id002c.boeno.top
@@ -160506,6 +160496,7 @@
 *.www.vinted-pl-id002c.emahn.shop
 *.www.vinted-pl-id002c.eufloria.shop
 *.www.vinted-pl-id002c.futetv.top
+*.www.vinted-pl-id002c.jeffbarnes.live
 *.www.vinted-pl-id002c.kios.top
 *.www.vinted-pl-id002c.luotiao.xyz
 *.www.vinted-pl-id002c.nalevo.top
@@ -160518,15 +160509,18 @@
 *.www.vinted-pl-id002c.sutras.live
 *.www.vinted-pl-id002c.vadoalmare.shop
 *.www.vinted-pl-id002c.valtrexgenric1.top
+*.www.vinted-pl-id002c.zaplive.live
 *.www.vinted-pl-lzlxo.alessandralist.top
 *.www.vinted-pl-lzlxo.berare.shop
 *.www.vinted-pl-lzlxo.buran.live
 *.www.vinted-pl-lzlxo.cherryroad.xyz
 *.www.vinted-pl-lzlxo.chicmode.shop
+*.www.vinted-pl-lzlxo.crosscuts.shop
 *.www.vinted-pl-lzlxo.darepit.xyz
 *.www.vinted-pl-lzlxo.dhtseek.top
 *.www.vinted-pl-lzlxo.drhowell.life
 *.www.vinted-pl-lzlxo.emahn.shop
+*.www.vinted-pl-lzlxo.iliketogo.shop
 *.www.vinted-pl-lzlxo.jav-hot.xyz
 *.www.vinted-pl-lzlxo.jhfood.shop
 *.www.vinted-pl-lzlxo.kios.top
@@ -160536,10 +160530,12 @@
 *.www.vinted-pl-lzlxo.pottymouth.xyz
 *.www.vinted-pl-lzlxo.przewozy.top
 *.www.vinted-pl-lzlxo.sanash.shop
+*.www.vinted-pl-lzlxo.sanshou.shop
 *.www.vinted-pl-lzlxo.santegra.shop
 *.www.vinted-pl-lzlxo.smartdiet.shop
 *.www.vinted-pl-lzlxo.stayy.live
 *.www.vinted-pl-lzlxo.vadoalmare.shop
+*.www.vinted-pl-lzlxo.zaplive.live
 *.www.vinted-polska-rr124.0xfee1dead.top
 *.www.vinted-polska-rr124.awoo.life
 *.www.vinted-polska-rr124.berare.shop
@@ -160549,6 +160545,7 @@
 *.www.vinted-polska-rr124.dhtseek.top
 *.www.vinted-polska-rr124.drhowell.life
 *.www.vinted-polska-rr124.elizabutik.shop
+*.www.vinted-polska-rr124.iliketogo.shop
 *.www.vinted-polska-rr124.infento.shop
 *.www.vinted-polska-rr124.jav-hot.xyz
 *.www.vinted-polska-rr124.kid-sit.shop
@@ -160568,6 +160565,7 @@
 *.www.vinted-polska-rr124.sutras.live
 *.www.vinted-polska-rr124.vadoalmare.shop
 *.www.vinted.skegnevid.org
+*.www.vinted.stico.shop
 *.www.vinted.tadsemak.org
 *.www.vinted.watvorem.org
 *.www.vinterd-polskdellvrst.pl-dostawapolska.pl
@@ -160596,6 +160594,7 @@
 *.www.vintet-pl-kl2112.ocgreenrelief.shop
 *.www.vintet-pl-kl2112.pottymouth.xyz
 *.www.vintet-pl-kl2112.sanash.shop
+*.www.vintet-pl-kl2112.skoprex.top
 *.www.vintet-pl-kl2112.stafa.top
 *.www.vintet-pl-kl2112.sutras.live
 *.www.vintet-pl-kl2112.topactionmovies.xyz
@@ -160609,6 +160608,7 @@
 *.www.virted-pl-fi551.emahn.shop
 *.www.virted-pl-fi551.fujikonishi.shop
 *.www.virted-pl-fi551.futetv.top
+*.www.virted-pl-fi551.jeffbarnes.live
 *.www.virted-pl-fi551.kid-sit.shop
 *.www.virted-pl-fi551.kios.top
 *.www.virted-pl-fi551.mostbet-bct.xyz
@@ -160618,6 +160618,7 @@
 *.www.virted-pl-fi551.profbud.top
 *.www.virted-pl-fi551.qikeut.top
 *.www.virted-pl-fi551.smartdiet.shop
+*.www.virted-pl-fi551.sportbeha.shop
 *.www.virted-pl-fi551.supsurf.shop
 *.www.virted-pl-fi551.topactionmovies.xyz
 *.www.virted-pl-fi551.vadoalmare.shop
@@ -160631,6 +160632,7 @@
 *.www.vjnted-pl-ijfoks.cutwin.xyz
 *.www.vjnted-pl-ijfoks.dewapokerqq.live
 *.www.vjnted-pl-ijfoks.drhowell.life
+*.www.vjnted-pl-ijfoks.jeffbarnes.live
 *.www.vjnted-pl-ijfoks.kios.top
 *.www.vjnted-pl-ijfoks.nambla.xyz
 *.www.vjnted-pl-ijfoks.notjustamom.live
@@ -160641,6 +160643,7 @@
 *.www.vjnted-pl-ijfoks.smartdiet.shop
 *.www.vjnted-pl-ijfoks.supsurf.shop
 *.www.vjnted-pl-ijfoks.thuexedulich.xyz
+*.www.vjnted-pl-ijfoks.winwin90.xyz
 *.www.vjnted-pl-ijfoks.wishdream.shop
 *.www.vodafone.mybill-payment.com
 *.wwwv.stjohnvic.com.au
@@ -161432,6 +161435,7 @@
 *.xn--goldbank-mnchen-8vb.de
 *.xn--gov-x68dy61b.shop
 *.xn--hcvienquany-u89e.vn
+*.xniexnz.cn
 *.xn--igraszkinocnezroksan-nkc.cba.pl
 *.xn--inance-hrb.com
 *.xnjpg.com
@@ -163372,6 +163376,7 @@
 *.zdjecie-spamie.eu
 *.zdjecie-wiadomosc.eu
 *.zdjecie-wrzucone.eu
+*.zdktgps.cn
 *.zdobyj-nagrode.com
 *.zdorovgoods.com
 *.zdorovo.xyz
