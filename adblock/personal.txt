@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 27 Aug 2022 20:11 UTC
-! Version: 2022.0827.2011.08
+! Last modified: 27 Aug 2022 20:39 UTC
+! Version: 2022.0827.2039.34
 ! Syntax: AdBlock
-! Domains: 187
+! Domains: 188
 !
 ||26sgmin39.de^
 ||2a4snhmtm.de^
@@ -181,6 +181,7 @@
 ||tracify.ai^
 ||trackhit.net^
 ||trackvrs.com^
+||serviceschipotlecom.trafficmanager.net^
 ||analytics.trbna.com^
 ||cdn.trkkn.com^
 ||trknk.com^

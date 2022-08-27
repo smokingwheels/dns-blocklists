@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 27 Aug 2022 20:11 UTC
-# Version: 2022.0827.2011.08
+# Last modified: 27 Aug 2022 20:39 UTC
+# Version: 2022.0827.2039.34
 # Syntax: DNSMasq
-# Domains: 187
+# Domains: 188
 #
 address=/26sgmin39.de/#
 address=/2a4snhmtm.de/#
@@ -181,6 +181,7 @@ address=/analytics.ticketmaster.be/#
 address=/tracify.ai/#
 address=/trackhit.net/#
 address=/trackvrs.com/#
+address=/serviceschipotlecom.trafficmanager.net/#
 address=/analytics.trbna.com/#
 address=/cdn.trkkn.com/#
 address=/trknk.com/#
