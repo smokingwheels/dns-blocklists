@@ -118,24 +118,63 @@
 @@||lencr.org^
 @@||verisign.net^
 
-! Cookie-/Privacymanagement (required) - do not block this via DNS, use content blocker like uBlock!
+! Cookie-/Privacymanagement (required) - do not block this via DNS, use content blocker like uBlock for each client!
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Cookies/sections/cookies_allowlist.txt
-@@||mgr.consensu.org^
+@@||appconsent.io^
+@@||consensu.org^
+@@||consentframework.com^
+@@||consentmanager.net^
+@@||cookie-bar.eu^
+@@||cookiebot.com^
+@@||cookiebot.com-v1.edgekey.net^
+@@||cookiefirst.com^
+@@||cookieinformation.com^
+@@||cookieinfoscript.com^
+@@||cookielaw.org^
+@@||cookiepro.com^
+@@||cookieq.com^
+@@||cookist.it^
+@@||onesignal.com^
+@@||onetrust.com^
+@@||onetrust.de^
+@@||onetrust.io^
+@@||opencmp.net^
+@@||openreach.com^
+@@||privacy-center.org^
+@@||privacy-mgmt.com^
+@@||privacybunker.io^
+@@||privacymanager.io^
+@@||privacypolicies.com^
+@@||quantcast.com^
 @@||sp-prod.net^
+@@||trustcommander.net^
+@@||trustpilot.com^
+@@||usercentrics.eu^
+@@||mgr.consensu.org^
+@@|*api.privacy-center.org^
 @@|*cmp.quantcast.com^
+@@|*gdpr.privacymanager.io^
 @@|1376624012.rsc.cdn77.org^
 @@|aggregator.service.usercentrics.eu^
-@@|api.privacy-center.org^
+@@|amp.opencmp.net^
+@@|ampproject.org^
 @@|api.usercentrics.eu^
+@@|apis.quantcast.mgr.consensu.org^
 @@|app.usercentrics.eu^
 @@|assets.digitalocean.com^
+@@|assets.jimstatic.com^
+@@|assets.travix.com^
 @@|cache.consentframework.com^
 @@|ccpa*.privacymanager.io^
 @@|cdn*.onetrust.com^
+@@|cdn-ukwest.onetrust.com^
 @@|cdn.ampproject.org^
 @@|cdn.appconsent.io^
 @@|cdn.civiccomputing.com^
+@@|cdn.consentframework.com^
+@@|cdn.consentmanager.mgr.consensu.org^
 @@|cdn.consentmanager.net^
+@@|cdn.conversant.mgr.consensu.org^
 @@|cdn.cookielaw.org^
 @@|cdn.iubenda.com^
 @@|cdn.jsdelivr.net^
@@ -143,14 +182,20 @@
 @@|cdn.parkiet.com^
 @@|cdn.privacy-mgmt.com^
 @@|cdn.reolink.com^
+@@|cdn.rp.pl^
 @@|cdn.trustcommander.net^
 @@|cdnjs.cloudflare.com^
 @@|choices.consentframework.com^
+@@|cloudfront.net^
 @@|cmp*.privacymanager.io^
 @@|cmp-cdn.cookielaw.org^
 @@|cmp.cookist.it^
 @@|cmp.dmgmediaprivacy.co.uk^
+@@|cmp.faktor.mgr.consensu.org^
+@@|cmp.quantcast.com^
 @@|collector.appconsent.io^
+@@|combo.staticflickr.com^
+@@|consensu.org^
 @@|consent.b-cdn.net^
 @@|consent.cmp.oath.com^
 @@|consent.cookiebot.com^
@@ -165,29 +210,70 @@
 @@|consent.truste.com^
 @@|consentcdn.cookiebot.com^
 @@|consentcdn.cookiebot.com-v1.edgekey.net^
+@@|consentmanager.mgr.consensu.org^
 @@|consents.usercentrics.eu^
+@@|cookie-bar.eu^
 @@|cookie-cdn.cookiepro.com^
 @@|cookie-consent.ingatlancdn.com^
+@@|cookiebot.com^
 @@|cookieconsent.insites.com^
+@@|cookieinfoscript.com^
+@@|cookielaw.org^
+@@|cookiepro.com^
+@@|cookieq.com^
 @@|cookies-data.onetrust.io^
+@@|cookies.onetrust.mgr.consensu.org^
 @@|cookiesv2.publiekeomroep.nl^
+@@|d3q1qj9jzsu8nw.cloudfront.net^
 @@|delivery.consentmanager.net^
 @@|dtmg-privacy.my.onetrust.com^
+@@|evidon.mgr.consensu.org^
 @@|gdpr*.privacymanager.io^
+@@|gdpr-wrapper.privacymanager.io^
 @@|gdpr.internetbrands.com^
 @@|geo.privacymanager.io^
 @@|geolocation.onetrust.com^
 @@|graphql.usercentrics.eu^
 @@|hb.vntsm.com^
+@@|iubenda.mgr.consensu.org^
+@@|launchpad-wrapper.privacymanager.io^
+@@|launchpad.privacymanager.io^
 @@|lbnew.consentmanager.net^
+@@|marfeel.mgr.consensu.org^
+@@|mgr.consensu.org^
+@@|onetrust.com^
+@@|pm.sourcepoint.mgr.consensu.org^
+@@|policy.app.cookieinformation.com^
+@@|policy.cookieinformation.com^
+@@|privacy-center.org^
+@@|privacy.trustcommander.net^
 @@|privacy.www.nu.nl^
+@@|privacybunker.io^
+@@|privacypolicies.com^
 @@|privacyportal*.onetrust.com^
+@@|privacyportal-cdn.onetrust.com^
+@@|privacyportal-cisco-cdn.onetrust.com^
+@@|privacyportal.cookiepro.com^
 @@|privacyrequest.cisco.com^
+@@|quantcast.mgr.consensu.org^
+@@|register.consensu.org^
 @@|sdk*.privacy-center.org^
+@@|sdk-gcp.privacy-center.org^
+@@|sdk.privacy-center.org^
+@@|sibboventures.mgr.consensu.org^
+@@|sourcepoint.mgr.consensu.org^
 @@|spiegel-de.spiegel.de^
+@@|static.mfbcdn.net^
+@@|static.quantcast.mgr.consensu.org^
+@@|static.weekli.systems^
+@@|static2.mfbcdn.net^
+@@|static3.mfbcdn.net^
+@@|u.alicdn.com^
 @@|uct.service.usercentrics.eu^
+@@|usercentrics.eu^
 @@|vendorlist.consensu.org^
 @@|vendors.privacymanager.io^
+@@|wcpstatic.microsoft.com^
 
 ! Discord
 @@||discord.com^
@@ -293,6 +379,7 @@
 @@||rewardsplatform.microsoft.com^
 @@||smartscreen-prod.microsoft.com^
 @@||teams.live.com^
+@@||trafficmanager.net^
 @@||vortex.data.microsoft.com^
 @@|*api.*.microsoft.com^
 @@|*events-data.trafficmanager.net^
@@ -953,8 +1040,8 @@
 @@|qoo10.sg^
 
 ! https://github.com/hagezi/dns-blocklists/issues/27
-! Breaks Pizzahut AU
-@@|js.sentry-cdn.com^
+! Breaks Pizzahut AU - seems to be fixes on site!
+! js.sentry-cdn.com
 
 ! Qt
 @@|qt.io^
