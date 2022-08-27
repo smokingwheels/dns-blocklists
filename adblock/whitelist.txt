@@ -14,7 +14,7 @@
 ! Express.de Videos
 @@|player-feedback-v1.glomex.com^
 
-! Amazon
+! Amazon Shopping
 @@||images-amazon.com^
 @@|fls-*.amazon-adsystem.com^
 @@|fls-cn.amazon.cn^
@@ -71,29 +71,12 @@
 @@|acsechocaptiveportal.com^
 @@|avs-alexa*.amazon.com^
 
-! Amazon Prime Video
-@@||aiv-cdn.net^
-@@||aiv-cdn.net.c.footprint.net^
-@@||aiv-delivery.net^
-@@||amazonvideo.com^
-@@||atv-ext-*.amazon.com^
-@@||atv-ext.amazon.com^
-@@||atv-ps.amazon.com^
-@@||primevideo.com^
-@@||pv-cdn.net^
-@@||video.a2z.com^
-@@|d25xi40x97liuc.cloudfront.net^
-@@|dmqdd6hw24ucf.cloudfront.net^
-
 ! Apple
-@@||aaplimg.com^
-@@||apple^
-@@||apple-dns.net^
+! https://support.apple.com/en-us/HT210060
 @@||apps.apple.com^
 @@||gc.apple.com^
 @@||safebrowsing.apple^
 @@||smoot.apple.com^
-@@|*apple.com.akadns.net^
 @@|apple.tt.omtrdc.net^
 @@|appleglobal.*.2o7.net^
 @@|cstat.apple.com^
@@ -111,195 +94,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/17
 @@|xp.apple.com^
 
-! Certificates
-@@||digicert.com^
-@@||entrust.net^
-@@||geotrust.com^
-@@||lencr.org^
-@@||verisign.net^
-
-! Cookie-/Privacymanagement (required) - do not block this via DNS, use content blocker like uBlock for each client!
-! https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Cookies/sections/cookies_allowlist.txt
-@@||appconsent.io^
-@@||consensu.org^
-@@||consentframework.com^
-@@||consentmanager.net^
-@@||cookie-bar.eu^
-@@||cookiebot.com^
-@@||cookiebot.com-v1.edgekey.net^
-@@||cookiefirst.com^
-@@||cookieinformation.com^
-@@||cookieinfoscript.com^
-@@||cookielaw.org^
-@@||cookiepro.com^
-@@||cookieq.com^
-@@||cookist.it^
-@@||onesignal.com^
-@@||onetrust.com^
-@@||onetrust.de^
-@@||onetrust.io^
-@@||opencmp.net^
-@@||openreach.com^
-@@||privacy-center.org^
-@@||privacy-mgmt.com^
-@@||privacybunker.io^
-@@||privacymanager.io^
-@@||privacypolicies.com^
-@@||quantcast.com^
-@@||sp-prod.net^
-@@||trustcommander.net^
-@@||trustpilot.com^
-@@||usercentrics.eu^
-@@||mgr.consensu.org^
-@@|*api.privacy-center.org^
-@@|*cmp.quantcast.com^
-@@|*gdpr.privacymanager.io^
-@@|1376624012.rsc.cdn77.org^
-@@|aggregator.service.usercentrics.eu^
-@@|amp.opencmp.net^
-@@|ampproject.org^
-@@|api.usercentrics.eu^
-@@|apis.quantcast.mgr.consensu.org^
-@@|app.usercentrics.eu^
-@@|assets.digitalocean.com^
-@@|assets.jimstatic.com^
-@@|assets.travix.com^
-@@|cache.consentframework.com^
-@@|ccpa*.privacymanager.io^
-@@|cdn*.onetrust.com^
-@@|cdn-ukwest.onetrust.com^
-@@|cdn.ampproject.org^
-@@|cdn.appconsent.io^
-@@|cdn.civiccomputing.com^
-@@|cdn.consentframework.com^
-@@|cdn.consentmanager.mgr.consensu.org^
-@@|cdn.consentmanager.net^
-@@|cdn.conversant.mgr.consensu.org^
-@@|cdn.cookielaw.org^
-@@|cdn.iubenda.com^
-@@|cdn.jsdelivr.net^
-@@|cdn.opencmp.net^
-@@|cdn.parkiet.com^
-@@|cdn.privacy-mgmt.com^
-@@|cdn.reolink.com^
-@@|cdn.rp.pl^
-@@|cdn.trustcommander.net^
-@@|cdnjs.cloudflare.com^
-@@|choices.consentframework.com^
-@@|cloudfront.net^
-@@|cmp*.privacymanager.io^
-@@|cmp-cdn.cookielaw.org^
-@@|cmp.cookist.it^
-@@|cmp.dmgmediaprivacy.co.uk^
-@@|cmp.faktor.mgr.consensu.org^
-@@|cmp.quantcast.com^
-@@|collector.appconsent.io^
-@@|combo.staticflickr.com^
-@@|consensu.org^
-@@|consent.b-cdn.net^
-@@|consent.cmp.oath.com^
-@@|consent.cookiebot.com^
-@@|consent.cookiefirst.com^
-@@|consent.faz.net^
-@@|consent.gutefrage.net^
-@@|consent.portsmouth.co.uk^
-@@|consent.shieldsgazette.com^
-@@|consent.snmmd.nl^
-@@|consent.talpanetwork.com^
-@@|consent.trustarc.com^
-@@|consent.truste.com^
-@@|consentcdn.cookiebot.com^
-@@|consentcdn.cookiebot.com-v1.edgekey.net^
-@@|consentmanager.mgr.consensu.org^
-@@|consents.usercentrics.eu^
-@@|cookie-bar.eu^
-@@|cookie-cdn.cookiepro.com^
-@@|cookie-consent.ingatlancdn.com^
-@@|cookiebot.com^
-@@|cookieconsent.insites.com^
-@@|cookieinfoscript.com^
-@@|cookielaw.org^
-@@|cookiepro.com^
-@@|cookieq.com^
-@@|cookies-data.onetrust.io^
-@@|cookies.onetrust.mgr.consensu.org^
-@@|cookiesv2.publiekeomroep.nl^
-@@|d3q1qj9jzsu8nw.cloudfront.net^
-@@|delivery.consentmanager.net^
-@@|dtmg-privacy.my.onetrust.com^
-@@|evidon.mgr.consensu.org^
-@@|gdpr*.privacymanager.io^
-@@|gdpr-wrapper.privacymanager.io^
-@@|gdpr.internetbrands.com^
-@@|geo.privacymanager.io^
-@@|geolocation.onetrust.com^
-@@|graphql.usercentrics.eu^
-@@|hb.vntsm.com^
-@@|iubenda.mgr.consensu.org^
-@@|launchpad-wrapper.privacymanager.io^
-@@|launchpad.privacymanager.io^
-@@|lbnew.consentmanager.net^
-@@|marfeel.mgr.consensu.org^
-@@|mgr.consensu.org^
-@@|onetrust.com^
-@@|pm.sourcepoint.mgr.consensu.org^
-@@|policy.app.cookieinformation.com^
-@@|policy.cookieinformation.com^
-@@|privacy-center.org^
-@@|privacy.trustcommander.net^
-@@|privacy.www.nu.nl^
-@@|privacybunker.io^
-@@|privacypolicies.com^
-@@|privacyportal*.onetrust.com^
-@@|privacyportal-cdn.onetrust.com^
-@@|privacyportal-cisco-cdn.onetrust.com^
-@@|privacyportal.cookiepro.com^
-@@|privacyrequest.cisco.com^
-@@|quantcast.mgr.consensu.org^
-@@|register.consensu.org^
-@@|sdk*.privacy-center.org^
-@@|sdk-gcp.privacy-center.org^
-@@|sdk.privacy-center.org^
-@@|sibboventures.mgr.consensu.org^
-@@|sourcepoint.mgr.consensu.org^
-@@|spiegel-de.spiegel.de^
-@@|static.mfbcdn.net^
-@@|static.quantcast.mgr.consensu.org^
-@@|static.weekli.systems^
-@@|static2.mfbcdn.net^
-@@|static3.mfbcdn.net^
-@@|u.alicdn.com^
-@@|uct.service.usercentrics.eu^
-@@|usercentrics.eu^
-@@|vendorlist.consensu.org^
-@@|vendors.privacymanager.io^
-@@|wcpstatic.microsoft.com^
-
-! Discord
-@@||discord.com^
-@@||discord.gg^
-@@||discord.media^
-@@||discordapp.com^
-@@||discordapp.net^
-@@||discordstatus.com^
-
-! Disney+
-@@||disney-plus.net^
-@@||disneyplus.com^
-@@||disneyplus.com.ssl.sc.omtrdc.net^
-@@||dss.map.fastly.net^
-@@||dssott.com^
-@@||dssott.com.akamaized.net^
-@@||search-api-disney.bamgrid.com^
-@@|akamai-san*.exacttarget.com.edgekey.net^
-@@|e12906.dscx.akamaiedge.net^
-@@|exacttarget.com.edgekey.net^
-
-! Disqus
-@@|blog.disqus.com^
-@@|c.disquscdn.com^
-@@|d231vab146qzfb.cloudfront.net^
-
 ! Facebook
 @@|star*.facebook.com^
 @@|connect.facebook.com^
@@ -309,17 +103,6 @@
 @@|*graph.instagram.com^
 @@|i.instagram.com^
 @@|web.facebook.com^
-
-! Github
-@@||ghcr.io^
-@@||github.com^
-@@||github.map.fastly.net^
-@@||githubapp.com^
-@@||githubassets.com^
-@@||githubusercontent.com^
-@@|analytics-collector-28944298.*.elb.amazonaws.com^
-@@|github.io^
-@@|gitlab.com^
 
 ! Google
 @@||gstaticadssl.l.google.com^
@@ -364,22 +147,14 @@
 @@|cdn.optimizely.com^
 
 ! Microsoft
+! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 @@||*-msedge.net^
 @@||events.data.microsoft.com^
 @@||events.data.trafficmanager.net^
 @@||msedge.net^
-@@||nexusrules.live.com.akadns.net^
-@@||office.com^
-@@||office.net^
-@@||office365.com^
-@@||officeapps.live.com^
-@@||outlook.com^
-@@||outlookmobile.com^
 @@||pipe.aria.microsoft.com^
-@@||rewardsplatform.microsoft.com^
-@@||smartscreen-prod.microsoft.com^
 @@||teams.live.com^
-@@||trafficmanager.net^
 @@||vortex.data.microsoft.com^
 @@|*api.*.microsoft.com^
 @@|*events-data.trafficmanager.net^
@@ -391,7 +166,6 @@
 @@|browser.events.data.microsoft.com^
 @@|browser.events.data.trafficmanager.net^
 @@|browser.pipe.aria.microsoft.com^
-@@|dc.applicationinsights.azure.com^
 @@|g.live.com^
 @@|g.msn.com^
 @@|go.microsoft.com^
@@ -414,24 +188,6 @@
 @@|windowsupdate.s.llnwi.net^
 @@|www.msftconnecttest.com^
 
-! Netflix
-@@||netflix.com^
-@@||netflix.net^
-@@||nflxext.com^
-@@||nflximg.com^
-@@||nflximg.net^
-@@||nflxso.net^
-@@||nflxvideo.net^
-@@|*apiproxy-*.elb.amazonaws.com^
-@@|*beaconserver-*.elb.amazonaws.com^
-@@|*ichnaea-*.elb.amazonaws.com^
-
-! Nintendo Switch
-@@||nintendo.com^
-@@||nintendo.net^
-@@||nintendowifi.net^
-@@|a1843.g.akamai.net^
-
 ! NVidia
 @@|activation.gfe.nvidia.com^
 @@|events.gfe.nvidia.com^
@@ -440,44 +196,6 @@
 @@|nvidia.tt.omtrdc.net^
 @@|services.gfe.nvidia.com^
 
-! Paypal
-@@||paypal-dynamic-*.map.fastly.net^
-@@||paypal.ca^
-@@||paypal.co.uk^
-@@||paypal.com^
-@@||paypal.map.fastly.net^
-@@||paypalobjects.com^
-
-! Sony (Playstation)
-@@||playstation.com^
-@@||playstation.com.edgekey.net^
-@@||playstation.com.ssl.d1.sc.omtrdc.net^
-@@||playstation.net^
-@@||sonycoment.loris-e.llnwd.net^
-@@||sonyentertainmentnetwork.com^
-@@||sonyjpnpsg-1.hs.llnwd.net^
-
-! Steam
-@@||s.team^
-@@||steam-chat.com^
-@@||steambroadcast.akamaized.net^
-@@||steamcdn-a.akamaihd.net^
-@@||steamchina.com^
-@@||steamcommunity-a.akamaihd.net^
-@@||steamcommunity.com^
-@@||steamcontent.com^
-@@||steamgames.com^
-@@||steampowered.com^
-@@||steampowered.com.8686c.com^
-@@||steamstatic.com^
-@@||steamstatic.com.8686c.com^
-@@||steamstore-a.akamaihd.net^
-@@||steamusercontent-a.akamaihd.net^
-@@||steamusercontent.com^
-@@||steamuserimages-a.akamaihd.net^
-@@||steamvideo-a.akamaihd.net^
-@@||valvesoftware.com^
-
 ! Spotify
 ! Prevent problems with Spotify Premium
 @@||audio*spotify-com.akamaized.net^
@@ -485,18 +203,6 @@
 @@|heads*.spotify.com^
 @@||scdn.co^
 @@|wl.spotify.com^
-
-! Twitch
-! https://www.netify.ai/resources/applications/twitch
-@@||ext-twitch.tv^
-@@||jtvnw.net^
-@@||live-video.net^
-@@||ttvnw.net^
-@@||twitch.okta.com^
-@@||twitch.map.fastly.net^
-@@||twitch.tv^
-@@||twitchcdn.net^
-@@||twitchsvc.net^
 
 ! Twitter
 @@|analytics.twitter.com^
@@ -508,7 +214,7 @@
 @@||schneevonmorgen.com^
 @@||schneevonmorgen.com.s3.amazonaws.com^
 @@||ultimedia.com^
-@@|*damoh.*.de^
+@@||damoh.*.de^
 @@|1.chipde.damoh.schneevonmorgen.com^
 @@|1.gmxnet.damoh.schneevonmorgen.com^
 @@|2.chipde.damoh.schneevonmorgen.com^
@@ -516,7 +222,6 @@
 @@|consent.dk^
 @@|engine.phn.doublepimp.com^
 @@|fr-lb.ultimedia.com^
-@@|homad-global-configs.schneevonmorgen.com^
 @@|i.shoosh.co	^
 @@|i01.sozcucdn.com^
 @@|p.brid.tv^
@@ -535,35 +240,18 @@
 @@|videos-fms.jwpsrv.com^
 @@|videos.porndig.com^
 
-! XBox
-@@||xbox.com^
-@@||xboxab.com^
-@@||xboxab.net^
-@@||xboxlive.com^
-@@||xboxlive.com.akadns.net^
-@@||xboxlive.com.c.footprint.net^
-@@||xboxlive.com.edgekey.net^
-@@||xboxservices.com^
-
 ! Youtube
 @@||googlevideo.com^
 @@||ytimg.com^
 ! Search history
 @@|s.youtube.com^
 
-! Zoom
-@@|logfiles.zoom.us^
-
 ! ------------------------------------------------
 
 ! AdGuard
 @@||adguard.com^
 
-! Apps (Mobile)
-@@||apester.com^
-!*.app.link
-
-! Misc
+! Misc (Breaking)
 @@|assets.dwell.com^
 @@|assets.mmsrg.com^
 @@|compass.pressekompass.net^
@@ -580,6 +268,9 @@
 
 ! NextDNS
 @@||nextdns.io^
+
+! Cookies on various sites (spiegle.de ...)
+@@||sp-prod.net^
 
 ! Polls on n-tv.de and other news sites
 @@|api.opinary.com^
@@ -643,7 +334,7 @@
 ! https://github.com/badmojr/1Hosts/issues/553
 @@|api.revenuecat.com^
 
-! HP Smart App
+! HP Smart App - Installation wizard not loading
 @@|mobilesdk-*.kampyle.com^
 
 ! https://github.com/AdAway/adaway.github.io/issues/309
@@ -704,14 +395,14 @@
 ! https://github.com/badmojr/1Hosts/issues/581
 @@|clientstream.launchdarkly.com^
 
-! ORF TVThek App
+! ORF TVThek App stucks on loading
 @@|at-config.sensic.net^
 
 ! https://github.com/hagezi/dns-blocklists/issues/13
 @@|img.myflixer.to^
 @@|myflixer.to^
 
-! ServusTV App won't start
+! ServusTV App stucks on loading screen
 @@|mobile-data.onetrust.io^
 
 ! store
@@ -768,7 +459,7 @@
 ! Verbraucherzentrale NRW (detected by NRD)
 @@|fakeshop-finder.nrw^
 
-! Breaks purchase processing on some shopping sides
+! Breaks Paypal purchase processing on some german shopping sides
 @@|*paypalxm.siteintercept.qualtrics.com^
 
 ! required for steam purchases
@@ -798,10 +489,11 @@
 @@|players.brightcove.net^
 
 ! https://github.com/notracking/hosts-blocklists/issues/787
-@@|m1.fwmrm.net^
-@@|m2.fwmrm.net^
-@@|mssl.fwmrm.net^
-@@|mssl.fwmrm.net.edgesuite.net^
+! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+!m1.fwmrm.net
+!m2.fwmrm.net
+!mssl.fwmrm.net
+!mssl.fwmrm.net.edgesuite.net
 
 ! https://github.com/notracking/hosts-blocklists/issues/786
 @@|above.com^
