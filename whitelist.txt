@@ -87,8 +87,13 @@ dmqdd6hw24ucf.cloudfront.net
 
 # Apple
 *.aaplimg.com
+*.apple
+*.apple-dns.net
+*.apps.apple.com
 *.gc.apple.com
 *.safebrowsing.apple
+*.smoot.apple.com
+*apple.com.akadns.net
 apple.tt.omtrdc.net
 appleglobal.*.2o7.net
 cstat.apple.com
@@ -101,10 +106,9 @@ mask.apple-dns.net
 mask.icloud.com
 ocsp*.apple.com
 securemvt.apple.com
-# https://github.com/hagezi/dns-blocklists/issues/17
-*.apps.apple.com
-*.smoot.apple.com
 smp-device-content.apple.com
+stats.gc.apple.com
+# https://github.com/hagezi/dns-blocklists/issues/17
 xp.apple.com
 
 # Certificates
@@ -115,7 +119,7 @@ xp.apple.com
 *.verisign.net
 
 # Cookie-/Privacymanagement (required) - do not block this via DNS, use content blocker like uBlock!
-# https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/cookies_whitelist.txt
+# https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Cookies/sections/cookies_allowlist.txt
 *.mgr.consensu.org
 *.sp-prod.net
 *cmp.quantcast.com
@@ -209,7 +213,6 @@ exacttarget.com.edgekey.net
 blog.disqus.com
 c.disquscdn.com
 d231vab146qzfb.cloudfront.net
-referrer.disqus.com
 
 # Facebook
 star*.facebook.com
@@ -239,7 +242,6 @@ ampcid.google.com
 ampcid.google.de
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
-androidtvwatsonfe-pa.googleapis.com
 clientservices.googleapis.com
 connectivitycheck.gstatic.com
 device-provisioning.googleapis.com
@@ -277,16 +279,25 @@ cdn.optimizely.com
 
 # Microsoft
 *.*-msedge.net
+*.events.data.microsoft.com
+*.events.data.trafficmanager.net
 *.msedge.net
 *.nexusrules.live.com.akadns.net
+*.office.com
+*.office.net
+*.office365.com
 *.officeapps.live.com
+*.outlook.com
+*.outlookmobile.com
+*.pipe.aria.microsoft.com
 *.rewardsplatform.microsoft.com
 *.smartscreen-prod.microsoft.com
 *.teams.live.com
 *.vortex.data.microsoft.com
+*api.*.microsoft.com
+*events-data.trafficmanager.net
 *microsoft.online-metrix.net
 activity.windows.com
-api.*.microsoft.com
 arc.msn.com
 atm-settingsfe-prod-geo*.trafficmanager.net
 beacon.*.c-msedge.net
@@ -309,6 +320,8 @@ settings-win.data.microsoft.com
 target.microsoft.com
 teams-events-data.trafficmanager.net
 teams.events.data.microsoft.com
+time.windows.com
+twc.trafficmanager.net
 v*.events.data.microsoft.com
 vlscppe.microsoft.com
 windowsupdate.s.llnwi.net
@@ -768,7 +781,8 @@ plugin.mediavoice.com
 cdn.stroeerdigitalgroup.de
 
 # Videos / Adblock detection on autosport.com
-static.adsafeprotected.com
+# !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
+# static.adsafeprotected.com
 
 # Breaks site layput on bankofamerica.com
 staticweb.bankofamerica.com
@@ -1077,6 +1091,6 @@ de.dhgate.com
 # IP Address Tools
 ipaddress.com
 
-# Breaks Windowsupdate in Virtualbox
+# Breaks Windowsupdate in VirtualBox
 *.api.iris.microsoft.com
 
