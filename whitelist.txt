@@ -263,6 +263,7 @@ playmoviesdfe-pa.googleapis.com
 safebrowsing.google.com
 safebrowsing.googleapis.com
 semanticlocation-pa.googleapis.com
+telephonyspamprotect-pa.googleapis.com
 userlocation.googleapis.com
 # Not used for tracking, metrics, analytics
 *.metric.gstatic.com
@@ -1072,4 +1073,7 @@ h-charter.online-metrix.net
 
 # DHgate shopping
 de.dhgate.com
+
+# IP Address Tools
+ipaddress.com
 
