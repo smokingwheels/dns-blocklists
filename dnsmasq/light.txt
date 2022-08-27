@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 26 Aug 2022 21:08 UTC
-# Version: 2022.0826.2108.37
+# Last modified: 27 Aug 2022 01:15 UTC
+# Version: 2022.0827.0115.45
 # Syntax: DNSMasq
-# Domains: 86694
+# Domains: 86691
 #
 address=/0-000.store/#
 address=/000123456789.online/#
@@ -27824,7 +27824,6 @@ address=/dorangesource.alicdn.com/#
 address=/dorat.de/#
 address=/dorbanise.pw/#
 address=/dorcelcash.com/#
-address=/doremido.com/#
 address=/doremi.ink/#
 address=/dorenda.de/#
 address=/dorfkrug-buttlar.de/#
@@ -34732,7 +34731,6 @@ address=/getalltraffic.com/#
 address=/getambassador.com/#
 address=/get-answers-fast.com/#
 address=/getapo.com/#
-address=/getapplicationmy.info/#
 address=/get-avast.com/#
 address=/getawaycontaminate.com/#
 address=/getawayspectaclejumped.com/#
@@ -69818,7 +69816,6 @@ address=/speedcurve.com/#
 address=/speeddials.opera.com/#
 address=/speedhq.net/#
 address=/speedingben.com/#
-address=/speednetwork14.com/#
 address=/speedomizer.com/#
 address=/speedrep.com/#
 address=/speedsagesleepy.com/#

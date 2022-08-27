@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day (update frequency)
-! Last modified: 26 Aug 2022 21:08 UTC
-! Version: 2022.0826.2108.37
+! Last modified: 27 Aug 2022 01:15 UTC
+! Version: 2022.0827.0115.45
 ! Syntax: AdBlock
-! Domains: 86694
+! Domains: 86691
 !
 ||0-000.store^
 ||000123456789.online^
@@ -27824,7 +27824,6 @@
 ||dorat.de^
 ||dorbanise.pw^
 ||dorcelcash.com^
-||doremido.com^
 ||doremi.ink^
 ||dorenda.de^
 ||dorfkrug-buttlar.de^
@@ -34732,7 +34731,6 @@
 ||getambassador.com^
 ||get-answers-fast.com^
 ||getapo.com^
-||getapplicationmy.info^
 ||get-avast.com^
 ||getawaycontaminate.com^
 ||getawayspectaclejumped.com^
@@ -69818,7 +69816,6 @@
 ||speeddials.opera.com^
 ||speedhq.net^
 ||speedingben.com^
-||speednetwork14.com^
 ||speedomizer.com^
 ||speedrep.com^
 ||speedsagesleepy.com^
