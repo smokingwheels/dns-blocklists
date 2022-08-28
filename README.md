@@ -97,7 +97,7 @@
 ### ***Threat Intelligence Feeds - Increases security significantly!***
 *An blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
-**Entries:** *394814 domains/hosts - 342396 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
+**Entries:** *394231 domains/hosts - 343626 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
