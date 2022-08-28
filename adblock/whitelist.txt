@@ -873,3 +873,6 @@
 ! Breaks Windowsupdate in VirtualBox
 @@||api.iris.microsoft.com^
 
+! https://github.com/AdAway/adaway.github.io/issues/251
+@@||perimeterx.net^
+
