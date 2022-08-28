@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 Aug 2022 20:57 UTC
-# Version: 2022.0826.2057.51
+# Last modified: 28 Aug 2022 07:34 UTC
+# Version: 2022.0828.0734.49
 # Syntax: Domains
-# Domains: 13469
+# Domains: 13395
 #
 10xcryptotrade.uk
 11trikots.com
@@ -139,7 +139,6 @@ airly-shop.de
 airmaxoutlet.net
 airmaxsale.de
 airsalo.com
-airycloth.com
 airyclub.com
 airydress.com
 aisope.at
@@ -284,7 +283,6 @@ annebarot.com
 annen.store
 anneschilk.com
 annettestaack.de
-anniecloth.com
 annivett.com
 anouksmit.com
 anowanda.com
@@ -605,7 +603,6 @@ berlinget.com
 berlintag.com
 berlinwind.shop
 berniebaerchen.de
-berrylook.com
 berzolana.com
 beschlaegeprofi.de
 beschwin.de
@@ -698,7 +695,6 @@ biologischestation.de
 biorampe.de
 bios-batterie-cmos.de
 biosteamo.com
-biovea.com
 biovea.net
 biromotion.de
 bis-estate.com
@@ -1116,7 +1112,6 @@ chicanti.com
 chichandbagsshop.com
 chicladdy.com
 chiclolo.com
-chicme.com
 chicsoda.de
 chicsoso.com
 chictogerther.com
@@ -1219,7 +1214,6 @@ coforallplus.com
 coinchaininvest.net
 coin-masterpro.com
 cokdolum.com
-cokodive.com
 colegiocaaso.org
 colli-cards.de
 cologogo.com
@@ -1257,7 +1251,6 @@ coolrevo.com
 coolsnow.at
 cooorful.com
 cooponline.de
-corachic.com
 cor-estate.com
 coriify.xyz
 cornature.top
@@ -1272,7 +1265,6 @@ cosmopoint.de
 cosmorent.at
 cosplayshow.com
 cosykitchen.store
-cotosen.com
 cougar.de.wundertesting.com
 countryattire.at
 coupleain.top
@@ -1389,7 +1381,6 @@ datemeile.de
 datingdeluxe.at
 datingdeluxe.ch
 datingdeluxe.de
-daughtersofindia.net
 daumueller-friseur.de
 daveintheshop.com
 davesaunderscfo.com
@@ -1495,7 +1486,6 @@ derumzugshelfer.at
 desamishop.com
 desayleddisplay.fr
 descontom.com
-de.shein.com
 deshopmytrendy.com
 designerdna.net
 designer-dream.com
@@ -1661,7 +1651,6 @@ dreirei.com
 dresdensein.com
 dresscodoff.ru
 dressfirst.com
-dresslily.com
 dressyin.de
 dr-estate.com
 drflix.de
@@ -1865,7 +1854,6 @@ emmaschultzkitten.com
 emmas-f.shop
 emmay.de
 emmerthal-tierarzt.de
-emmiol.com
 emmtekc.com
 emmys.at
 empire-hautiere.com
@@ -1913,7 +1901,6 @@ erektslim.com
 eremea.de
 ergo-ruhrgebiet.de
 ericalynnhang.com
-ericdress.com
 erika-diepold.at
 erikanicklheim.de
 erlkoenig-blog.de
@@ -2086,7 +2073,6 @@ fashion-s.shop
 fashiontoto.com
 fashion-traum.com
 fastel.top
-fastigeriptv.live
 fast-shoppy.com
 fasturbanlogistics.com
 fastyslim.de
@@ -2548,7 +2534,6 @@ gmixnchic.com
 gnarty.xyz
 gnatsion.top
 goandfind.online
-goat.com
 gocosmeticsurgery.com
 godcontroller.de
 godwinkaluco.com
@@ -2623,7 +2608,6 @@ gpswebshop.com
 grabateea.com
 gradine.top
 grafosignsv.com
-grandado.com
 grandeurlux.com
 grandgardens.store
 grandiancia.com
@@ -2703,7 +2687,6 @@ haemfier.top
 hagedornmode.de
 hairmpress.com
 haleybaby.com
-halipax.com
 hallobh.de
 hallohaus.co
 hallohaus.com
@@ -2770,7 +2753,6 @@ haustierbedarf-friedman.com
 hausttion.top
 haveivtax.shop
 hawaiird.com
-hawalili.com
 hawalili.de
 haweyltd.com
 hbb31.com
@@ -3142,7 +3124,6 @@ i-translogistics.com
 itudinfy.top
 iued.ch
 ivi-design.de
-ivrose.com
 iwohepi.com
 iwoodpark.com
 ixrapido.top
@@ -3634,7 +3615,6 @@ lingoget.com
 linh-nguyen.de
 lioray.com
 lisaundich.de
-litfad.com
 litise.com
 litrust.top
 littlebo.at
@@ -4101,7 +4081,6 @@ mmydcnz.com
 mnanatur.com
 mnemonage.top
 mnlsbjsy.com
-mnml.la
 mobiflix.de
 mobileklean.com
 modaso.store
@@ -4140,7 +4119,6 @@ modplay.de
 modulerdekor.com
 moebelhaus-clovis.de
 moelleraktivhof.de
-mofylook.com
 mogmoc.com
 mohr24.com
 moidapp.com
@@ -4270,7 +4248,6 @@ myhobbyclub.com
 myhomestore.club
 myhomica.com
 myhousehold.store
-myka.com
 mykundenservice.com
 myleadcorner.com
 mylittlebikes.uk
@@ -4370,7 +4347,6 @@ nevermindshoes.com
 newbalancesaleschuhe.de
 newbalancesneakers.de.com
 new-chakra.com
-newchic.com
 newgadgetst.com
 newland-travel.com
 new-promotions24.com
@@ -4441,7 +4417,6 @@ noneose.top
 noobwatch03.io
 nooranenonen.com
 nootica.de
-noracora.com
 noral.xyz
 nordiccoastgames.de
 nordic-landbruksmaskiner.com
@@ -4488,7 +4463,6 @@ nunuwax.top
 nurbest.com
 nurdasbeste-naumann.de
 nur-uhren.de
-nuubu.com
 nuxxu.de
 nygsaxx.top
 nze.com
@@ -5282,8 +5256,6 @@ roomflix.de
 roomster.top
 rosasommer.com
 rosedoris.com
-rosegal.com
-roselinlin.com
 rosemaryf.com
 rosenzeit-koeln.de
 rosetata.com
@@ -5585,7 +5557,6 @@ shoppro.ch
 shop.qrp-labs.com
 shoprosada.com
 shops-eminem.com
-shop.shopcider.com
 shoptoklove.site
 shoptumisales.de
 shopvaley.com
@@ -5703,7 +5674,6 @@ sonnesucht.de
 sonnighof.de
 sonoransurplus.com
 sonryobig.com
-soolinen.com
 soporcy.top
 sorelwien.at
 sosaalejandrooshit.com
@@ -5889,7 +5859,6 @@ style-sensation.com
 stylesock.com
 styletaken.com
 stylewe.biz
-stylewe.com
 stylewe.info
 stylishlittle.com
 subifyl.top
@@ -5994,7 +5963,6 @@ tavatta.de
 tayamacctv.com
 tazreiter-holz.at
 tbamixo.com
-tbdress.com
 tcgsonlineshop.com
 tdubtunes.com
 tealbicycle.com
@@ -6126,7 +6094,6 @@ theoprax-sachsen.de
 theordinaryme.de
 thepeppymay.com
 thephones.net
-thephotostick.com
 thermofalke.de
 thermomix.world
 thermoshapers.de
@@ -6471,7 +6438,6 @@ vacplux.com
 vaggv.com
 vagity.top
 vagomarkt.com
-vakkerlight.com
 valanza.de
 valepina.de
 valurabeauty.com
@@ -6603,7 +6569,6 @@ vital-rezeptfrei.de
 vitamin-schmiede24.de
 vite-envogue.de
 vitev.net
-vivaiacollection.com
 viva-med.de
 vivianelektro.de
 vivieann.de
@@ -6661,7 +6626,6 @@ vrroshan.com
 vsahiltd.com
 vs-home.de
 vskydive.top
-vsmee.com
 vsmitterdorf-raab.at
 vsygu.top
 vtecnokar.com
@@ -6707,7 +6671,6 @@ waydepott.com
 wayneptw.org
 waynewrite.com
 wayplay.de
-wayrates.com
 waysla.com
 waziwazi.de
 wearejaycobrand.com
@@ -7015,7 +6978,6 @@ www.airly-shop.de
 www.airmaxoutlet.net
 www.airmaxsale.de
 www.airsalo.com
-www.airycloth.com
 www.airyclub.com
 www.airydress.com
 www.aisope.at
@@ -7150,7 +7112,6 @@ www.annebarot.com
 www.annen.store
 www.anneschilk.com
 www.annettestaack.de
-www.anniecloth.com
 www.anouksmit.com
 www.anowanda.com
 www.anthead.club
@@ -7438,7 +7399,6 @@ www.berlinget.com
 www.berlintag.com
 www.berlinwind.shop
 www.berniebaerchen.de
-www.berrylook.com
 www.berzolana.com
 www.beschlaegeprofi.de
 www.beschwin.de
@@ -7524,7 +7484,6 @@ www.biologischestation.de
 www.biorampe.de
 www.bios-batterie-cmos.de
 www.biosteamo.com
-www.biovea.com
 www.biovea.net
 www.biromotion.de
 www.bis-estate.com
@@ -7917,7 +7876,6 @@ www.chicanti.com
 www.chichandbagsshop.com
 www.chicladdy.com
 www.chiclolo.com
-www.chicme.com
 www.chicsoda.de
 www.chicsoso.com
 www.chictogerther.com
@@ -8010,7 +7968,6 @@ www.coforallplus.com
 www.coinchaininvest.net
 www.coin-masterpro.com
 www.cokdolum.com
-www.cokodive.com
 www.colegiocaaso.org
 www.colli-cards.de
 www.cologogo.com
@@ -8047,7 +8004,6 @@ www.coolrevo.com
 www.coolsnow.at
 www.cooorful.com
 www.cooponline.de
-www.corachic.com
 www.cor-estate.com
 www.cornature.top
 www.cornelia-schaefer.de
@@ -8061,7 +8017,6 @@ www.cosmopoint.de
 www.cosmorent.at
 www.cosplayshow.com
 www.cosykitchen.store
-www.cotosen.com
 www.countryattire.at
 www.coupleain.top
 www.courier-go.com
@@ -8165,7 +8120,6 @@ www.datemeile.de
 www.datingdeluxe.at
 www.datingdeluxe.ch
 www.datingdeluxe.de
-www.daughtersofindia.net
 www.daumueller-friseur.de
 www.daveintheshop.com
 www.davesaunderscfo.com
@@ -8396,7 +8350,6 @@ www.dreirei.com
 www.dresdensein.com
 www.dresscodoff.ru
 www.dressfirst.com
-www.dresslily.com
 www.dressyin.de
 www.dr-estate.com
 www.drflix.de
@@ -8583,7 +8536,6 @@ www.emma-matraze.com
 www.emmaschultzkitten.com
 www.emmas-f.shop
 www.emmay.de
-www.emmiol.com
 www.emmtekc.com
 www.emmys.at
 www.empire-hautiere.com
@@ -8631,7 +8583,6 @@ www.erektslim.com
 www.eremea.de
 www.ergo-ruhrgebiet.de
 www.ericalynnhang.com
-www.ericdress.com
 www.erika-diepold.at
 www.erikanicklheim.de
 www.erlkoenig-blog.de
@@ -8783,7 +8734,6 @@ www.fashionmia.com
 www.fashiontoto.com
 www.fashion-traum.com
 www.fastel.top
-www.fastigeriptv.live
 www.fast-shoppy.com
 www.fasturbanlogistics.com
 www.fastyslim.de
@@ -9214,7 +9164,6 @@ www.gma-2015.de
 www.gmixnchic.com
 www.gnatsion.top
 www.goandfind.online
-www.goat.com
 www.gocosmeticsurgery.com
 www.godcontroller.de
 www.godwinkaluco.com
@@ -9277,7 +9226,6 @@ www.gpswebshop.com
 www.grabateea.com
 www.gradine.top
 www.grafosignsv.com
-www.grandado.com
 www.grandeurlux.com
 www.grandgardens.store
 www.grandiancia.com
@@ -9349,7 +9297,6 @@ www.haemfier.top
 www.hagedornmode.de
 www.hairmpress.com
 www.haleybaby.com
-www.halipax.com
 www.hallobh.de
 www.hallohaus.co
 www.hallohaus.com
@@ -9408,7 +9355,6 @@ www.haustierbedarf-friedman.com
 www.hausttion.top
 www.haveivtax.shop
 www.hawaiird.com
-www.hawalili.com
 www.hawalili.de
 www.haweyltd.com
 www.hbb31.com
@@ -9749,7 +9695,6 @@ www.i-translogistics.com
 www.itudinfy.top
 www.iued.ch
 www.ivi-design.de
-www.ivrose.com
 www.iwohepi.com
 www.iwoodpark.com
 www.ixrapido.top
@@ -10215,7 +10160,6 @@ www.lingoget.com
 www.linh-nguyen.de
 www.lioray.com
 www.lisaundich.de
-www.litfad.com
 www.litise.com
 www.litrust.top
 www.littlebo.at
@@ -10638,7 +10582,6 @@ www.mmydcnz.com
 www.mnanatur.com
 www.mnemonage.top
 www.mnlsbjsy.com
-www.mnml.la
 www.mobiflix.de
 www.mobileklean.com
 www.modaso.store
@@ -10668,7 +10611,6 @@ www.modplay.de
 www.modulerdekor.com
 www.moebelhaus-clovis.de
 www.moelleraktivhof.de
-www.mofylook.com
 www.mohr24.com
 www.moidapp.com
 www.mokasy.de
@@ -10784,7 +10726,6 @@ www.myhobbyclub.com
 www.myhomestore.club
 www.myhomica.com
 www.myhousehold.store
-www.myka.com
 www.mykundenservice.com
 www.myleadcorner.com
 www.mylittlebikes.uk
@@ -10875,7 +10816,6 @@ www.neverial.top
 www.nevermindshoes.com
 www.newbalancesaleschuhe.de
 www.new-chakra.com
-www.newchic.com
 www.newgadgetst.com
 www.newland-travel.com
 www.new-promotions24.com
@@ -10941,7 +10881,6 @@ www.noneose.top
 www.noobwatch03.io
 www.nooranenonen.com
 www.nootica.de
-www.noracora.com
 www.nordiccoastgames.de
 www.nordic-landbruksmaskiner.com
 www.nordischesdesign.com
@@ -10983,7 +10922,6 @@ www.nunuwax.top
 www.nurbest.com
 www.nurdasbeste-naumann.de
 www.nur-uhren.de
-www.nuubu.com
 www.nuxxu.de
 www.nygsaxx.top
 www.nze.com
@@ -11716,8 +11654,6 @@ www.roomflix.de
 www.roomster.top
 www.rosasommer.com
 www.rosedoris.com
-www.rosegal.com
-www.roselinlin.com
 www.rosemaryf.com
 www.rosenzeit-koeln.de
 www.rosetata.com
@@ -12099,7 +12035,6 @@ www.sonnesucht.de
 www.sonnighof.de
 www.sonoransurplus.com
 www.sonryobig.com
-www.soolinen.com
 www.soporcy.top
 www.sorelwien.at
 www.sosaalejandrooshit.com
@@ -12267,7 +12202,6 @@ www.styleiu.com
 www.style-sensation.com
 www.stylesock.com
 www.styletaken.com
-www.stylewe.com
 www.stylishlittle.com
 www.subifyl.top
 www.success-minds.com
@@ -12365,7 +12299,6 @@ www.tavatta.de
 www.tayamacctv.com
 www.tazreiter-holz.at
 www.tbamixo.com
-www.tbdress.com
 www.tcgsonlineshop.com
 www.tdubtunes.com
 www.tealbicycle.com
@@ -12487,7 +12420,6 @@ www.theoprax-sachsen.de
 www.theordinaryme.de
 www.thepeppymay.com
 www.thephones.net
-www.thephotostick.com
 www.thermofalke.de
 www.thermomix.world
 www.thermoshapers.de
@@ -12797,7 +12729,6 @@ www.vacplux.com
 www.vaggv.com
 www.vagity.top
 www.vagomarkt.com
-www.vakkerlight.com
 www.valanza.de
 www.valurabeauty.com
 www.vancetaylor.com
@@ -12913,7 +12844,6 @@ www.vital-rezeptfrei.de
 www.vitamin-schmiede24.de
 www.vite-envogue.de
 www.vitev.net
-www.vivaiacollection.com
 www.viva-med.de
 www.vivianelektro.de
 www.vivieann.de
@@ -12966,7 +12896,6 @@ www.vrroshan.com
 www.vsahiltd.com
 www.vs-home.de
 www.vskydive.top
-www.vsmee.com
 www.vsmitterdorf-raab.at
 www.vsygu.top
 www.vtecnokar.com
@@ -13008,7 +12937,6 @@ www.waydepott.com
 www.wayneptw.org
 www.waynewrite.com
 www.wayplay.de
-www.wayrates.com
 www.waysla.com
 www.waziwazi.de
 www.wearejaycobrand.com
@@ -13267,7 +13195,6 @@ www.yyds6.store
 www.yydspan.com
 www.zabuehner.de
 www.zacha-hokej.cz
-www.zaful.com
 www.zagose.com
 www.zainabchemicals.com
 www.zamoda.co
@@ -13416,7 +13343,6 @@ yyds6.store
 yydspan.com
 zabuehner.de
 zacha-hokej.cz
-zaful.com
 zagose.com
 zainabchemicals.com
 zamoda.co

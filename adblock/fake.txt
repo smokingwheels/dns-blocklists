@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 26 Aug 2022 20:57 UTC
-! Version: 2022.0826.2057.51
+! Last modified: 28 Aug 2022 07:34 UTC
+! Version: 2022.0828.0734.49
 ! Syntax: AdBlock
-! Domains: 7013
+! Domains: 6977
 !
 ||10xcryptotrade.uk^
 ||11trikots.com^
@@ -138,7 +138,6 @@
 ||airmaxoutlet.net^
 ||airmaxsale.de^
 ||airsalo.com^
-||airycloth.com^
 ||airyclub.com^
 ||airydress.com^
 ||aisope.at^
@@ -283,7 +282,6 @@
 ||annen.store^
 ||anneschilk.com^
 ||annettestaack.de^
-||anniecloth.com^
 ||annivett.com^
 ||anouksmit.com^
 ||anowanda.com^
@@ -602,7 +600,6 @@
 ||berlintag.com^
 ||berlinwind.shop^
 ||berniebaerchen.de^
-||berrylook.com^
 ||berzolana.com^
 ||beschlaegeprofi.de^
 ||beschwin.de^
@@ -695,7 +692,6 @@
 ||biorampe.de^
 ||bios-batterie-cmos.de^
 ||biosteamo.com^
-||biovea.com^
 ||biovea.net^
 ||biromotion.de^
 ||bis-estate.com^
@@ -1112,7 +1108,6 @@
 ||chichandbagsshop.com^
 ||chicladdy.com^
 ||chiclolo.com^
-||chicme.com^
 ||chicsoda.de^
 ||chicsoso.com^
 ||chictogerther.com^
@@ -1215,7 +1210,6 @@
 ||coinchaininvest.net^
 ||coin-masterpro.com^
 ||cokdolum.com^
-||cokodive.com^
 ||colegiocaaso.org^
 ||colli-cards.de^
 ||cologogo.com^
@@ -1253,7 +1247,6 @@
 ||coolsnow.at^
 ||cooorful.com^
 ||cooponline.de^
-||corachic.com^
 ||cor-estate.com^
 ||coriify.xyz^
 ||cornature.top^
@@ -1268,7 +1261,6 @@
 ||cosmorent.at^
 ||cosplayshow.com^
 ||cosykitchen.store^
-||cotosen.com^
 ||countryattire.at^
 ||coupleain.top^
 ||courier-go.com^
@@ -1384,7 +1376,6 @@
 ||datingdeluxe.at^
 ||datingdeluxe.ch^
 ||datingdeluxe.de^
-||daughtersofindia.net^
 ||daumueller-friseur.de^
 ||daveintheshop.com^
 ||davesaunderscfo.com^
@@ -1459,6 +1450,7 @@
 ||denaked.com^
 ||den-danske.com^
 ||dendelberg-kr.de^
+||de.newchic.com^
 ||den-home.com^
 ||denumo.de^
 ||deonline.2021dealsoutlet.com^
@@ -1482,7 +1474,6 @@
 ||desamishop.com^
 ||desayleddisplay.fr^
 ||descontom.com^
-||de.shein.com^
 ||deshopmytrendy.com^
 ||designerdna.net^
 ||designer-dream.com^
@@ -1499,6 +1490,7 @@
 ||de.storesonline2021.ru^
 ||de.tour-home.com^
 ||deuducht.de^
+||deu.grandado.com^
 ||deuhr.de^
 ||deutere.com^
 ||deutsche-bit.de^
@@ -1646,7 +1638,6 @@
 ||dresdensein.com^
 ||dresscodoff.ru^
 ||dressfirst.com^
-||dresslily.com^
 ||dressyin.de^
 ||dr-estate.com^
 ||drflix.de^
@@ -1849,7 +1840,6 @@
 ||emmas-f.shop^
 ||emmay.de^
 ||emmerthal-tierarzt.de^
-||emmiol.com^
 ||emmtekc.com^
 ||emmys.at^
 ||empire-hautiere.com^
@@ -1897,7 +1887,6 @@
 ||eremea.de^
 ||ergo-ruhrgebiet.de^
 ||ericalynnhang.com^
-||ericdress.com^
 ||erika-diepold.at^
 ||erikanicklheim.de^
 ||erlkoenig-blog.de^
@@ -2067,7 +2056,6 @@
 ||fashiontoto.com^
 ||fashion-traum.com^
 ||fastel.top^
-||fastigeriptv.live^
 ||fast-shoppy.com^
 ||fasturbanlogistics.com^
 ||fastyslim.de^
@@ -2528,7 +2516,6 @@
 ||gnarty.xyz^
 ||gnatsion.top^
 ||goandfind.online^
-||goat.com^
 ||gocosmeticsurgery.com^
 ||godcontroller.de^
 ||godwinkaluco.com^
@@ -2603,7 +2590,6 @@
 ||grabateea.com^
 ||gradine.top^
 ||grafosignsv.com^
-||grandado.com^
 ||grandeurlux.com^
 ||grandgardens.store^
 ||grandiancia.com^
@@ -2683,7 +2669,6 @@
 ||hagedornmode.de^
 ||hairmpress.com^
 ||haleybaby.com^
-||halipax.com^
 ||hallobh.de^
 ||hallohaus.co^
 ||hallohaus.com^
@@ -2750,7 +2735,6 @@
 ||hausttion.top^
 ||haveivtax.shop^
 ||hawaiird.com^
-||hawalili.com^
 ||hawalili.de^
 ||haweyltd.com^
 ||hbb31.com^
@@ -3120,7 +3104,6 @@
 ||itudinfy.top^
 ||iued.ch^
 ||ivi-design.de^
-||ivrose.com^
 ||iwohepi.com^
 ||iwoodpark.com^
 ||ixrapido.top^
@@ -3611,7 +3594,6 @@
 ||linh-nguyen.de^
 ||lioray.com^
 ||lisaundich.de^
-||litfad.com^
 ||litise.com^
 ||litrust.top^
 ||littlebo.at^
@@ -4078,7 +4060,6 @@
 ||mnanatur.com^
 ||mnemonage.top^
 ||mnlsbjsy.com^
-||mnml.la^
 ||mobiflix.de^
 ||mobileklean.com^
 ||modaso.store^
@@ -4117,7 +4098,6 @@
 ||modulerdekor.com^
 ||moebelhaus-clovis.de^
 ||moelleraktivhof.de^
-||mofylook.com^
 ||mogmoc.com^
 ||mohr24.com^
 ||moidapp.com^
@@ -4247,7 +4227,6 @@
 ||myhomestore.club^
 ||myhomica.com^
 ||myhousehold.store^
-||myka.com^
 ||mykundenservice.com^
 ||myleadcorner.com^
 ||mylittlebikes.uk^
@@ -4347,7 +4326,6 @@
 ||newbalancesaleschuhe.de^
 ||newbalancesneakers.de.com^
 ||new-chakra.com^
-||newchic.com^
 ||newgadgetst.com^
 ||newland-travel.com^
 ||new-promotions24.com^
@@ -4418,7 +4396,6 @@
 ||noobwatch03.io^
 ||nooranenonen.com^
 ||nootica.de^
-||noracora.com^
 ||noral.xyz^
 ||nordiccoastgames.de^
 ||nordic-landbruksmaskiner.com^
@@ -4465,7 +4442,6 @@
 ||nurbest.com^
 ||nurdasbeste-naumann.de^
 ||nur-uhren.de^
-||nuubu.com^
 ||nuxxu.de^
 ||nygsaxx.top^
 ||nze.com^
@@ -5258,8 +5234,6 @@
 ||roomster.top^
 ||rosasommer.com^
 ||rosedoris.com^
-||rosegal.com^
-||roselinlin.com^
 ||rosemaryf.com^
 ||rosenzeit-koeln.de^
 ||rosetata.com^
@@ -5560,7 +5534,6 @@
 ||shop.qrp-labs.com^
 ||shoprosada.com^
 ||shops-eminem.com^
-||shop.shopcider.com^
 ||shoptoklove.site^
 ||shoptumisales.de^
 ||shopvaley.com^
@@ -5678,7 +5651,6 @@
 ||sonnighof.de^
 ||sonoransurplus.com^
 ||sonryobig.com^
-||soolinen.com^
 ||soporcy.top^
 ||sorelwien.at^
 ||sosaalejandrooshit.com^
@@ -5863,7 +5835,6 @@
 ||stylesock.com^
 ||styletaken.com^
 ||stylewe.biz^
-||stylewe.com^
 ||stylewe.info^
 ||stylishlittle.com^
 ||subifyl.top^
@@ -5967,7 +5938,6 @@
 ||tayamacctv.com^
 ||tazreiter-holz.at^
 ||tbamixo.com^
-||tbdress.com^
 ||tcgsonlineshop.com^
 ||tdubtunes.com^
 ||tealbicycle.com^
@@ -6099,7 +6069,6 @@
 ||theordinaryme.de^
 ||thepeppymay.com^
 ||thephones.net^
-||thephotostick.com^
 ||thermofalke.de^
 ||thermomix.world^
 ||thermoshapers.de^
@@ -6444,7 +6413,6 @@
 ||vaggv.com^
 ||vagity.top^
 ||vagomarkt.com^
-||vakkerlight.com^
 ||valanza.de^
 ||valepina.de^
 ||valurabeauty.com^
@@ -6576,7 +6544,6 @@
 ||vitamin-schmiede24.de^
 ||vite-envogue.de^
 ||vitev.net^
-||vivaiacollection.com^
 ||viva-med.de^
 ||vivianelektro.de^
 ||vivieann.de^
@@ -6634,7 +6601,6 @@
 ||vsahiltd.com^
 ||vs-home.de^
 ||vskydive.top^
-||vsmee.com^
 ||vsmitterdorf-raab.at^
 ||vsygu.top^
 ||vtecnokar.com^
@@ -6680,7 +6646,6 @@
 ||wayneptw.org^
 ||waynewrite.com^
 ||wayplay.de^
-||wayrates.com^
 ||waysla.com^
 ||waziwazi.de^
 ||wearejaycobrand.com^
@@ -6960,7 +6925,6 @@
 ||yydspan.com^
 ||zabuehner.de^
 ||zacha-hokej.cz^
-||zaful.com^
 ||zagose.com^
 ||zainabchemicals.com^
 ||zamoda.co^

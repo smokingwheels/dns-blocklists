@@ -79,7 +79,7 @@
 ### ***Fake - Protects against internet scams, traps & fakes!***
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
-**Entries:** *13469 domains/hosts - 7013 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
+**Entries:** *13395 domains/hosts - 6977 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
