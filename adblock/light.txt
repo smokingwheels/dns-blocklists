@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day (update frequency)
-! Last modified: 27 Aug 2022 20:40 UTC
-! Version: 2022.0827.2040.15
+! Last modified: 28 Aug 2022 01:17 UTC
+! Version: 2022.0828.0117.12
 ! Syntax: AdBlock
-! Domains: 92065
+! Domains: 92052
 !
 ||0-000.store^
 ||000123456789.online^
@@ -2441,6 +2441,7 @@
 ||666773.xyz^
 ||666774.xyz^
 ||666775.xyz^
+||666776.xyz^
 ||6667778882021.site^
 ||6669667.com^
 ||666video.asia^
@@ -10069,7 +10070,6 @@
 ||affiliate.bfashion.com^
 ||affiliate.chiaki.vn^
 ||affiliateclick.com^
-||affiliate.conibet.com^
 ||affiliate.coral.co.uk^
 ||affiliate.domaindirect.net^
 ||affiliate.doubleyourdating.com^
@@ -12616,7 +12616,6 @@
 ||antaciddjebel.com^
 ||antalithate.website^
 ||antalya.ru^
-||antanaanarbdivu.com^
 ||antananarbdivu.com^
 ||antaraimedia.com^
 ||antarctic.com^
@@ -12776,6 +12775,7 @@
 ||aorms.com^
 ||aorpum.com^
 ||aosafrica.co.za^
+||aovpnal.cn^
 ||aoxiang.fun^
 ||aoyou2.top^
 ||aoyou3.top^
@@ -15096,7 +15096,6 @@
 ||aw-handel.de^
 ||a.wifi33.com^
 ||awigglespouter.cam^
-||awigglespouter.com^
 ||awleo.cn^
 ||awltovhc.com^
 ||awmbed.com^
@@ -18350,7 +18349,6 @@
 ||bookmark.hatenaapis.com^
 ||bookmarksync.com^
 ||bookmrk.us^
-||bookmrqafuftc.com^
 ||bookmsg.com^
 ||bookmtpo.com^
 ||bookofsex.com^
@@ -25282,7 +25280,6 @@
 ||crevicedepressingpumpkin.com^
 ||crewelkain.com^
 ||crglpt.com^
-||crglqvnn.com^
 ||c.rhapsody.com^
 ||criantsleck.com^
 ||criarnegocio9258.collectblogs.com^
@@ -26117,7 +26114,6 @@
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1ezlc9vy4yc7g.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
-||d1f05vr3sjsuy7.clundfront.net^
 ||d1f1lqyq09pe4q.cloudfront.net^
 ||d1f34.com^
 ||d1f5rbi95y1icu.cloudfront.net^
@@ -29005,7 +29001,6 @@
 ||dl6pkf7e.ru^
 ||dl8.me^
 ||dl.9xu.com^
-||dlaatjllingd.com^
 ||dlabgacamiphanel.tk^
 ||dlads.cn^
 ||dlanshop.com^
@@ -30132,6 +30127,7 @@
 ||dvsongrlf.top^
 ||dvunyhdjacox.com^
 ||dvv9dkv.site^
+||dvvnhwm.cn^
 ||dvypar.com^
 ||dw0c.sfr.fr^
 ||dw55pg05c2rl5.cloudfront.net^
@@ -31214,7 +31210,6 @@
 ||e.kde.cz^
 ||ekdj30.com^
 ||ekeide.com^
-||eki-net.wj80pb6b.com.cn^
 ||eklcma.com^
 ||ekmas.com^
 ||ekmpinpoint.com^
@@ -34610,7 +34605,6 @@
 ||fjjkq.cn^
 ||fjlpyz.cn^
 ||fjmeyer.com^
-||fjmxwdjopekpa.com^
 ||fjqtyu.bethowen.ru^
 ||fjrfjrsitenchdnfjr.org^
 ||fjrkn.com^
@@ -39961,6 +39955,7 @@
 ||hflwgg.xyz^
 ||hfma.demdex.net^
 ||hfoyjg.cn^
+||hfp.intuit.com^
 ||hfrytno.cn^
 ||hfwzbp.cn^
 ||hfyxdl.com^
@@ -45070,7 +45065,6 @@
 ||js.bronto.com^
 ||js.brow.si^
 ||js.bulkhentai.com^
-||js.cabnner.com^
 ||jsccnn.com^
 ||jscdndel.com^
 ||jscdn.online^
@@ -45874,7 +45868,6 @@
 ||kfnvrt.xyz^
 ||kfoodsupp.com^
 ||kfweo2.com^
-||kfyffxeilchdv.com^
 ||kfz-hogen.de^
 ||kfzhph.bonprix.pl^
 ||kga9szxosa.appspot.com^
@@ -50572,7 +50565,6 @@
 ||marcveriont.de^
 ||ma.register.it^
 ||marerajahcopied.com^
-||maret.live^
 ||marezzojubate.com^
 ||margaretanddavid.com^
 ||margareteworm.de^
@@ -51052,7 +51044,6 @@
 ||marootrack.co^
 ||maropado24.de^
 ||marosq.top^
-||marout.bloodteethrub.top^
 ||marphezis.com^
 ||marquesvogt.com^
 ||marrbudm.top^
@@ -58979,7 +58970,6 @@
 ||oolakanunafire.com^
 ||oolongtime.com^
 ||oolraimt.net^
-||oolteomdbgwtxdq.com^
 ||oomll.cn^
 ||oomsoapt.net^
 ||oomtexoa.com^
@@ -59256,6 +59246,7 @@
 ||opvanillishan.com^
 ||opx.beforeitsnews.com^
 ||opxnwz.shop^
+||opymgaj.cn^
 ||oq68.com^
 ||oqbimz.aviasales.ru^
 ||oqfdan.cn^
@@ -61264,7 +61255,6 @@
 ||phagueq.cn^
 ||phaikroo.net^
 ||phaiksul.net^
-||phajusjungled.website^
 ||phalaron.top^
 ||phalingy.net^
 ||phallicuncut.com^
@@ -66714,6 +66704,7 @@
 ||reoxclick.com^
 ||rep0pkgr.com^
 ||repairedbringstale.com^
+||repbdso.cn^
 ||repbowdew.com^
 ||repdata.usatoday.com^
 ||repeatsweater.com^
@@ -66914,7 +66905,6 @@
 ||response2.buydomains.com^
 ||response.arizonacoyotes.com^
 ||response.emoneyadvisor.com^
-||responseinfogets.gq^
 ||response.miracle-recreation.com^
 ||response.pure360.com^
 ||responservbzh.icu^
@@ -67905,6 +67895,7 @@
 ||rrss.abc.es^
 ||rrsubway.com^
 ||rrtwda9.com^
+||rrysogsiz.uno^
 ||rs0.co.uk^
 ||rs1.qq.com^
 ||rs2.qq.com^
@@ -67920,7 +67911,6 @@
 ||rsc.lepoint.fr^
 ||rs-context.ru^
 ||rsc.scmspain.com^
-||rscvoxgydn.com^
 ||rscxwmj.cn^
 ||rsepv.com^
 ||rsf-services.de^
@@ -70031,7 +70021,6 @@
 ||seed.bitcoin.sprovoost.nl^
 ||seed.bitcoin.wiz.biz^
 ||seed.btc.petertodd.org^
-||seedcoms.site^
 ||seeder.igetget.com^
 ||seed-media.net^
 ||seedoupo.com^
@@ -78496,7 +78485,6 @@
 ||te.boston.com^
 ||tebrand.asia^
 ||tebrand.vn^
-||teccahoyllqlwg.com^
 ||techadsmedia.com^
 ||techahv.com^
 ||techain.baidu.com^
@@ -84639,6 +84627,7 @@
 ||urvousx.com^
 ||urwnsq.xyz^
 ||urxbvw.tui.nl^
+||urysogsit.uno^
 ||us01-analysis.ymcart.com^
 ||us1.exponea.com^
 ||us1-sdk.bluedot.io^
@@ -84862,7 +84851,6 @@
 ||utarget.ru^
 ||utcatholicycl.co^
 ||utctime.tiltingpoint.io^
-||utebrvspujprf.com^
 ||utemomac.ru^
 ||utenod.com^
 ||utensils.pro^
@@ -89350,7 +89338,6 @@
 ||wz.allianz.fr^
 ||wzcjbd.com^
 ||wzdzht7am5.com^
-||wzejk.seriesry.xyz^
 ||wzjijia.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||wzjs.me^
@@ -89504,6 +89491,7 @@
 ||xcvgdf.party^
 ||xcwzq.xyz^
 ||xd0ownl0adx.com^
+||xd4a.top^
 ||xdadevelopers.browsi.mobi^
 ||x.da.hunantv.com^
 ||xdcqcyp.com^
@@ -91119,7 +91107,6 @@
 ||yyxjt.cloud^
 ||yyxrm.com^
 ||yyy6999.com^
-||yyymcz.partyseeme.xyz^
 ||yyys.shop^
 ||yyyyt.ltd^
 ||yyzkf.com^
