@@ -502,6 +502,7 @@
 @@||tracker.marinsm.com^
 @@||tracking.publicidees.com^
 @@||tracking.truthfinder.com^
+@@||track.seadform.net^
 @@||track.webgains.com^
 @@||trk.klclick1.com^
 @@||trk.klclick3.com^

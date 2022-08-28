@@ -876,3 +876,18 @@
 ! https://github.com/AdAway/adaway.github.io/issues/251
 @@||perimeterx.net^
 
+! Images/ media on sports.bwin.de
+@@|scmedia.itsfogo.com^
+@@|media.itsfogo.com^
+
+! Videos on bunte.de
+@@|hgc-cf-cache-1.svonm.com^
+
+! Site layout on cinemaxx.de
+! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+!securepubads.g.doubleclick.net
+!googletagservices.com
+
+! co.de / subdomains.com
+@@|co.de^
+
