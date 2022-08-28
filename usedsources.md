@@ -271,9 +271,12 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 105 |      95% |   1% |      4% | black.list.threat-intelligence
 ```
 #### DOH-VPN-PROXY-BYPASS
+[whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-dead.txt)
 ```
+2283 total unique domains | 950 (42%) included | 0 (0%) removed | 1333 (58%) dead
+
  Nr | Included | Dead | Removed | URL/File
-  1 |      91% |   8% |      0% | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+  1 |      92% |   8% |      0% | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
   2 |      94% |   6% |      0% | https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt
   3 |      95% |   5% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
   4 |      93% |   7% |      0% | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains
@@ -281,12 +284,18 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
   6 |      90% |  10% |      0% | black.list.dohdot
 ```
 #### NOSAFESEARCH
+[whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/nosafesearch-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/nosafesearch-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/nosafesearch-removed-dead.txt)
 ```
+163 total unique domains | 137 (84%) included | 0 (0%) removed | 26 (16%) dead
+
  Nr | Included | Dead | Removed | URL/File
   1 |      84% |  16% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported
 ```
 #### DYNDNS
+[whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/dyndns-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/dyndns-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/dyndns-removed-dead.txt)
 ```
+789 total unique domains | 774 (98%) included | 0 (0%) removed | 15 (2%) dead
+
  Nr | Included | Dead | Removed | URL/File
   1 |      98% |   2% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/suffixes
 ```
